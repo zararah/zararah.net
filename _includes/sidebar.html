@@ -1,0 +1,11 @@
+<h3>About Me</h3>
+
+<p>My name is Zara.</p>
+
+<h3>Recent posts</h3>
+
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
