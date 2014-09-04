@@ -1,16 +1,31 @@
+
+<html>
+  <head>
+    <title>{{ page.title }} - zararah.net Zara Rahman</title>
+    <meta name="author" content="Zara Rahman" />
+    <meta name="description" content="{{page.description}}" />
+    <meta name="keywords" content="Zara Rahman, zararah," />
+
 	<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="css/style.css" />
-	<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.min.css">
+	<link href="//fonts.googleapis.com/css?family=Cabin:400italic,400,500italic,500,600italic,600,700italic,700" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/css/style.css" >
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/font-awesome-4.2.0/css/font-awesome.min.css">
 
-{% include navigation.html %}
+    <!-- Beautification -->
+    <link rel="alternate" type="application/atom+xml" title="Follow Zara's blog posts." href="http://zararah.net/atom.xml" />
 
-  <div class="row">
+  </head>
+  <body>
+    <div id="page">
+      {% include navigation.html %}
+      <div class="row">
   	  <div class="col-md-4">
     {% include sidebar.html %}
   </div>
   	 <div class="col-md-8">
+      {{ content }}
+      {% include footer.html %}
+    </div>
+   </div>
 
-    {{ content }}
-  </div>
-</div>
-{% include footer.html %}
