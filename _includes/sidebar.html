@@ -1,12 +1,12 @@
-	<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-
-<div class="container-sidebar">
-
+<div class="sidebar sidebar-default">
+	<div class="sidebar-links">
+		<div class=”row”>
+ 		 <div class=”col-md-4”>
 <h1>Zara Rahman</h1>
 
-<p>My name is Zara.</p>
+<p>I'm Zara; feminist, bookworm, traveller.</p>
 
-<h3>Recent posts</h3>
+<h3>Featured posts</h3>
 
 <ul>
   {% for post in site.posts limit: 5 %}
@@ -16,12 +16,14 @@
 
 <h3>Categories</h3>
 
-
+<h4>Contact me</h4>
     <section class="meta">
 
       <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i> twitter.com/zararah</a><br>
       <a href="{{ site.github_owner }}" target="_blank"><i class="fa fa-github"></i> github.com/zararah</a><br>
       <a href="/atom.xml"><i class="fa fa-rss"></i> subscribe</a>
     </section>
-
+    	</div>
+    	 </div>
+</div>
 </div>
