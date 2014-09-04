@@ -75,10 +75,11 @@ code {
 /* Navbar area */
 
 .navbar.navbar-default {
-  background-color: $purple-2;
+  background-color: white;
   border-bottom: 0px solid #ddd;
   color: white;
   margin-bottom: 0;
+  margin-right: 50px;
 
   .navbar-brand {
     a {
@@ -91,6 +92,7 @@ code {
   a, li a { 
     color: $font-color;
     color: lighten($purple-2, 40%);
+    font-family: 'Cabin';
   }
 
   button.navbar-toggle {
@@ -105,7 +107,7 @@ code {
   }
 
   .navbar-collapse {
-    background-color: $purple-2;
+    background-color: white;
     border-top: 0;
   }
 
