@@ -1,8 +1,9 @@
-name: "Zararah"
+name: "Zara Rahman"
 description: "Zara's blog"
 
 url: "http://localhost:4000"
-
+github.owner: "zararah"
+twitter: "zararah"
 paginate: 10
 
 markdown: rdiscount
