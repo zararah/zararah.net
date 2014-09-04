@@ -1,14 +1,9 @@
-{% include header.html %}
-
-  <div class="row">
-  	  <div class="col-md-4">
-    {% include sidebar.html %}
-  	  </div>
-  	 <div class="col-md-8">
-  	<h1>{{ page.title }}</h1>
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
   	<p class="muted">{{ page.date | date: "%-d %B %Y" }}</p>
-    {{ content }}
-  </div>
-</div>
+{{content}}
 
-{% include footer.html %}
+
+
