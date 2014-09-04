@@ -1,6 +1,6 @@
 ---
 title: About me
-layout: post
+layout: default
 ---
 
 #About Me 
