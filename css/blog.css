@@ -23,6 +23,11 @@ h1-sidebar {
   color: #eeeeee;
    }
 
+a {
+  color: black;
+  &:active, &:link, &:hover {
+    color: $darkestblue;
+  }
 
 .navbar-custom {
   background-color: #ffffff;
