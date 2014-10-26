@@ -17,7 +17,7 @@ First, I set up a new repository on Github: I followed [these instructions](http
 
 Then, on my machine I created a folder where I want the blog to live - imaginatively, called ‘blog’. 
 
-In the terminal, I [changed directory](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)) to be in /blog - so that everything I then do happens in the right place. 
+In the terminal, I [changed directory](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-) to be in /blog - so that everything I then do happens in the right place. 
 
 then ran 
 
@@ -91,19 +91,19 @@ to get the local server running, instead - the -w means that it updates automati
 
 And it worked! I can see…
 
-{{ site.url }}/assets/site1.png
+![Screenshot of site version 1]({{ site.url }}/assets/blog/2014/site1.png)
 
 So on to the next step of building the theme, and installing Twitter Bootstrap - (see section Building the Theme in Andrew’s tutorial) 
 
 Now I can see: 
 
-{{ site.url }}/assets/site2.png
+![Screenshot of site version 2]({{ site.url }}/assets/blog/2014/site2.png)
 
 To set up a sidebar though, I ran into a couple of issues as I’m using bootstrap v. 3.2.0 - which is newer than the tutorial.
 
 So instead of the recommended sidebar.html, I put 
 
-{% highlight ruby %}
+{% highlight ruby %}{% raw %}
 
 {% include header.html %}
   <div class="row">
@@ -116,7 +116,7 @@ So instead of the recommended sidebar.html, I put
 </div>
 {% include footer.html %}
 
-{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 after referring to the [new bootstrap documentation.](http://bootstrapdocs.com/v3.2.0/docs/css/)
 
@@ -136,8 +136,9 @@ to
 
 (or whatever number you want) is something that you’ll have to do throughout the tutorial, if you’re using the newer version of Bootstrap. 
 
-Also, within the code there for post.html I found something that didn’t seem to work - the date_to_long_string here: 
-{% highlight ruby %}
+Also, within the code there for post.html I found something that didn’t seem to work - the date_to_long_string here:
+
+{% highlight ruby %}{% raw %}
   {% include header.html %}
 
 <div class="row-fluid">
@@ -152,9 +153,9 @@ Also, within the code there for post.html I found something that didn’t seem t
   </div>
 </div>
 
-{% include footer.html %}
+{% include footer.html %}```
 
-{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 ...so I deleted the date_to_long_string 
 
@@ -166,8 +167,8 @@ and I changed it to
 
 following advice [from here.](http://alanwsmith.com/jekyll-liquid-date-formatting-examples)
 
-And, everything else in the tutorial worked splendidly - so I now have a super basic skeleton of a blog set up! 
+And, everything else in the tutorial worked splendidly, and left me with this very basic skeleton of a blog, which looked something like this: 
 
-It looks like this:
+![Screenshot of site version 3]({{ site.url }}/assets/blog/2014/site3.png)
 
-{{ site.url }}/assets/site2.png
+Next up - customising it...
