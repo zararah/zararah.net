@@ -1,12 +1,14 @@
-{% for post in posts %}
+<div class="posts">
+    {% for post in posts %}
 
-    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-    <h4>{{ post.date | date_to_long_string }}</h4>
-    <span class="description">{{ include.post.description }}</span>
-    {{ post.content }}
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+        <h4>{{ post.date | date_to_long_string }}</h4>
+        <span class="description">{{ include.post.description }}</span>
+        {{ post.content }}
 
-    <p>
-      <a href="{{ post.url }}">Read Post</a>
-    </p>
+        <p>
+          <a href="{{ post.url }}">Read Post</a>
+        </p>
 
-{% endfor %}
+    {% endfor %}
+</div>

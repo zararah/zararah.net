@@ -57,38 +57,18 @@ pre {
   margin-bottom: 0;
   padding-top: 15px;
 
-
-
-  .navbar-brand {
-    a {
-      color: white;
-      text-decoration: none;
-
-    }
-  }
-
   a, li a {
     color: $font-color;
     color: lighten($purple-1, 40%);
     font-family: 'Source Sans Pro', sans-serif;
   }
 
-  button.navbar-toggle {
-    border: 0;
-    .icon-bar {
-      background-color: $purple-3;
-    }
+}
 
-    &:hover {
-      background-color: darken($purple-2, 10%);
-    }
-  }
-
-  .navbar-collapse {
-    background-color: white;
-    border-top: 0;
-  }
-
+.posts img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
 }
 
 /* Sidebar */
@@ -113,21 +93,6 @@ h1.sidebar {
 
   a:hover {
     color: $link-color;
-  }
-
-  button.sidebar-toggle {
-    border: 0;
-    .icon-bar {
-      background-color: #FFF;
-    }
-
-    &:hover {
-      background-color: darken($purple-2, 10%);
-    }
-  }
-
-  .sidebar-collapse {
-    border-top: 0;
   }
 
   .license {
