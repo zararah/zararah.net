@@ -1,25 +1,14 @@
 ---
 layout: default
+title: Zara Rahman
 ---
 
-{% for post in paginator.posts %}
-<div class="row">
-  <div class="col-md-8">
-    <h2>{{ post.title }}</h2>
-    <h4>{{ post.date | date_to_long_string }}</h4>
-    <span class="description">{{ include.post.description }}</span>
-
-    <p>
-      <a href="{{ post.url }}">Read Post</a>
-    </p>
-  </div>
-</div>
-{% endfor %}
+{% assign posts=paginator.posts %}
+{% include postlist.html %}
 
 <div class="row">
   <div class="col-md-8">
-    <div class="pagination">
-      <ul>
+      <ul class="pagination">
         {% if paginator.previous_page %}
           {% if paginator.previous_page == 1 %}
           <li><a href="/">Prev</a></li>
@@ -47,6 +36,5 @@ layout: default
         <li><span class="disabled">Next</span></li>
         {% endif %}
       </ul>
-    </div>
   </div>
 </div>
