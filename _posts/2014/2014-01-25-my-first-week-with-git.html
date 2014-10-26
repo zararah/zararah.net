@@ -1,0 +1,55 @@
+---
+layout: post
+title: My first week with Git
+date: '2014-01-25T22:52:00+01:00'
+category:
+- coding
+tags:
+- github
+- learntocode
+tumblr_url: http://zararah.net/post/74532388648/my-first-week-with-git
+---
+<p>This week, I learned what Git really is, how to use it via the command line, and forked <a href="http://energyhack.de/">this lovely site</a> to make <a href="http://opendevtoolkit.net/">this, my first Jekyll site</a>! I was exceedingly lucky to have guidance throughout from some very clever, and patient, people.</p>
+<p>In part to help me remember things I learned, and in part because part of me hopes one day I'll look back on this first week coding with nostalgic fondness in years to come, I wanted to write down a few things I learned.</p>
+<p><!-- more --></p>
+<p>First; the very basics. I learned what makes Git different to other Version Control Systems. I'd recommend looking at the diagrams <a href="http://git-scm.com/book/ch1-3.html">on this page</a> to understand this. We looked at <a href="http://gitready.com/beginner/2009/02/17/how-git-stores-your-data.html">how Git saves data</a> through trees and blobs (incidentally, which stands for Binary Large Object, though I like the name 'blob'), and looked at how each 'commit' generates a <strong>unique 40-character object identifier</strong>, which you can see by typing 'git-show'.</p>
+<p>One thing I found amazing about these identifier numbers is that as they are generated solely from the content of a certain repository, if you happen to have exactly the same content in a repository on two different machines, exactly the same 40-character identifier number is generated! We proved this by copying out two identical text files on two different computers, committing them to a repository, then comparing identifiers. It worked! (Aside: I downloaded the text editor <a href="https://sublime.wbond.net/">'Sublime'</a> here to make creating and editing those text files much easier)</p>
+<p>Next, <a href="http://breckyunits.net/the-only-5-git-commands-you-need-to-know.html">some basic git commands</a> to use in the terminal: mkdir, cd and git init, to make a new repository (<a href="http://breckyunits.net/the-only-5-git-commands-you-need-to-know.html">more detailed instructions here</a>), and also how to add a new file. I also changed the background of the terminal screen to black to make it easier to read, via 'Preferences' in Terminal.</p>
+<p>Then; putting it into practice, as I wanted to make a simple website for my new project. As I only needed a holding page, I thought it might be a good time to try using <a href="http://pages.github.com/">Github pages</a>, which makes it easy to get information from a Github repository onto a website – and, allows people to collaborate very easily – which runs off Jekyll, a “static site generator”, in Ruby. Basically, it makes <a href="http://jekyllrb.com/">making websites from text files very easy</a> and really rather beautiful - t<a href="http://jekyllthemes.org/">hese are all examples of sites</a> that can be built on Jekyll.</p>
+<p>Unfortunately, though much of the online documentation says that you should be able to get <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">“from 0 to blog in 3 minutes!”</a> I ran into a few problems here, as it was my first time using Jekyll, and Ruby, so I didn't have the prerequisites assumed in the quick start up guides. This is where I was <strong>very</strong> glad to have assistance from people who knew what they were doing – yes, the pains of installation will just happen once, but I would've been completely lost if it hadn't been for help at this point. Pro tip – <a href="http://brew.sh/">Homebrew </a>is a good package to install here, too.</p>
+<p>Once I had Jekyll and ruby up and running, I set up a basic blog as per the instructions <a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">on this page</a>. I picked one of the basic themes <a href="http://themes.jekyllbootstrap.com/">from this page</a> and switched themes, after reading <a href="http://jekyllbootstrap.com/usage/jekyll-theming.html">the instructions here.</a></p>
+<p>But then some other more beautiful sites came to my attention... including <a href="http://energyhack.de/">this one,</a> which was done by colleagues of mine for a hackday they ran last year. It's fairly simple, also done using Jekyll and Ruby, and it's on <a href="https://github.com/okfde/energyhack">Github</a>. I figured starting with something that looked so good must be easier than starting from scratch (though I have nothing to base this on.)</p>
+<p>So – my friend Annabel helped me set up my own version of this, which we put in the repository <a href="https://github.com/zararah/opendevtoolkit">'Open Dev Toolkit'</a> on my Github, so it appeared at <a href="http://zararah.github.io/opendevtoolkit">http://zararah.github.io/opendevtoolkit</a>. We also set up a local server which meant that the site appeared at <a href="http://localhost:4000/">http://localhost:4000/</a> in my Chrome window. So, I could make changes 'locally' (just on my machine) without pushing them to git- this made seeing what I'd done a lot easier. I set up the local server by typing “jekyll serve” into the Terminal, and I ended up leaving the command “jekyll serve -w” running constantly in one window of the terminal, and making my changes in git in another window. (The -w part of “jekyll serve-w” makes it automatically regenerate, so you don't need to keep cancelling it (with control-c) and running it again to see changes.</p>
+<p>Then, the most satisfying part of this whole thing began – using what I had learned earlier to hack the website!</p>
+<p>Here, I quickly established that 'Inspect Element' in Chrome was basically my best friend; seeing something on the site that I wanted to change, highlighting it and clicking 'Inspect Element' allowed me to see where exactly it was in the files, making it much easier to find which part I needed to change.</p>
+<p>Once all that was set up, it was fairly simple; for example, the main heading, subheading and basic text was in the index.html file, so I did the following steps to change them to be relevant for my website:</p>
+<p>I opened up the project 'opendevtoolkit' with Sublime, so that all of the text files that you can see <a href="https://github.com/zararah/opendevtoolkit">on Github here</a> were available. Then, I opened 'index.html', edited the relevant text, saved it, and looked what had happened on the local version I was running, at <a href="http://localhost:4000/">http://localhost:4000/</a> It had changed! So, as they were good changes, I wanted to keep them and put them online, also known as “pushing them” to Github.</p>
+<p>In the terminal, I checked what I'd done by typing 'git-status'. As expected, there were changes there that hadn't been updated online: so next came the following commands:</p>
+<blockquote>
+<p>git add “whichever filename came up when typing git status” (in my case, index.html)</p>
+</blockquote>
+<p>Then, I needed to 'commit' the change:</p>
+<blockquote>
+<p>git commit</p>
+</blockquote>
+<p>...but, other people (and I) need to know what the change was, so here you're asked for a 'commit message' which describes what the change is. The commit message is, I learned, always written in the imperative – so, 'Update heading', for example.</p>
+<p>Once that has been added, you're free to 'git push' which pushes the changes online. Ta-da!</p>
+<p>Other tips I picked up:</p>
+<ul><li>
+<p>If you've got text you want to edit on the website, but you're not sure where to find it within all the files, you can do a project wide search in Sublime, with shift+command+F to find out where it is.</p>
+</li>
+<li>
+<p>Inspect Element is just great. Really.</p>
+</li>
+<li>
+<p>If you're looking for a new font, look at<a href="http://www.google.com/fonts"> Google Fonts</a> – they're lovely, and really easy to implement (if you don't want to bother having them in a font file, it just takes one line of code which will be generated when you pick your font)</p>
+</li>
+<li>
+<p>For creating the background image, I downloaded <a href="http://www.inkscape.org/en/download/mac-os/">Inkscape</a> – admittedly not very Mac friendly, but still good, and picked some public domain gear icons from <a href="http://thenounproject.com/">the Noun Project</a> to play around with. (Confession – I then sent it over to my rather clever friend Julia to arrange into a gorgeous looking tile design for me!)</p>
+</li>
+<li>
+<p>I used the<a href="https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en"> 'Eye dropper'</a> Chrome plugin to find out where the colours were that I needed to change.</p>
+</li>
+</ul>
+<p>Then, it was just a case of lots of little changes, deleting lots of the content from the EnergyHack page as I didn't need it, updating content, changing the design and font, and there you go. My first Jekyll site!</p>
+<p>A <strong>huge</strong> gigantic thank you to Nick, Stefan, Annabel and Michael for a. getting me started on all of this, b. not giving me all of the answers but showing me how to find them myself, and c. having infinite patience with my questions!</p>

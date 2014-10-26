@@ -1,0 +1,78 @@
+---
+layout: post
+title: 'Unexpected coding errors: how to find the answer? '
+date: '2014-08-03T19:45:00+02:00'
+category:
+- coding
+tags:
+- learntocode
+tumblr_url: http://zararah.net/post/93695627637/unexpected-coding-errors-how-to-find-the-answer
+---
+<p>This week, after a couple of months break, I returned to adding things to my <a href="http://opendevtoolkit.net/">project website</a>. I've written before about <a href="http://zararah.net/tagged/learntocode">the things I've learned</a> en route to building that site (the most comprehensive round up being this post, “<a href="http://zararah.net/post/85435361832/newbie-hacky-coding-tips">Newbie hacking coding tips</a>”) but there are a few other things that came to mind during this week's foray.</p>
+<p>Namely: what to do when you get stuck, or something doesn't work? I've written before that it's important to try and use your own logic before asking for help, and to try and follow trails as much as you can, but that's still a little vague. So, here's a summary of things I've learned to do when things break, or don't work quite as I expected.</p>
+<p><em>(Disclaimer: to anyone with the slightest bit of experience, this will probably sound terribly obvious – but personally, I appreciate it greatly when solutions are set out in very simple terms. Also, tl;dr, there are some bullet points at the end with my go-to solutions.)</em></p>
+<p>So you've come across an error message in an unexpected place. For me, they often look something like this:</p>
+<p><img alt="image" src="https://31.media.tumblr.com/8c32841f21c7774fa9909fe763a2bdae/tumblr_inline_n9qrjpztMv1rlkygf.png"/></p>
+
+<p>This particular error message is actually pretty helpful: it says what is missing – the tag endblock, and it says in which file it is missing (/code/source/source/base/templates/homepage.html in template) as well as the line number (line 66).</p>
+<p>Looking at the rest of that file, it's simple to see in what kind of format 'endblock' needs to be written, too, as the others there are written like % endblock %}. So here, adding % endblock %} to line 66 solves the problem.</p>
+<p>But what if they're more complicated than that?</p>
+<p>It's not a great example, but here's the problem that I came across this week. I tried to add a new flatpage to the site using the admin interface, – something that I've done many times – but for some reason, came across this incredibly unhelpful error:</p>
+<p><img alt="image" src="https://31.media.tumblr.com/96843463decf4d62a2048b35e88f3fd5/tumblr_inline_n9qrkqCkff1rlkygf.png"/></p>
+
+<p>This error message, unlike the one above, didn't give me much to work with. I went back into the admin interface and checked that everything was written correctly – no spaces where they shouldn't be in the URL, for example, but I still got that error.</p>
+<p>I tried changing some little things, still in the admin interface, to see if there was anything that unexpectedly was breaking it from the inside: putting no text in the main text box, changing the URL I put in, adding the title/removing the title, removing html from the text box... but nothing.</p>
+<p>So I googled, “django flatpages error” to find documentation and, perhaps, some answers. The first result brought me to the official <a href="https://docs.djangoproject.com/en/dev/ref/contrib/flatpages/">django documentation on the flatpages app</a>, which would have been useful if I had been trying to install it or use it for the first time. But I wasn't; I'd used it a lot before, and never had this problem.</p>
+<p>The next place I look is generally <a href="https://stackoverflow.com/">Stack Overflow</a>, a forum for people who are experiencing programming problems, and rather wonderful people helping them out. I'm such a fan!</p>
+<p>The first answer I came across was <a href="https://stackoverflow.com/questions/8144279/django-error-no-flatpage-matches-the-given-query">this one</a>; the way the problem is described confused me a bit (I've no idea what “Middleware” is) but:</p>
+<p>""I try to load any flatpage, I get my custom 404.html error page returned to me"</p>
+<p>sounded familiar... so I followed the solutions recommended there:</p>
+<ul><li>
+<p>adding a slash to the end of the page url in admin area – turns out I already had that</p>
+</li>
+<li>
+<p>turning on “Enable comments”; (in the admin interface) for the flatpage in question – didn't make a difference</p>
+</li>
+</ul><p>As none of these had worked, I went on to the next search result, a thread entitled <a href="https://stackoverflow.com/questions/3317713/django-flatpages-arent-working">'django flatpages aren't working'.</a></p>
+<p>Again, there was more about Middleware, and a short solution given:</p>
+<p><img alt="image" src="https://31.media.tumblr.com/a6a90a4b194cec629810959b5345a197/tumblr_inline_n9qrljzTN31rlkygf.png"/></p>
+
+<p>So perhaps it's something to do with my 'SITE_ID'. I looked in settings.py, and found it was set to:</p>
+<pre>SITE_ID = 1</pre>
+<p>But, is this 'correct'? How do I know if 1 is the right number for my SITE_ID? Unfortunately, the other answers all assumed this knowledge, leaving me none the wiser as to whether this was the source of my error, or not.</p>
+<p>But then! Another thread, <a href="https://stackoverflow.com/questions/21765162/django-flatpages-do-not-work">'Django flatpages Do Not Work'</a> came to my rescue. Along with explaining that SITE_ID might be the issue, some lovely person put in screenshots and an explanation aimed at the newbiest of newbies to this, explaining where to find your SITE_ID (with pictures) as well as that it should match the number given in settings.py.</p>
+<p>I love explanations like this, which assume very little prior knowledge; it's so easy to acquire knowledge, then forget entirely the days when you didn't have as a matter of course within your brain. I'm guilty of it too; facing situations like this where I need to be told almost everything from scratch, are a good reminder that I should try to avoid doing it.</p>
+<p>But, back to my problem; as it turns out, my SITE_ID was set correctly, after all. (*sigh*)</p>
+<p>I tried looking in the terminal, and seeing what was going on behind the scenes by typing</p>
+<pre>heroku logs</pre>
+<p>(More information on what that does, <a href="https://devcenter.heroku.com/articles/logging">here</a>)</p>
+<p>Unfortunately, that brought me this:</p>
+<p><img alt="image" src="https://31.media.tumblr.com/983c92cc6b841365af715b07b3f7ae90/tumblr_inline_n9qrny44mX1rlkygf.png"/></p>
+
+<p>...and nothing jumped out at me.</p>
+<p>I scrolled through a few more problems, unfortunately to no avail. Here, having run out of places to look, I must admit I cheated, and I asked a friend. </p>
+<p>And this is why this whole story wasn't a great example to choose, actually: the problem was in the admin interface, after all. At the bottom of the admin page, is this little box:</p>
+<p><img alt="image" src="https://31.media.tumblr.com/9ca9503178dab9c5f29deb2a27a2704d/tumblr_inline_n9qroqc8of1rlkygf.png"/></p>
+
+<p>It turns out that I hadn't actually clicked on the site in the 'select site' box, and that was the root of the problem. Frustrating, especially considering the number of other ways I had attempted to solve the problem myself! A good reminder though, that attention to detail is incredibly important.</p>
+<p>It did also bring me realise there are a few process points that I tend to do when faced with an error message:</p>
+<ul><li>
+<p>Repeating what I did to bring about the error message, with little changes, to see if anything solves it where you didn't expect it.</p>
+</li>
+<li>
+<p>The error message itself: are there any line numbers given, any clues there?</p>
+</li>
+<li>
+<p>If it's not a generic error message, Googling it in quotation marks, to see if anyone else has been faced with the exact same problem, and seeing how they fixed it.</p>
+</li>
+<li>
+<p>If there is just a generic error message, searching for the general problem (eg. Can't add django flatpage) being as specific as possible with the framework used, for example.</p>
+</li>
+<li>
+<p>Checking out StackOverflow, my favourite forum to solve these kinds of things.</p>
+</li>
+<li>
+<p>Looking behind the scenes, in the terminal via 'heroku logs' and seeing if any particular error message reveals anything (I have to admit, this has rarely happened for me, but more knowledgeable friends have a habit of looking at my 'heroku logs' and understanding what it means... I'm hoping this will come, with time!)</p>
+</li>
+</ul><p>And of course, realising that all of these solutions won't lead anywhere while the answer is staring me in the face from the very beginning...!</p>
+<p>If I've missed other go-to places for how to solve errors, <a href="http://twitter.com/zararah">let me know</a>!  </p>

@@ -1,0 +1,170 @@
+---
+layout: post
+title: 'Customisation: first forays into Django and Python, and adding new tag fields '
+date: '2014-04-29T10:49:22+02:00'
+category:
+- coding
+tags:
+- learntocode
+- python
+- django
+tumblr_url: http://zararah.net/post/84210440157/customisation-first-forays-into-django-and-python-and
+---
+<p><em>Lots of the explanations here are <a href="https://github.com/tryggvib" target="_blank">Tryggvi's</a> wise words; I thought they might be useful to others, so he kindly let me copy them over!</em></p>
+<p>So, customisation. As I wrote about<a href="http://zararah.net/post/84058179670/setting-up-a-new-website-user-stories-installing" target="_blank"> in my last post</a>, I got the local instance of Source fired up, and next came the steps of playing around with it, and customising it for what I need for the toolkit.</p>
+<p>As you can see from the <a href="https://source.opennews.org/code/" target="_blank">Code section of Source</a>, you can 'tag' items. On the Toolkit site, I'll be renaming the 'Code' section as 'Tools', and this will be how people can look through the recommended online tools on the site. From Source, the categories of tags are currently split into 'technology tags', or 'concept tags', but I wanted to have more categories- 'data source tags', so that people can search by data source, and 'skill level' tags, for each code.</p>
+<p>I tried first looking at this page about <a href="http://django-taggit.readthedocs.org/en/latest/custom_tagging.html">custom tagging</a> in the Django documentation, but it didn't make that much sense to me. So, with the help of my trusty tech mentor Tryggvi, I started off by creating the 'models', ie. how the tags will be represented in the database.</p>
+<p>Explanation: Django is made up of “apps”; which have special purposes; here, there is an app called “source.tags”. So, in source/tags/ there is a file models.py which describes the tags models.</p>
+<p>In source/tags/models.py, we can see the 'technology' and 'concept' tag models:</p>
+
+<pre>class TechnologyTag(TagBase):
+pass
+class TechnologyTaggedItem(GenericTaggedItemBase):
+tag = models.ForeignKey(TechnologyTag, related_name="%(app_label)s_%(class)s_techtag_items")
+
+class ConceptTag(TagBase):
+pass
+class ConceptTaggedItem(GenericTaggedItemBase):
+tag = models.ForeignKey(ConceptTag, related_name="%(app_label)s_%(class)s_concepttag_items")</pre>
+<p>so, following the same CamelCase notion I added:</p>
+<pre>class DataTag(TagBase):
+pass
+class DataTaggedItem(GenericTaggedItemBase):
+tag = models.ForeignKey(DataTag, related_name="%(app_label)s_%(class)s_datatag_items")
+
+class SkillTag(TagBase):
+pass
+class SkillTaggedItem(GenericTaggedItemBase):
+tag = models.ForeignKey(SkillTag, related_name="%(app_label)s_%(class)s_skilltag_items")</pre>
+
+<p>Next came migration, as the database needs to have everything defined before items get put in, and we had updated the database here.</p>
+
+<p></p>
+<p>To migrate the database to the newest version that includes both of the new tags, I activated my virtual environment, then ran:</p>
+
+<pre>python manage.py schemamigration --auto source.tags</pre>
+<p>from the root folder, where manage.py lives, which told it to migrate the app called source.tags.</p>
+
+<p>I got:</p>
+
+<pre>+ Added model tags.SkillTaggedItem
++ Added model tags.DataTaggedItem
++ Added model tags.DataTag
++ Added model tags.SkillTag
+Created 0002_auto__add_skilltaggeditem__add_datataggeditem__add_datatag__add_skillt.py. You can now apply this migration with: ./manage.py migrate source.tags</pre>
+<p></p>
+<p>...which let me know that the migration for the database schema had been successfully created.</p>
+
+<p>I added the new file ( 0002_auto__add_skilltaggeditem__add_datataggeditem__add_datatag__add_skillt.py ) to my git repo, too, but decided to wait before committing it.</p>
+
+<p>Next, as mentioned above, I migrated the database to make it up to date with the newest modifications, with:</p>
+
+<pre>python manage.py migrate</pre>
+<p></p>
+<p>which gave me:</p>
+
+<pre>Running migrations for tags:
+- Migrating forwards to 0002_auto__add_skilltaggeditem__add_datataggeditem__add_datatag__add_skillt.
+tags:0002_auto__add_skilltaggeditem__add_datataggeditem__add_datatag__add_skillt
+- Loading initial data for tags.
+Installed 0 object(s) from 0 fixture(s)</pre>
+<p></p>
+<p>which told me that the database is up to date. Next came some Django learning:</p>
+
+<p>Django enforces a design pattern (a good solution to a common problem) which is called MVC, Model View Controller, which is about how to structure your code in such a way that it doesn't get messy and problematic when you change a few things. The idea is that you have the database stuff managed by one part (the model), computations and preparations by another (controller), and then user interface to show the results by the third (the view)</p>
+
+<p>But, in Django specifically, other terms for the same design pattern are used; instead of MVC, it becomes MTV; Model, Template, View, where View in Django is Controller in MVC and Template in Django is the View in MVC.</p>
+
+<p>What we've done so far as the 'model' part of the pattern, so next came the 'View'/ Controller part, and we started with the admin interface.</p>
+
+<p>This happens in a file called admin.py, so in source/tags/admin.py, I found:</p>
+<pre>from .models import TechnologyTag, TechnologyTaggedItem, ConceptTag, ConceptTaggedItem</pre>
+
+<p>which is where the models are imported.</p>
+
+<p>I added:</p>
+
+<pre>DataTag, DataTaggedItem, SkillTag, SkillTaggedItem</pre>
+<p></p>
+<p>to import the new models that I'd created, and then I looked at how classes were created in admin.py. Here's an example:</p>
+
+<pre>class TechnologyTaggedItemInline(admin.StackedInline):
+model = TechnologyTaggedItem
+
+class TechnologyTagAdmin(admin.ModelAdmin):
+list_display = ['name']
+inlines = [
+TechnologyTaggedItemInline
+]</pre>
+<p></p>
+<p>So following the same pattern, I added:</p>
+
+<pre>class DataTaggedItemInline(admin.StackedInline):
+model = DataTaggedItem
+
+class DataTagAdmin(admin.ModelAdmin):
+list_display = ['name']
+inlines = [
+DataTaggedItemInline
+]
+
+class SkillTaggedItemInline(admin.StackedInline):
+model = SkillTaggedItem
+
+class SkillTagAdmin(admin.ModelAdmin):
+list_display = ['name']
+inlines = [
+SkillTaggedItemInline
+]</pre>
+<p></p>
+<p>and at the bottom of admin.py, also added the new tags in there:</p>
+
+<pre>admin.site.register(DataTag, DataTagAdmin)
+admin.site.register(SkillTag, SkillTagAdmin)</pre>
+<p></p>
+<p>and started up my server, to see that the new categories of tags were now added to the main admin interface!</p>
+
+<p>But, although they now appeared in the main admin interface, they didn't yet appear in the 'Add new code' section; so, I couldn't add the tags to new 'tools' or 'code' that was being added to the site.</p>
+
+<p>To do this, I opened up the code models, in source/code/models.py, which has two classes defined: LiveCodeManager and another one called Code. The relevant one here is Code, and the class defines some attributes, which is what I wanted to add more of.</p>
+
+<p>So taking 'Data Source Tags' as an example, I added:</p>
+
+<pre>data_tags = TaggableManager(verbose_name='Data Source Tags', help_text='A comma-separated list of tags listing data sources', through=DataTaggedItem, blank=True)</pre>
+<p></p>
+<p>By doing this, I created an attribute which followed the rules of 'TaggableManager' which, judging from the name, manages the tags.</p>
+
+<p>So the way tags are probably managed here is that there is one collection (table) of code objects, and another collection of tag objects; a code object can have many tag objects, and each tag object can be assigned to many code objects, ie. a many-many relationship. The way that many to many is managed in SQL databases is via a table (collection) that connects them; each row in that table will have an identifier to the code and another identifier to the tag.</p>
+
+<p>So, imagining a spreadsheet where each column is a field, it becomes impossible to add a random amount of tags (unless you have some weird delimiter inside the field) which is why they move it to another table, then instead of adding more columns and extending horizontally, they add more rows and extend vertically. The 'through' item mentioned above ( through=DataTaggedItem ) is a way of defining what in the table extends vertically.</p>
+
+<p>But in order to get the classes of DataTaggedItem and SkillTaggedItem, which were created in tags/model.py, we have to import them here.</p>
+
+<p>So, in source/code/model.py, we added the new Items to the line:</p>
+
+<pre>from source.tags.models import TechnologyTaggedItem, ConceptTaggedItem, DataTaggedItem, SkillTaggedItem</pre>
+<p></p>
+<p>to tell python where the classes/tables live.</p>
+
+<p>Then, I migrated the new database; but, the View/Controllers part wasn't yet updated, which meant that although the new tag categories appeared on the main admin interface, they weren't in the 'admin' part of the 'code' section.</p>
+
+<p>So, in source/code/admin.py I added the new fields to 'fieldsets':</p>
+
+<pre>search_fields = ('name', 'description',)
+fieldsets = (
+('', {'fields': (('name', 'slug'), ('is_live', 'is_active', 'seeking_contributors'), 'url', 'source_code', 'documentation', 'tags', 'technology_tags', 'concept_tags', 'data_tags', 'skill_tags', 'screenshot', 'description', ('repo_last_push', 'repo_forks', 'repo_watchers'), 'repo_master_branch', 'repo_description', 'summary',)}),</pre>
+<p></p>
+<p>which defines what we see on our admin page.</p>
+<p>Then, I added:</p>
+<pre>data_tags_list = form.cleaned_data['data_tags']
+skill_tags_list = form.cleaned_data['skill_tags']
+merged_tags = technology_tags_list + concept_tags_list + data_tags_list + skill_tags_list
+if merged_tags:</pre>
+<p>to line 40, underneath:</p>
+<pre>technology_tags_list = form.cleaned_data['technology_tags']
+concept_tags_list = form.cleaned_data['concept_tags']</pre>
+<p>which describes what happens when we save tags in the admin interface,</p>
+<p>Then, I added the new tag fields, to update the looks for these fields here in the controller (which, I'm informed, is bad practice– it should be updated in the template, rather than this function)</p>
+<pre>if db_field.name in ['url','source_code','documentation','tags','technology_tags','concept_tags','data_tags','skill_tags']:
+field.widget.attrs['style'] = 'width: 45em;'</pre>
+<p>So, with that all done, I ran the server again; and the new tag fields now appear in both the main admin interface, and in the 'Code' admin interface, meaning I can add new tools (code) and tag them under 4 different categories.  </p>

@@ -1,0 +1,31 @@
+---
+layout: post
+title: 'Nerdy presents: building a ''congratulations'' site'
+date: '2014-09-12T18:34:22+02:00'
+category:
+- travels
+- coding
+tags:
+- javascript
+- memorygame
+- presents
+tumblr_url: http://zararah.net/post/97309070757/nerdy-presents-building-a-congratulations-site
+---
+<p><img src="https://31.media.tumblr.com/9dacf89a80d557bfb7a79d5103811e9d/tumblr_inline_nbsr9cfGWy1rlkygf.png"/></p>
+
+<p>A couple of weeks ago, one of my best friends handed in her PhD, in geology, and the TLD .rocks went on sale. Clearly this was a sign, so I bought her what has to be the best domain for a geologist named Sorcha to own: <a href="http://sorcha.rocks/">http://sorcha.rocks</a>.</p>
+<p>I built her a little present on the site, too – a memory game, with photos she took during the PhD, and the place names, meaning that she's basically the only one who will recognise the pictures and be able to do it really from memory. Once the game has been completed successfully, a 'to do list' appears at the bottom of the page, so it's hidden to most viewers.</p>
+<p>In the background, <a href="http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/c0287f1b-e44d-5268-ad54-cb60f6ea8b20.html">data based on the rocks she studied</a> that I found online (carbonatites, in case you're curious) is mapped out, using <a href="https://www.mapbox.com/tilemill/">TileMill</a>; taking a screenshot of the map was a much easier way of getting it on the site, than putting it up as an interactive map (maybe next time!)</p>
+<p><strong>Making the site</strong></p>
+<p>First, I <a href="https://pages.github.com/">set up Github pages</a> to get the page up, at <a href="http://zararah.github.io/sorcha.rocks">http://zararah.github.io/sorcha.rocks</a>. Then, I searched for a Memory Game plugin to fork on Github – it turns out <a href="https://github.com/search?utf8=%E2%9C%93&amp;q=memory+game">there are lots</a>! I had it under good authority that it would be best to use a Javascript based plugin, so I selected Javascript under the Languages on the left sidebar, and <a href="https://github.com/search?l=JavaScript&amp;q=memory+game&amp;type=Repositories&amp;utf8=%E2%9C%93">filtered the options</a>.</p>
+<p>Then, I sorted by 'Most stars' to see which ones were popular, and had a look through the top options that came up. One tip that I learned here – if a website isn't given to find a demonstration online, try <a href="http://username.github.io/repo-name">http://username.github.io/repo-name</a> to find it.</p>
+<p>For example, with this <a href="https://github.com/bradlygreen/Memory-Game">memory game from Bradly Green</a>, there isn't a website given. It's online at <a href="https://bradlygreen.github.io/Memory-Game/app/">https://bradlygreen.github.io/Memory-Game/</a> though – and though it looks pretty nice, I was unconvinced by the lack of documentation and the very short ReadMe.</p>
+<p>In the end, I went with the <a href="https://github.com/frenski/quizy-memorygame">'Quizy Memory Game'</a>; you can see what it looks like online <a href="http://memorygame.quizyplugin.com/">here</a>. I also appreciate greatly the 'Properties' section outlined here, making it a lot easier to customise than some of the others listed there. (thanks, <a href="https://github.com/frenski" target="_blank">frenski</a>!)</p>
+<p>The site also has comprehensive <a href="http://memorygame.quizyplugin.com/">installation instructions</a> – great for a newbie like me! Adding the images and titles was fairly straightforward, just replacing what was already there (flags and country names) to the <a href="https://github.com/zararah/sorcha.rocks/blob/gh-pages/index.html">index.html </a>of the site.</p>
+<p>I created a <a href="https://github.com/zararah/sorcha.rocks/blob/gh-pages/css/sorchaface.css">custom CSS file</a> to define my own styles – ie. Things like changing the font and adding the background image. All of the images (the top image, and the cards) live in the <a href="https://github.com/zararah/sorcha.rocks/tree/gh-pages/img">img</a> folder.</p>
+<p>To make things come up only when the game was successfully completed, I used</p>
+<pre>&lt;div style=”;display:none”;id=”;gamewin”;&gt;</pre>
+<p>and</p>
+<pre>$('#gamewin').show();</pre>
+<p>(both of these with help!)</p>
+<p>When I was happy with how the site looked, I followed <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages">these instructions</a> to get <a href="http://sorcha.rocks/">http://sorcha.rocks</a> to point to <a href="http://zararah.github.io/sorcha.rocks">http://zararah.github.io/sorcha.rocks</a>. And, ta-da! The nerdiest present I've ever made, but I like it.</p>

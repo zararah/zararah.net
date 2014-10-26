@@ -1,0 +1,60 @@
+---
+layout: post
+title: Newbie hacky coding tips
+date: '2014-05-11T19:12:00+02:00'
+category:
+- coding
+- featured
+tags:
+- learntocode
+tumblr_url: http://zararah.net/post/85435361832/newbie-hacky-coding-tips
+---
+<p>As<a href="http://zararah.net/post/84058179670/setting-up-a-new-website-user-stories-installing" target="_blank"> I've mentioned before on here</a>, I'm in the middle of setting up a new website for my project, the <a href="http://opendevtoolkit.net" target="_blank">Open Development Toolkit.</a> I'm forking an already established site,<a href="https://source.opennews.org/en-US/" target="_blank"> Source</a>, and customising it to the project needs, and, excitingly, it's almost ready to launch.</p>
+<p>I've learned a lot of new stuff along the way, and I thought maybe some of the more general tips might be useful for other newbies to coding – for those of you who are old hands at this, I imagine a lot of this will sound incredibly obvious! Just trust me; it's not.</p>
+<p><em>Context: I use <a href="http://gitx.frim.nl/" target="_blank">GitX</a>, <a href="http://www.sublimetext.com/" target="_blank">Sublime</a>, and Google Chrome, running on my MacBook Air. I'm trying to learn by doing, rather than starting at the beginning or with the basics...whether this is wise or not remains to be seen, but it's a lot of fun.</em></p>
+<p><em><img alt="image" src="https://31.media.tumblr.com/4c2f4d0cdef24469da905ccc1224e92c/tumblr_inline_n5f6bvAalD1rlkygf.png"/></em></p>
+
+<ul><li>
+<p><strong>Don't panic</strong>: yes, this screen can look incredibly intimidating, full of multicoloured words and symbols, none of which make sense. That's fine! It doesn't all need to make sense – it doesn't even need to mostly make sense. You'll learn tiny little chunks at a time.</p>
+</li>
+<li>
+<p><strong>Focus on what you need, and expect to understand very little of the rest</strong>: the skill set needed here reminds me a lot of the skill set needed to do foreign language comprehension exercises. In those exercises, you're given a long text in a foreign language and asked some specific questions which test your understanding of it. To answer the questions, you really don't need to understand most of the text – you just need to know what you're looking for, and look out for the key words. Context is key – for example, a question about food means you need to look out for 'eating' or 'food' or 'meals'... it doesn't matter at all what the rest of the passage actually says.</p>
+<p>Apply the same logic when you're looking for something in code. If you want to change, say, a colour, you don't need to understand anything else in what you're looking for, apart from where that colour code is. I use the Chrome plugin <a href="https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en" target="_blank">'Eye Dropper'</a> to find out what the colour code is – search for it using “Find in Files” in Sublime, and then replace it with your desired colour. That is all you need. Save, refresh, and check you changed the correct thing.</p>
+</li>
+<li>
+<p><strong>Use your logic, before asking for help</strong>: this relies on the code you're looking at being well-written, which in my case is true. For example: I wanted to change the way in which articles were being displayed on the site when they're shown in a list, so I looked at article_list.html. I couldn't find the relevant aspect to change there, and I asked for help... whereupon I realised that the first line in that file was:</p>
+</li>
+
+{% highlight ruby %}
+
+	% extends "articles/_base_articles.html" %}
+
+{% endhighlight %}
+
+<p>Even without having a clue what the { or % do, the term extends is a fairly big clue. It appears to be building upon (ie. 'extending') base_articles.html, so I looked there, and found the aspect I wanted to change – which, more helpfully, changed it everywhere rather than just in that one place.</p>
+<ul><li>
+<p><strong>Change one thing at a time, and don't be afraid to get it wrong:</strong> especially when you're not really sure whether you're changing the right thing, this will help a lot. Make an educated guess as to what might be the relevant section based on the code around it, and have a go at changing it – at worst, you'll have to click 'Undo', and at best, you've found what you wanted! Changing one thing at a time allows you to understand which of your guesses was the right one, which will help you understand future problems.</p>
+</li>
+</ul><ul><li>
+<p><strong>Follow the breadcrumbs yourself: </strong>even if you're almost certain you have no idea what's going on, try to at least look at where bugs are coming from. For example, when I get errors on the site, the error message tells me which file the problem is in, and usually the line in question. Most of the time I'm fairly sure I'm not going to have a clue what's gone on, but I try to find the file in question and read through it. Slowly but surely, errors are becoming more obvious – and a lot of the time they're little semantic things that require only logic, like a missing &lt;/div&gt;, or not closing brackets, rather than advanced coding knowledge. It's satisfying to fix!</p>
+</li>
+<li>
+<p><strong>Commit often, and with clear commit messages: </strong>I like using GitX because it becomes really clear what you've changed, and where. Once you've added a new feature, or modified a specific aspect, don't forget to commit it so you can always get back there, and try and be as specific as possible in the commit message. ie. No “Add new feature” but “Add 'training' to navigation menu” for example. Not only does it allow you to get back there if/when you break something, but it's also pretty cool to look at all the things you've added and changed! I really like this <a href="https://github.com/alphagov/styleguides/blob/master/git.md" target="_blank">Git style guide</a>, from <a href="https://gds.blog.gov.uk/">GDS</a>. </p>
+</li>
+<li>
+<p>“<strong>Inspect Element” in Chrome is pretty much your best friend</strong>: when you want to change something, 'inspect' it to see what it looks like in code. You can modify things in the inspect element window to check that you're looking at the right thing, and you can see what line in the css affects how it looks. It's wonderful.</p>
+</li>
+<li>
+<p><strong>Online documentation (sometimes) has the answers</strong> – admittedly, sometimes it's written for the expert rather than the beginner, but try not to let the long words/chunks of code/general gibberish put you off. If there's a particular problem you're having, or feature you want to add, Google it first. Look at what other people have done, and in online fora where people might have asked similar questions, or in specific documentation. If there's a step by step guide, try the simpler steps yourself, and if there are terms in there that you don't understand, Google again. Rinse and repeat.</p>
+</li>
+<li><strong>Keep an eye out for jargon </strong><span>– my best example of this was with 'white space'. For me, the term “white space” means blank space. I have a plugin installed on Sublime which turns this whitespace into pink space, to make it more obvious to see; so, I described it as “pink space”...which, it turns out, sounds funny to a lot of people. Moral of the story: there are </span><a href="https://github.com/zararah/learnings/blob/master/funny-coding-words.md">lots of funny programming terms</a><span> out there, and people you talk to might take many of them for granted, and expect you to understand. It's okay if you don't! </span></li>
+<li>
+<p>From a pedagogical perspective – <strong>don't take people for granted</strong>. Just because someone has helped you make sense of a certain problem does not mean that they've signed up to hold your hand throughout your entire learning curve; do yourself (and them!) a favour, and try and get through as much as you can yourself before asking for help. It'll help a lot if you can explain the problem you're having along with your attempted solution – not only does it demonstrate that you're really trying to fix it yourself, but you might find some revealing holes or mistakes in your understanding of how it all works. Remember the first tip here- don't panic!</p>
+</li>
+<li>
+<p>Another pedagogical one: <strong>try not to let other people type for you</strong>. It might sound silly, but having to do the steps yourself, rather than watching a more experienced person do it for you on your computer, can make a lot of difference. Even if they have to literally spell out what you need to type, typing it will help you internalise and remember it. Ask whoever is helping you to imagine that your keyboard is made out of lava – it's too hot for them to touch, so only you can touch it. (<em>I can't remember who told me about the 'lava keyboard' teaching method – if it's you, remind me!) </em></p>
+</li>
+<li>
+<p><strong>Be realistic, and patient</strong>: you're new to this! Nobody learns a new (spoken) language in a day, and you're not going to learn a whole new (coding) language in a day, either. It'll come. My guess is you'll never stop coming across new things to learn, and that's half the fun, really.</p>
+</li>
+</ul><p>Any others to add? <a href="http://twitter.com/zararah" target="_blank">Let me know</a>. </p>

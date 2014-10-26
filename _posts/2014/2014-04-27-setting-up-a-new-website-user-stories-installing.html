@@ -1,0 +1,83 @@
+---
+layout: post
+title: 'Setting up a new website: user stories, installing Source locally, and lessons
+  learned'
+date: '2014-04-27T23:15:59+02:00'
+category:
+- coding
+tags:
+- learntocode
+tumblr_url: http://zararah.net/post/84058179670/setting-up-a-new-website-user-stories-installing
+---
+<p>Over the past couple of weeks, I've been focusing my efforts at work on the online presence of my project, the <a href="http://opendevtoolkit.net" target="_blank">Open Development Toolkit</a>. I put up a holding page there at the start of the year, which runs on Jekyll and was forked from <a href="http://energyhack.de" target="_blank">another site</a>; I kind of love the site (you'll understand when you click the 'on' button in the top left hand corner), but it doesn't do everything I needed to do.</p>
+<p>So, with the help of my lovely tech mentor Tryggvi, I began (and am still in) the process of restructuring things.</p>
+<p>Firstly, to work out what I needed from the site, I wrote some user stories, thinking about the people who would be accessing the site, what they wanted to do, why they wanted to do it. I prioritised them in terms of the most important users down to the least important users, and tried to limit myself to just 6 different users, most of which have more than one story. From these, we worked out what feature they would need on the site to be able to do what they wanted to; it turns out that a few of them brought up the same feature, which was really helpful to see.</p>
+<p>A couple of examples:</p>
+<p><strong>User:</strong> Journalist in aid-recipient country</p>
+<p><strong>I want to:</strong> find a tool to help them understand what projects the World Bank is running in their country</p>
+<p><strong>So that I can</strong>...investigate the relationship between the World Bank and my government</p>
+<p><strong>Feature:</strong> tools search function (tag: donor organisation)</p>
+<p>Or...</p>
+<p><strong>User:</strong> Civil society activist/newcomer to accessing aid data</p>
+<p><strong>I want to:</strong> find a tool to help me understand aid flows to their country, + accompanying training materials to work through alongside</p>
+<p><strong>So that I can...</strong> have some support while beginning to explore the theme of aid data</p>
+<p><strong>Feature:</strong> tools and accompanying training materials presented together</p>
+<p>One of the most important features was being able to clearly see, and filter through, different tools on the site, as well as having a clear online community around the toolkit which allows people to see who is out there, what they're working on, and what they've contributed to. Another was being able to link between tools and training materials in an easy way, to make it as easy as possible for users to find the resources they needed on a thematic basis.</p>
+<p>Now, I've been assured that basically all of the features that I needed are entirely possible to create in Jekyll, the framework that I've been using so far; but I have fairly limited time, and I'm such a newbie that I imagine it would take a long time to set all of these things up! (though, I imagine, be a lot of fun.)</p>
+<p>So, I started looking for sites which already do lots of the things I want my site to do, and one which came up pretty quickly is <a href="https://source.opennews.org/en-US/">Source</a>, from OpenNews. It's a community site, aiming to</p>
+<blockquote>
+<p>amplify the impact of journalism code and the community of developers, designers, journalists, and editors who make it. </p>
+</blockquote>
+<p>It acts as a hub around journalism code, and seemed from first glances to do everything that I wanted the new Toolkit site to do.</p>
+<p>To check, though, I went through my list of user stories and marked how the Source site would fulfil those requirements. I marked the ones that could be easily ticked off with the site 'as is' in green, those which would require some modification in yellow, and those which couldn't be met in red. Luckily, there were no red rows among my user stories! And the yellow ones were reasonably simple modifications.</p>
+<p>So, having checked that, the next step was to install a local version of the site, for me to have a play with. I was really lucky to be introduced to the team behind Source at this stage, who were super kind and offered their help in anything I needed to get the site set up. It's been great having that as a back up when I've had questions, and the whole team have been really responsive and generous with their time; a brilliant example of the joys of the 'open' community. </p>
+<p>But to start with, I looked at Source on Github. Luckily for me, there's a pretty comprehensive 'Readme' section with <a href="https://github.com/mozilla/source">installation instructions</a>. Given my newbie status though, there were still a few things that I needed to install myself, or look up to understand fully. I'd also never used Python or Django before, so came across some pretty basic stuff for the first time. </p>
+<p>I started with the instructions as they read on the readme; I'd never used the command</p>
+<pre>pip-install</pre>
+
+<p>before, so first I had to install that, and I followed the <a href="http://pip.readthedocs.org/en/latest/installing.html">instructions here</a>. I already had the other dependencies from having <a href="http://brew.sh/">Homebrew </a>installed previously.</p>
+
+<p>I ran</p>
+
+<pre>pip-install funfactory</pre>
+<p></p>
+<p>(what a lovely name!)</p>
+
+<p>and then I used <a href="https://help.github.com/articles/fork-a-repo">these instructions</a> on forking the repo from <a href="https://help.github.com/articles/fork-a-repo">Github's help section</a>.</p>
+
+<p>Then, I learned about what a virtual environment was <a href="http://docs.python-guide.org/en/latest/dev/virtualenvs/">here, and how to set it up for the first time</a>, by running</p>
+
+<pre>pip install virtualenvwrapper</pre>
+<p></p>
+<p>and activated it:</p>
+
+<pre>source venv/bin/activate</pre>
+<p>and changed directory into /code/source, which is where I'd saved the forked directory, before following the last step:</p>
+
+<pre>git submodule update --init --recursive</pre>
+<p></p>
+<p>and getting all of the development requirements,</p>
+
+<pre>pip install -r requirements/dev.txt</pre>
+<p></p>
+<p>Then, I carried on with the <a href="https://github.com/mozilla/source#configuration">'Configuration'</a> instructions. I created my own 'HMAC_KEY' and SECRET_KEY in the file /source/source/settings/local.py (and was assured they could be as silly as I liked)</p>
+
+<p>and I added:</p>
+<pre>DATABASES = {
+'default': {<br/>'ENGINE': 'django.db.backends.sqlite3',<br/>'NAME': 'source_app.db',<br/>},</pre>
+
+<p>to the same file.</p>
+<p>I kept running into errors though, and then realised that I didn't have MySQL, which I had assumed would be there from Homebrew. So, I followed <a href="http://benjsicam.me/blog/how-to-install-mysql-on-mac-os-x-using-homebrew-tutorial/">this good advice</a> and ran:</p>
+<pre>$ brew install mysql</pre>
+
+<p>And then, once I had definitely got all the dependencies, I synced:</p>
+
+<pre>python manage.py syncdb</pre>
+<p></p>
+<p>and migrated articles, code and people as in the Readme.</p>
+
+<p>I couldn't get the test-articles set up, but I ran </p>
+<pre>python manage.py runserver</pre>
+<p>anyway, and, to my delight, saw my own local version of it running at  <a href="http://localhost:8000/">http://localhost:8000/</a></p>
+<p>It was so satisfying! I've no idea how recently other people had tried going through those steps, but I <a href="https://github.com/mozilla/source/issues/251">filed an issue </a>about the test articles to let them know, and got a very prompt response, saying the test articles need to be updated. </p>
+<p>Ta-da. And that was that. Next has been learning how to customise it, and diving more into Python and Django... coming in another blog post.</p>
