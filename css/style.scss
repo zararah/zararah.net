@@ -9,30 +9,29 @@ $purple-5: #9768d1;
 $side-font-color: #e6e6e6;
 $light-font-color: #999;
 $font-color: #262626;
-$background-color: #e6e6e6;
+$background-color: white;
 
 body {
   color: $font-color;
   line-height: 1.4em;
-  font-size: 1.6em;
+  font-size: 18px !important;
   background-color: $background-color;
   font-family: 'PT Serif' serif !important;
 }
 
-.container-fluid {
-  padding-right: 5%;
-  padding-left: 5%;
+.container {
+  margin-left: 0px;
 }
 
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cabin' !important;
-  line-height: 1.8em;
+font-family: 'Source Sans Pro', sans-serif;
   margin-bottom: 0.6em;
 }
 
 a {
-  color: $purple-2;
-  text-decoration: underline;
+  color: $purple-3;
+  // text-decoration: underline;
 }
 
 a:hover {
@@ -44,42 +43,26 @@ code {
   color: $purple-2;
 }
 
-// Logo
-.logo {
-  font-family: Verdana, sans-serif;
-  font-size: 1.2em;
-  font-weight: 900;
-  height: 1em;
-  width: 1.6em;
-  position: relative;
-  display: inline-block;
-
-  $angle: 350deg;
-  div {
-    margin-top: -0.1em;
-    position: absolute;
-    transform: rotate($angle);
-    -webkit-transform: rotate($angle);
-    -moz-transform: rotate($angle);
-    -o-transform: rotate($angle);
-    -ms-transform: rotate($angle);
-  }
+pre {
+  white-space: pre-wrap;
 }
 
-#page {
-  background-color: white;
-  padding: 0 0 2em 0;
+div.verticalalign:before,
+div.verticalalign:after {
+  display: none;
 }
-
 
 /* Navbar area */
+
 
 .navbar.navbar-default {
   background-color: white;
   border-bottom: 0px solid #ddd;
   color: white;
   margin-bottom: 0;
-  margin-right: 50px;
+  padding-top: 15px;
+
+
 
   .navbar-brand {
     a {
@@ -91,8 +74,8 @@ code {
 
   a, li a { 
     color: $font-color;
-    color: lighten($purple-2, 40%);
-    font-family: 'Cabin';
+    color: lighten($purple-1, 40%);
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   button.navbar-toggle {
@@ -113,36 +96,31 @@ code {
 
 }
 
+.main {
+  padding-left: 50px;
+}
+
 /* Sidebar */
 
-.sidebar.sidebar-default {
-  background-color: $purple-2;
-  border-bottom: 0px solid #ddd;
-  color: white;
-  margin-bottom: 0;
-  margin-left: 30px;
-  margin-right: 15px;
-  padding-right: 30px;
-  padding-left: 30px;
-  display: block;
-  position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    z-index: 1000;
-  max-width: 350px;
+h1.sidebar {
+  color: $purple-5;
+}
+.sidebar-inner {
+  margin: 0 10px 10px 30px;
+}
 
-  .sidebar-brand {
-    a {
-      color: #FFF;
-      text-decoration: none;
-
-    }
-  }
+.sidebar {
+  background-color: $purple-1;
+  color: $side-font-color;
+  font-family: 'Source Sans Pro', sans-serif;
 
   a, li a {
     color: $font-color;
-    color: darken($side-font-color, 40%);
+    color: #855532;
+  }
+
+  a:hover {
+    color: $side-font-color;
   }
 
   button.sidebar-toggle {
@@ -152,7 +130,7 @@ code {
     }
 
     &:hover {
-      background-color: darken($side-font-color, 10%);
+      background-color: darken($purple-2, 10%);
     }
   }
 
@@ -160,6 +138,9 @@ code {
     border-top: 0;
   }
 
+  .license {
+    font-size: 80%;
+  }
 }
 
 /* Home page intro */
@@ -180,25 +161,31 @@ code {
 
   .text-section {
     line-height: 2em;
-    font-size: 1.6em;
+    font-size: 2em;
   }
 }
 
+/* Main content */
+
+.body {
+  float: right;
+  display: block;
+}
 /* Footer area */
 
 footer {
   padding: 1em 0 1em 0;
-  color: $light-font-color;
-  color: white;
+  color: $purple-3;
+  background-color: lighten($purple-5, 15%);
 
   a {
     text-decoration: none;
-    color: white;
+    color: black;
   }
 
   a:hover {
     text-decoration: underline;
-    color: white;
+    color: black;
   }
 
   ul {
