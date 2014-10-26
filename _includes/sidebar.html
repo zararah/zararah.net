@@ -1,33 +1,25 @@
-<div class="sidebar sidebar-default">
-	<div class="sidebar-links">
-		<div class=”row”>
- 		 <div class=”col-md-4”>
-<h1>Zara Rahman</h1>
+<div class="sidebar-inner">
+  <p>I'm Zara; feminist, bookworm, traveller.</p>
+  <section class="contact">
+<a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i> twitter.com/zararah</a><br>
+    <a href="mailto:zararah@gmail.com" target="_blank"><i class="fa fa-envelope"></i> email me</a><br>
+        <a href="/atom.xml"><i class="fa fa-rss"></i> subscribe</a>
+  </section>
+  <h3>Featured posts</h3>
 
-<p>I'm Zara; feminist, bookworm, traveller.</p>
+  <ul class="list-unstyled">
+    {% for post in site.categories.featured limit: 5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
-<h3>Featured posts</h3>
-
-<ul>
-  {% for post in site.posts limit: 5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <h3>Categories</h3>
+  <ul class="list-unstyled">
+  {% for category in site.category %}
+     <li><a href="{{ category.url }}">{{ category.title }}</a></li>
   {% endfor %}
-</ul>
+  </ul>
 
-<h3>Categories</h3>
-<ul>
-{% for category in site.categories %}
-   <li><a href="{{ category.url }}">{{ category | first }}</a></li>
-{% endfor %}
-</ul>
-<h4>Contact me</h4>
-    <section class="meta">
-
-      <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i> twitter.com/zararah</a><br>
-      <a href="{{ site.github_owner }}" target="_blank"><i class="fa fa-github"></i> github.com/zararah</a><br>
-      <a href="/atom.xml"><i class="fa fa-rss"></i> subscribe</a>
-    </section>
-    	</div>
-    	 </div>
-</div>
+<section class="license">
+  <small><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://zararah.net" property="cc:attributionName" rel="cc:attributionURL">Zara Rahman</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
 </div>
