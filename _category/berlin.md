@@ -1,0 +1,6 @@
+---
+title: Berlin
+
+---
+
+{{ content }}

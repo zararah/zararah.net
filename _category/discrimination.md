@@ -1,0 +1,6 @@
+---
+title: Discrimination
+
+---
+
+{{ content }}
