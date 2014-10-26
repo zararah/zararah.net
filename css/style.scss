@@ -46,6 +46,9 @@ code {
 pre {
   white-space: pre-wrap;
 }
+.verticalalign {
+  display: flex;
+}
 
 div.verticalalign:before,
 div.verticalalign:after {
