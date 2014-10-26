@@ -1,6 +1,8 @@
-
+<!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - zararah.net Zara Rahman</title>
     <meta name="author" content="Zara Rahman" />
     <meta name="description" content="{{page.description}}" />
@@ -16,16 +18,29 @@
     <link rel="alternate" type="application/atom+xml" title="Follow Zara's blog posts." href="http://zararah.net/atom.xml" />
 
   </head>
+  
   <body>
-    <div id="page">
-      {% include navigation.html %}
+    <div class="container">
       <div class="row">
-  	  <div class="col-md-4">
-    {% include sidebar.html %}
+        <div class="col-lg-4 sidebar">
+          <div class="sidebar-inner">
+           <a href="{{ site.url }}"><h1 class="sidebar">Zara Rahman</h1></a>
+          </div>
+        </div>
+        <div class="col-lg-8">
+          {% include navigation.html %}
+        </div>
+      </div>
+      <div class="row verticalalign">
+        <div class="col-lg-8 col-lg-push-4 main">
+          {{ content }}
+        </div>
+        <div class="col-lg-4 col-lg-pull-8 sidebar">
+          {% include sidebar.html %}
+        </div>
+      </div>
   </div>
-  	 <div class="col-md-8">
-      {{ content }}
-      {% include footer.html %}
-    </div>
-   </div>
+</body>
+</html>
+
 
