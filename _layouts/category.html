@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{% assign category_slug_array=page.url|split:"/" %}
+{% assign category_slug=category_slug_array[2] %}
+{% assign posts=site.categories[category_slug] %}
+
+<h3>Category: {{ page.title }}</h3>
+
+{% include postlist.html %}
