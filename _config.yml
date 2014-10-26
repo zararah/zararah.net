@@ -4,7 +4,24 @@ description: "Zara's blog"
 url: "http://localhost:4000"
 github.owner: "zararah"
 twitter: "zararah"
+pagine_path: "blog/page:num"
 paginate: 10
 
 markdown: rdiscount
-permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
+
+collections:
+  category:
+    output: true
+    permalink: /category/:path/
+
+gems:
+  - jekyll-redirect-from
