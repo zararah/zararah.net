@@ -25,3 +25,5 @@ collections:
 
 gems:
   - jekyll-redirect-from
+
+excerpt_separator: <!--more-->
