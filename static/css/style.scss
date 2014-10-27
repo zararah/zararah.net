@@ -87,6 +87,11 @@ h1.sidebar {
   color: $side-font-color;
   font-family: 'Source Sans Pro', sans-serif;
 
+  .featured-list li {
+    margin: 0;
+    padding: 0px 0px 7px 0px;
+  }
+
   a, li a {
     color: lighten($purple-5, 15%);
   }
