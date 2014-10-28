@@ -36,6 +36,8 @@ a {
 
 a:hover {
   color: $link-color;
+  text-decoration: none;
+
 }
 
 code {
@@ -98,6 +100,8 @@ h1.sidebar {
 
   a:hover {
     color: $link-color;
+    text-decoration: none;
+
   }
 
   .license {
