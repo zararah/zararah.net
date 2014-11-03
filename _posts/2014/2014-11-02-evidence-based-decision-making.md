@@ -33,7 +33,7 @@ Or let's say that a programme manager receives evidence to say that a project is
 
 In both of these cases, individuals are acting against their best judgement, because of external pressures. In an ideal world, this would happen rarely if at all. In the real world, this happens all the time.
 
-To go on to my second point: no data is neutral. Evidence, data and even "facts" have within them a multitude of biases, and to accept them without questioning is at best an injustice, and worst, is causing harm to those involved.
+To go on to my second point: [no data is neutral](http://newamerica.org/downloads/OTI-Data-an-Discrimination-FINAL-small.pdf). Evidence, data and even "facts" have within them a multitude of biases, and to accept them without questioning is at best an injustice, and worst, is causing harm to those involved.
 
 Especially within the cultural minefield of international development, biases within 'evaluation' or 'evidence' drawn from projects are rife. Some simply can't be helped, but require people using that evidence to do what they can to mitigate the biases. Others are a result of poor programme management.
 
