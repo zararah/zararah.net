@@ -1,0 +1,6 @@
+---
+title: Global development
+
+---
+
+{{ content }}
