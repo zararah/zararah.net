@@ -21,7 +21,7 @@ So, I tried [asking on Twitter](https://twitter.com/zararah/status/5332309493547
 
 For posterity, I'm recording them here - I doubt I'll get round to reading even a fraction on this trip, but in case they are useful to anybody else:
 
-*With big thanks to the very cool ladies on Twitter who recommended these books - Renata, Paz, Jinan, Marianne, Gaba*
+*With big thanks to the very cool ladies on Twitter who recommended these books - Renata, Paz, Jinan, Marianne, Gaba, Biella, Gabriela, Lena*
 
 * Rigoberta Menchu - (Guatemala) I studied her semi-biography, ["I, Rigoberta Menchu"](https://www.goodreads.com/book/show/233292.I_Rigoberta_Mench_), in university, and loved it. Highly recommended.
 
@@ -43,5 +43,22 @@ For posterity, I'm recording them here - I doubt I'll get round to reading even 
 
 * [Stefania Mosca](https://es.wikipedia.org/wiki/Stefania_Mosca) (Venezuela)
 
-* [Julia Alvarez](https://www.goodreads.com/author/show/7277.Julia_Alvarez) - (Dominican Republic) [In the time of butterflies](https://www.goodreads.com/book/show/11206.In_the_Time_of_the_Butterflies?from_search=true)
+* [Julia Alvarez](https://www.goodreads.com/author/show/7277.Julia_Alvarez) (Dominican Republic) [In the time of butterflies](https://www.goodreads.com/book/show/11206.In_the_Time_of_the_Butterflies?from_search=true)
+
+* [Isabel Allende](https://es.wikipedia.org/wiki/Isabel_Allende) (Chile) - probably the most well known Latin American woman author
+
+* [Anacristina Rossi](https://es.wikipedia.org/wiki/Anacristina_Rossi) (Costa Rica) (but sadly, no books available for download from Germany via Kindle...)
+
+* [Virginia Grutter](https://es.wikipedia.org/wiki/Virginia_Grutter) (Costa Rica) (also no books available via Kindle download)
+
+* [Carmen Naranjo](https://es.wikipedia.org/wiki/Carmen_Naranjo) (Costa Rica) 
+
+* [Tatiana Lobo](https://es.wikipedia.org/wiki/Tatiana_Lobo) (Costa Rica)
+
+* [Marosa Di Giorgio](https://es.wikipedia.org/wiki/Marosa_di_Giorgio) (Uruguay) 
+
+* [Armonía Sommers](https://es.wikipedia.org/wiki/Armon%C3%ADa_Somers) (Uruguay)
+
+* [Idea Vilariño](https://es.wikipedia.org/wiki/Idea_Vilari%C3%B1o) (Uruguay)
+
 
