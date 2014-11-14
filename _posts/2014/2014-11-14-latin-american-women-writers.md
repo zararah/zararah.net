@@ -43,3 +43,5 @@ For posterity, I'm recording them here - I doubt I'll get round to reading even 
 
 * [Stefania Mosca](https://es.wikipedia.org/wiki/Stefania_Mosca) (Venezuela)
 
+* [Julia Alvarez](https://www.goodreads.com/author/show/7277.Julia_Alvarez) - (Dominican Republic) [In the time of butterflies](https://www.goodreads.com/book/show/11206.In_the_Time_of_the_Butterflies?from_search=true)
+
