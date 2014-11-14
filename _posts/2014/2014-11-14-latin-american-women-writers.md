@@ -13,6 +13,8 @@ One of my favourite things to do while travelling is to read a fictional novel s
 
 So, as I'm travelling to Costa Rica tomorrow, I've been looking for books written by Costa Rican women, or set in Costa Rica, that I can download on my Kindle. Somehow, I'm having very little luck! Among all of the books in this Goodreads list of ['Books set in Costa Rica'](https://www.goodreads.com/places/262-costa-rica) none of them really take my fancy, or they aren't available on Kindle (or, are written by men- which I'm [not reading this year](http://zararah.net/blog/2014/07/05/halfway-through-readwomen2014-6-month-update/))
 
+<!--more-->
+
 I came across good reviews of Tatiana Lobo's book, [Assault on Paradise](https://www.goodreads.com/book/show/1958749.Assault_on_Paradise) but it's unfortunately unavailable for download on the Kindle, and I don't have time to buy a hard copy of it before travelling. 
 
 So, I tried [asking on Twitter](https://twitter.com/zararah/status/533230949354704896)- it seems as though Costa Rican women writers are hard to find, but there were some really great suggestions of other women writers from Central and South America.
