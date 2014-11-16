@@ -21,7 +21,7 @@ So, I tried [asking on Twitter](https://twitter.com/zararah/status/5332309493547
 
 For posterity, I'm recording them here - I doubt I'll get round to reading even a fraction on this trip, but in case they are useful to anybody else:
 
-*With big thanks to the very cool ladies on Twitter who recommended these books - Renata, Paz, Jinan, Marianne, Gaba, Biella, Gabriela, Lena*
+*With big thanks to the very cool ladies on Twitter who recommended these books - Renata, Paz, Jinan, Marianne, Gaba, Biella, Gabriela, Lena, Maricarmen*
 
 * Rigoberta Menchu - (Guatemala) I studied her semi-biography, ["I, Rigoberta Menchu"](https://www.goodreads.com/book/show/233292.I_Rigoberta_Mench_), in university, and loved it. Highly recommended.
 
@@ -60,5 +60,7 @@ For posterity, I'm recording them here - I doubt I'll get round to reading even 
 * [Armonía Sommers](https://es.wikipedia.org/wiki/Armon%C3%ADa_Somers) (Uruguay)
 
 * [Idea Vilariño](https://es.wikipedia.org/wiki/Idea_Vilari%C3%B1o) (Uruguay)
+
+* [Clarice Lispector](https://en.wikipedia.org/wiki/Clarice_Lispector) (Brazil) - [A hora da Estrela](https://en.wikipedia.org/wiki/The_Hour_of_the_Star)
 
 
