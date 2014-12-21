@@ -3,10 +3,15 @@ layout: post
 title: A few of my favourite things (part 1)
 date: '2014-12-20'
 category:
+- data
+- languages
+- coding
 tags:
 ---
 
 Here are a few bits and pieces that I discovered this year and enjoyed especially. In Part 1: Artivism, Coding, Data Visualisation, Language, Journalism, Technology and Women in Tech.
+
+<!--more-->
 
 ## Art as activism
 
