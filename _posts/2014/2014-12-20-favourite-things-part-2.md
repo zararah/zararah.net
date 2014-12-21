@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A few of my favourite things (part 2)
+title: A few more of my favourite things (part 2)
 date: '2014-12-21'
 category:
 - diversity
@@ -10,7 +10,7 @@ category:
 tags:
 ---
 
-Part two of a few of my favourite things, ([see here for Part 1](http://zararah.net/blog/2014/12/20/favourite-things-2014/)); this time Feminism, Diversity + Inclusivity, Bangladesh, and All-women lists.
+Part two of a few of my favourite things from 2014, ([see here for Part 1](http://zararah.net/blog/2014/12/20/favourite-things-2014/)); this time Feminism, Diversity + Inclusivity, Bangladesh, and All-women lists.
 
 <!--more-->
 
