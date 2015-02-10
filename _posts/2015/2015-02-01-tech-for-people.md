@@ -5,6 +5,7 @@ date: '2015-02-01'
 category:
 - data
 - coding
+- technology
 tags:
 ---
 

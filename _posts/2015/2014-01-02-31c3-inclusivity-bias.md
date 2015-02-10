@@ -4,6 +4,7 @@ title: "31c3: inclusivity, bias and awareness"
 date: '2015-01-04'
 category:
 - data
+- technology
 tags:
 ---
 
