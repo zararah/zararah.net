@@ -15,6 +15,7 @@ A couple of weeks ago, I wrote a [post about how civic tech tools need to be "le
 <!--more--> 
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p><a href="https://twitter.com/zararah">@zararah</a> I wouldn&#39;t criticise &#39;shiny&#39; initiatives, simply b/c despite shallow vision and vague goals, they&#39;re opp&#39;s for disruptive leverage</p>&mdash; Oleg Lavrovsky (@loleg) <a href="https://twitter.com/loleg/status/560772717121916928">January 29, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Interestingly, it turned out that all of the people who made comments like the one above are developers themselves. This surprised me at first - the people who are tasked with the literal building and making of such "shallow" tools, defending them?
 
