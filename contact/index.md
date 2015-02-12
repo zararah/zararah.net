@@ -7,7 +7,7 @@ layout: default
 
 You can find me online in the following places: email, or (preferably, actually) Twitter is the best way to get hold of me.
 
-Email: zararah [at] gmail.com
+Email: mail@zararah.net [(Public Key)](/about/key.html)
 
 Twitter: [@zararah](http://twitter.com/zararah)
 
