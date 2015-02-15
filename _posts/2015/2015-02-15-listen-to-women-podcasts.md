@@ -48,4 +48,4 @@ I'm not going to go on counting lists, but now, my question has become: **where 
 
 Last year I set myself a target of [only reading books by women](http://zararah.net/blog/2014/12/26/50-books-2014/) - and it was a great experience, for many reasons. So this year, I've decided, will be **the year of listening to women.** They must be out there - and I'm determined to find them. (And maybe even start contributing to the field myself...watch this space!)
 
-Given that I've got lots of great podcast recommendations, but actually only **5** by women - recommendations would be really welcome. A big thanks to everyone who populated this original list, too, I really appreciate it! 
+Given that I've got lots of great podcast recommendations, but actually only **5** by women - recommendations would be really welcome - I'll be using #listentowomen2015 to post the ones I find on Twitter, so please do join me! And a big thanks to everyone who populated this original list, too, I really appreciate it! 
