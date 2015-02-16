@@ -8,6 +8,8 @@ category:
 tags:
 ---
 
+*This post is being updated with more links/corrections on an ongoing basis! To see older versions, check [the Github repo](https://github.com/zararah/zararah.github.io)*
+
 A few weeks ago, I asked online via Twitter, and offline to friends of mine - what's your favourite podcast? 
 
 I got these responses: 
@@ -34,7 +36,7 @@ I started listening to a few of the recommended shows, but before I could get on
 
 ### What do you notice about this list? 
 
-Out of the 13 I've listed above (which were sourced as randomly as asking my Twitter followers and friends can be) - **10 are hosted or co-hosted by men**. Only three - n00bcore hosted by the lovely [Fiona](https://arduina.github.io/arduina.net/), Invisibilia, and The Digital Human, are hosted by women. 
+Out of the 13 I've listed above (which were sourced as randomly as asking my Twitter followers and friends can be) - **9 are hosted or co-hosted by men**. Only four - n00bcore hosted by the lovely [Fiona](https://arduina.github.io/arduina.net/), Invisibilia, Serial and The Digital Human, are hosted by women. 
 
 Hmm. But maybe the skewed gender balance is just down to me and my contacts: what about the ones being recommended on bigger platforms?
 
