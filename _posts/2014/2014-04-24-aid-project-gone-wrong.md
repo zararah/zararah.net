@@ -5,7 +5,7 @@ date: '2014-04-24'
 category:
 - data
 - technology
-- globaldev
+- global-dev
 tags:
 ---
 
