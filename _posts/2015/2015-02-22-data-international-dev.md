@@ -4,7 +4,7 @@ title: "Data in international development: a look at the (potential) dark side o
 date: '2015-02-22'
 category:
 - data
-- globaldev
+- global-dev
 - technology
 tags:
 ---

@@ -4,7 +4,7 @@ title: "The role of mass surveillance in humanitarian crises"
 date: '2014-02-11'
 category:
 - data
-- globaldev
+- global-dev
 - technology
 tags:
 ---
