@@ -6,6 +6,7 @@ category:
 - feminism
 - diversity
 tags:
+- feminism
 ---
 
 All year, I've been keeping a custom Twitter timeline of cool acts of feminism that are happening in the 'majority world' - ie. low-income countries. I wrote about why I've been doing that [here](http://zararah.net/blog/2014/04/13/getting-new-perspectives-online-listening-to-the/) earlier in the year.

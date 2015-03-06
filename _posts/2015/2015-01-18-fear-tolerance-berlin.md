@@ -6,6 +6,9 @@ category:
 - data
 - discrimination
 tags:
+- discrimination
+- diversity
+- berlin
 ---
 
 The last few weeks have seen growing protests "against Islam" across Germany, which made me feel surprisingly uncomfortable here in Berlin - until I saw how willing and supportive Berliners were against such discriminatory, fascist behaviour.

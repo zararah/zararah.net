@@ -8,6 +8,7 @@ category:
 - berlin
 - discrimination
 tags:
+- berlin
 ---
 
 Earlier this weekend, I came across [this reddit post](http://redd.it/2mmhe7), entitled 'Being a black woman in Berlin'. It's a sad endictment on society here in Berlin that someone is experiencing such awful treatment from those in the city; sadly, though, I'm not surprised, judging from my own experiences. I'm also finding both the original post and the following comments to be revealing about German society in general.

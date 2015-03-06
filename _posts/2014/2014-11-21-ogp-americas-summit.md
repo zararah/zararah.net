@@ -3,7 +3,12 @@ layout: post
 title: "Reflections from the OGP Americas Summit"
 date: '2014-11-16'
 category:
-- Global Development
+- global-dev
+- tech
+tags:
+- events
+- open-data
+
 ---
 
 I've spent the past week at the OGP Americas summit, in San Jose, Costa Rica. A number of things struck me about the way I personally think about OGP, and about the way that OGP might evolve in the future. 

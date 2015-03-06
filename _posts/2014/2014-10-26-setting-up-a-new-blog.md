@@ -7,6 +7,7 @@ category:
 tags:
 - jekyll
 - github
+- learntocode
 ---
 
 I’ve been meaning to migrate my blog off Tumblr for a while now, and on to Github pages. Why? I don’t like the writing/editing interface for text in Tumblr (the window is too small to be able to see much text) - certain bits of html disappear between the visual editor and the html editor - it’s difficult to use images or put code snippets in, and I want to be able to write in Markdown, to name just a few reasons. I also like the idea of creating lists or resources that other people can contribute to - ie. via Github - that can live on my site, and I want to be able to customise it a little more easily than Tumblr offers.

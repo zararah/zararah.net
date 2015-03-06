@@ -7,7 +7,7 @@ category:
 - global development
 tags:
 - data
-- global development
+- global-dev
 - ICT4D
 ---
 

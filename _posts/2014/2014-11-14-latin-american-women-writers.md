@@ -5,8 +5,8 @@ date: '2014-11-14'
 category:
 - bookworm
 tags:
-- south america
-- central america 
+- readinglist
+- books
 ---
 
 One of my favourite things to do while travelling is to read a fictional novel set in the place I'm travelling in. Whether that be region, country or city, especially in areas I don't know very well, I've found it to be a brilliant way to get a feel for the country. Some of my favourites have included reading [Shantaram](https://www.goodreads.com/book/show/33600.Shantaram?from_search=true) while backpacking around northern India (there's nothing quite like sitting in the same cafe as the main character in your book!) - and, more recently, [Indonesia Etc](https://www.goodreads.com/book/show/18377963-indonesia-etc?ac=1) while I was in Indonesia last month, which, although non-fiction, is written in a really engaging and easy-to-read way.

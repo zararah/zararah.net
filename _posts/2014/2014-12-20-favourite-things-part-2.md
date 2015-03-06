@@ -8,6 +8,9 @@ category:
 - feminism
 - discrimination
 tags:
+- feminism
+- discrimination
+- bangladesh
 ---
 
 Part two of a few of my favourite things from 2014, ([see here for Part 1](http://zararah.net/blog/2014/12/20/favourite-things-2014/)); this time Feminism, Diversity + Inclusivity, Bangladesh, and All-women lists.

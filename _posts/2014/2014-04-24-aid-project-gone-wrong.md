@@ -7,6 +7,8 @@ category:
 - technology
 - global-dev
 tags:
+- global-dev
+- responsibledata
 ---
 
 When we talk about "open government", it's common to also hear talk of transparency and accountability alongside. At its simplest, a government being transparent and open about their actions is a necessary step for citizens to know what is happening in their country, and to understand what decisions are being made on their behalf. Having access to this information is also a necessary step for citizens to be able to hold government accountable for their actions, and citizens being able to take action through legal and official means when they feel a government has taken irresponsible actions is a crucial step in this chain.

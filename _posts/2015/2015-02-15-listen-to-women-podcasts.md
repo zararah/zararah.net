@@ -6,6 +6,7 @@ category:
 - data
 - technology
 tags:
+- feminism
 ---
 
 *This post is being updated with more links/corrections on an ongoing basis! To see older versions, check [the Github repo](https://github.com/zararah/zararah.github.io)*

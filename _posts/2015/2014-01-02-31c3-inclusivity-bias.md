@@ -6,6 +6,9 @@ category:
 - data
 - technology
 tags:
+- diversity
+- events
+- technology
 ---
 
 

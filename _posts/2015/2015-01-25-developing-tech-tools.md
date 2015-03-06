@@ -8,6 +8,9 @@ category:
 - transparency
 - technology
 tags:
+- tech-tools
+- civic-tech
+- ddj
 ---
 
 This week, I had the pleasure of joining a group of about 100 people working on topics around ['following the money'](http://tech.transparency-initiative.org/strategy-session/using-technology-to-follow-the-money/) at a two day workshop in Berlin. There was a mixture of people at this workshop; technologists, activists, journalists, and funders. One of the first 'spectogram' questions that was asked was regarding 'shiny tech tools, and whether they are useful or not. 

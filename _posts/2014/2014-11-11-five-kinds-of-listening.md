@@ -7,6 +7,8 @@ category:
 - data
 tags:
 - journalism
+- global-dev
+- community
 ---
 
 I just came across [Josh Stearn’s](https://twitter.com/jcstearns) post, [Five Kinds of Listening for Newsrooms and Communities](https://medium.com/the-local-news-lab/five-kinds-of-listening-for-newsrooms-and-communities-67c373c25df8). As I read, it struck me that a lot of what is in there could apply almost directly to the global development community, but with some little language changes. So, following [Josh’s method of forking other people’s posts](http://localnewslab.org/2014/10/02/journalism-must-meet-people-where-they-are/), here are five kinds of listening, for global development.

@@ -8,6 +8,8 @@ category:
 - transparency
 - technology
 tags:
+- tech-tools
+- civic-tech
 ---
 
 A couple of weeks ago, I wrote a [post about how civic tech tools need to be "less shiny, and more useful"](http://zararah.net/blog/2015/01/25/developing-tech-tools/). I got some good feedback about this - most people agreeing with the general premise behind it, but some people spoke out in defence of 'shiny': 

@@ -7,6 +7,9 @@ category:
 - coding
 - technology
 tags:
+- tech-tools
+- civic-tech
+- ddj
 ---
 
 I've been trying recently to think about the things I'm most interested in, and I realised that with regards to technology, there are a few terms that come to mind: **civic technology**, **data journalism**, and **Information Communication Technologies for Development**, or **ICT4D**. The more I think about the three seemingly disparate labels, the more similarities I see between them.

@@ -7,6 +7,9 @@ category:
 - languages
 - coding
 tags:
+- ddj
+- languages
+- feminism
 ---
 
 Here are a few bits and pieces that I discovered this year and enjoyed especially. In Part 1: Artivism, Coding, Data Visualisation, Language, Journalism, Technology and Women in Tech.

@@ -8,6 +8,9 @@ category:
 tags:
 - data
 - Wikipedia
+- diversity
+- feminism
+- technology
 ---
 
 Hedy Lamarr, co-inventor of an early technique for frequency hopping, which was the predecessor for wireless communications, was born 100 years ago today. 
