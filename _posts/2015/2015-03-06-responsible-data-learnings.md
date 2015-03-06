@@ -8,7 +8,7 @@ category:
 - globaldev
 ---
 
-Last week, I attended the Responsible Data in Humanitarian Response meeting in The Hague, along with about 100 other people working in this field. Below, I've tried to summarise what my main learnings from the two days were. 
+The [Responsible Data in Humanitarian Response](http://www.responsible-data.org/) meeting held last week in The Hague gave me a lot of food for thought; below, I've tried to summarise what my main learnings from the two days were. 
 
 <!--more-->
 
