@@ -2,7 +2,7 @@
 
 require 'jekyll/post'
 
-module BetterRelatedPosts
+module RelatedPosts
 
   # Used to remove #related_posts so that it can be overridden
   def self.included(klass)
@@ -62,7 +62,7 @@ end
 
 module Jekyll
   class Post
-    include BetterRelatedPosts
-    extend BetterRelatedPosts::ClassMethods
+    include RelatedPosts
+    extend RelatedPosts::ClassMethods
   end
 end
