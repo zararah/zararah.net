@@ -8,6 +8,7 @@ category:
 - transparency
 - technology
 tags:
+- responsibledata
 ---
 
 Last week, I joined the [Responsible Data for Humanitarian Response](http://www.responsible-data.org/) meeting in The Hague, where I had the pleasure of moderating a session on civic data streams, as well as talking about the [International Aid Transparency Initiative](http://www.aidtransparency.net/) process, together with [Roderick Besseling](https://twitter.com/rbesseling) of Cordaid. Roderick talked more about the specifics of using IATI within Cordaid, and it was really impressive to see how they are actually using internally the data they publish to IATI - while I talked about IATI data from a more general perspective. 

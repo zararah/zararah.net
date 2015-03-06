@@ -7,6 +7,7 @@ category:
 - global-dev
 - technology
 tags:
+- responsibledata
 ---
 
 Yesterday, I gave a talk at the [Stiftung Neue Verantwortung](http://www.stiftung-nv.de/) here in Berlin, about the work I've been doing looking into how data is being used in international development. I adapted a presentation I did together with [Becky Kazansky](https://www.beckykazansky.com/) at last year's re:publica, [which you can see online here](http://re-publica.de/session/data-international-development-how-even-best-intentions-can-pave-road-surveillance), where we talked about the unintended consequences of increased uses of technology in development.

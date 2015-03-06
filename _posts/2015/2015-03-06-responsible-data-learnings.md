@@ -5,7 +5,11 @@ date: '2015-03-06'
 category:
 - data
 - technology
-- globaldev
+- global-dev
+tags:
+- global-dev
+- technology
+- responsibledata
 ---
 
 The [Responsible Data in Humanitarian Response](http://www.responsible-data.org/) meeting held last week in The Hague gave me a lot of food for thought; below, I've tried to summarise what my main learnings from the two days were. 
