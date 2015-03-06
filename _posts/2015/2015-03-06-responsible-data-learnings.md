@@ -10,6 +10,8 @@ category:
 
 Last week, I attended the Responsible Data in Humanitarian Response meeting in The Hague, along with about 100 other people working in this field. Below, I've tried to summarise what my main learnings from the two days were. 
 
+<!--more-->
+
 ### Starting on the same page
 
 When we're coming together in a meeting such as the one held last week, it is important that we all understand some basic key concepts. A few definitions to start, then: 
@@ -28,7 +30,7 @@ And just one more - 'open data', from the [Open Definition](http://opendefinitio
 
 <blockquote><em> “Open data and content can be freely used, modified, and shared by anyone for any purpose”</em></blockquote> 
 
-The three terms I've defined here are becoming quite the buzzwords within the global development sector, and from what I heard last week, we seem to be using them in very different ways. On one hand, this variation could be something to be welcomed - thinking about, for example, what "open data" means to those living in low/no-tech environments. On the other hand, starting from very different understandings of these oft-referred to terms makes it difficult to progress in discussions and debates. It is crucial to begin at the same place, even if we then diverge to make them more specific to our particular contexts.
+The three terms defined here are becoming quite the buzzwords within the global development sector, and from what I heard last week, we seem to be using them in very different ways. On one hand, this variation could be something to be welcomed - thinking about, for example, what "open data" means to those living in low/no-tech environments. On the other hand, starting from very different understandings of these oft-referred to terms makes it difficult to progress in discussions and debates. It is crucial to begin at the same place, even if we then diverge to make them more specific to our particular contexts.
 
 ### Responsible data - noun, verb, or adjective?
 
