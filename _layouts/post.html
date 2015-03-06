@@ -6,7 +6,15 @@ layout: default
   	<p class="muted">{{ page.date | date: "%-d %B %Y" }}</p>
 {{content}}
 
-	<strong>tags:</strong>
+<hr>
+        <h3>You might also like:</h3>
+        <ul>
+        {% for rel in site.related_posts limit:5 %}
+            <li><a href="{{ rel.url }}">{{ rel.title }}</a></li>
+        {% endfor %}
+        </ul>
+
+<!-- 	<strong>tags:</strong>
 {% for tag in page.tags %}
 	{{ tag }}
 {% endfor %}
@@ -18,3 +26,4 @@ layout: default
      <li><a href="{{ tag.url }}">{{ tag | first }}</a></li>
   {% endfor %}
   </ul>
+ -->
