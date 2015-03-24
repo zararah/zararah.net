@@ -36,4 +36,5 @@ I appreciate greatly that many NGOs seem to be moving towards research work and 
 
 Seemingly, donors are indeed willing to fund activities that take a more thoughtful perspective on the work we're doing in this space; I can only encourage people to push for this within their own organisations too, to take the time to think about why we're doing what we're doing, and to be as frank as we can in sharing what's going well, and what's going wrong.
 
+*Thanks to [Dirk Slater](http://fabriders.net/) for some fabulous facilitation of the workshop, and to all the participants for sharing their learnings in a frank and honest way!*
 
