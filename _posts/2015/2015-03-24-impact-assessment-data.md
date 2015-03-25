@@ -18,13 +18,19 @@ An interesting exercise asked us to define what we actually meant by 'impact ass
 
 <!--more-->
 
+### Accepting and embracing failure 
+
 It's been [talked about many times before](http://code4sa.org/2014/08/29/what-ngos-can-learn-from-start-ups-about-failure.html), but in the environment in which we work, failure is not well received. An admission that a project didn't quite work is seen as something to be hidden or disguised, not something to be assessed and written about publicly. That said, more and more events I've been to over the past year or so have featured some sort of ['failure fest'](https://www.techchange.org/2014/12/12/fail-fest-2014-lessons-online-learning-mistakes/) - a place for people to talk about what worked and what didn't, in an open and honest way. Normally, these are done as a confidential activity, with those stories being told on the condition that they don't go any further; it's a good first step, but it really is only a first step; [sharing these stories publicly](https://www.admittingfailure.org/), without fear of negative consequences, would be an excellent next step.
+
+### Who is assessing impact now, and how?
 
 A perhaps more revealing exercise asked us to define what the elements were of **successful impact assessments** that we had seen or carried out ourselves. The admission: many of us simply weren't engaged in carrying out impact assessments ourselves, despite knowing that assessing what we're doing is a crucial part of improving and iterating upon our projects and programmes.
 
 The reasons for this are, in some ways, very simple: we don't have the resources, whether that be time within the project to conduct an impact assessment, or enough people to do this while carrying out all of the other activities that we have to do. We find ourselves with other, more pressing priorities; ones that reach more people, or ones that seem to have a more positive short term effect.
 
 The solutions to this problem, are less so. For example, and this was suggested by a workshop participant: asking donors to commit a certain proportion of any funding to impact assessment. Having it included from the very inception of the programme as a key component would solve those resource issues - but then we're left with the design of the impact assessment to think about. 
+
+### Project delivery priorities 
 
 Another potential problem on the road to 'assessing impact' of many of the projects we do, is the longevity of those projects, and the very differing geographic and cultural contexts in which we work. We imagined that the best kind of situation for a proper impact assessment would be a long term project, of 2-3 years, carried out with the same community, on a regular basis. In reality, however, this kind of situation very, very rarely happens. Typically, we work with different people in different countries, different contexts, over the period of usually a few months maximum. Attributing any change that might happen among that community to the trainings we've done, seems a little premature, to say the least, and the huge differences between those communities make transferring learnings between them fairly difficult (though not impossible).
 
