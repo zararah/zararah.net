@@ -30,9 +30,18 @@ Hashtag campaigns are, these days, nothing new - but over the years, there have 
 
 ### Comparison to familiarity
 
-<img src="{{ site.url }}/assets/blog/2015/if-germany-were.png" alt="if germany were syria" align="left">
+<img src="{{ site.url }}/assets/blog/2015/if-germany-were.png" alt="if germany were syria" style="margin-right:10px;" align="left">
 
-The campaign site, [If We Were Syrian](http://ifweweresyrian.org), compares the casualties experienced in Syria to a place more familiar to the viewer. An infographic is generated for the viewer, based upon the choice of one of eight developed countries, localising the level of destruction to a country where this kind of conflict is, happily, unknown in the modern day.
+The campaign site, [If We Were Syrian](http://ifweweresyrian.org), compares the casualties experienced in Syria to a place more familiar to the viewer. An infographic (such as the one here) is generated for the viewer, based upon the choice of one of eight developed countries, localising the level of destruction to a country where this kind of conflict is, happily, unknown in the modern day.
+
+
+
+
+
+
+
+
+
 
 ### Time comparisons
 
