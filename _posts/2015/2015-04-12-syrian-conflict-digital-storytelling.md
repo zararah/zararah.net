@@ -15,6 +15,8 @@ As Susan Sontag said, [images transfix, and anaesthetize](http://sontagfilm.org/
 
 Here are a few examples I've come across of interesting campaigns and stories around the Syrian conflict, all of which evoked strong emotions for me.
 
+<!--more-->
+
 ### Hashtag campaigns
 
 Hashtag campaigns are, these days, nothing new - but over the years, there have been various used on this theme. One of the most heartwrenching for me was the hashtag [#whenIgobacktoSyria](https://twitter.com/search?q=%23whenigobacktosyria&src=typd), [started by Leila Nachawati](http://leilanachawati.net/2013/03/when-i-go-back-to-syria/), a Spanish-Syrian blogger now living outside of the country. It showed another side to the conflict that we rarely see through- not one of destruction and tragedy, but one of regular, everyday life, and the happiness that could be drawn from it. 
@@ -72,9 +74,9 @@ Of all of the sites and pages linked here, just one - the UNICEF Children of Syr
 
 Many of the sites linked here seem to aim at evoking emotion among the viewer, whether that be empathy, horror, or sadness. Efforts at telling the story are powerful and valuable; but are they enough? 
 
-Given the terrible situation the country is currently in, storytelling seems to fall sadly short. It seems to be a missed opportunity to not provide an option for the viewer's resulting emotion to be converted into actual action that would benefit the country and its people.
+Given the terrible situation the country is currently in, storytelling seems to fall sadly short. Not providing an option for the viewer's resulting emotion to be converted into actual action that would benefit the country and its people, is a missed opportunity.
 
-This could take a variety of forms; some sort of "easy ask" appearing on the site, with a direct "donate" button, or a link on all such stories to a list of organisations working in various support capacities, for example. I value storytelling hugely, but I value action, too.
+This could take a variety of forms; some sort of "easy ask" appearing on the site, with a direct "donate" button, or a link on all such stories to a list of organisations working in various support capacities, for example. I value storytelling hugely, but, especially in this tragic case, action seems much more valuable.
 
 
 
