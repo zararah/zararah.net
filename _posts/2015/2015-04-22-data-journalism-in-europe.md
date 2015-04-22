@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data journalism problems in Europe: change the culture, not the technology"
-date: '2015-04-07'
+date: '2015-04-22'
 category:
 - data
 - technology
@@ -12,6 +12,7 @@ tags:
 Last week, I attended the International Journalism Festival in Perugia. It was beautiful, and in many ways, surprising. 
 
 <img src="{{ site.url }}/assets/blog/2015/perugia.jpg" alt="perugia picture" style="margin-right:10px;" align="left">
+<br>
 
 With my usual work, I spend most of my time thinking about how civil society and journalists can use data more effectively in their work, and the problems that we come up against are things like: 
 
@@ -19,13 +20,15 @@ With my usual work, I spend most of my time thinking about how civil society and
 * Not having access to the right technologies (tools behind a paywall, open source tools might not do the trick)
 * Not having (good enough) access to internet - or, audiences having low levels of connectivity
 * Being in restrictive political environments with low levels of press freedom
-* Self-censorship, digital security
+* Digital security
 
 But here, the problems mentioned were largely very different. The hurdles facing data journalism here aren't related to technology, they're related to culture.
 
-## European problems
+<!--more-->
 
-It's called the International Journalism Festival, but it's safe to say the very large majority of the participants were from Europe. The problems that people seemed to be talking about in Perugia differed somewhat upon their roles in the newsroom. I find these issues around culture and technology fascinating, so I tried to talk to as many people as possible about it, and here - summed up in a few, generic user profiles - is what I learned.
+### European problems
+
+It's called the International Journalism Festival, but it's safe to say the very large majority of the participants were from Europe. The problems that people seemed to be talking about in Perugia regarding data journalism, and actually getting stuff done, differed somewhat upon their roles in the newsroom. I find these issues around culture and technology fascinating, so I tried to talk to as many people as possible about it, and here - summed up in a few, generic user profiles - is what I learned.
 
 ### "Traditional" Journalists
 
@@ -57,7 +60,7 @@ Our of the [14 most visited stories on the New York Times last year](http://www.
 
 Like it or not, your job is, in part, advocacy and sharing your skills. Before others in your newsroom will come to you with a story idea, they need to understand what you can do - and to do that, they need to boost their technical literacy, with your help! Make it clear that you're open for questions, that you're willing to help them on stories - maybe with a standard daily 'office hour' where anyone can drop in and ask for your help, for example.
 
-## Conclusion (and disclaimer)
+### Conclusion (and disclaimer)
 
 I'm none of the above, but I do like the role of trying to work out what people's needs and problems are in the context of technology and journalism, or activism. Of course there were other problems mentioned at the festival, but these are the most prominent ones I heard regarding data journalism and newsroom culture. Here's to more integrated, data-driven newsrooms of the future!
 
