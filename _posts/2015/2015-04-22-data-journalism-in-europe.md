@@ -11,9 +11,6 @@ tags:
 
 Last week, I attended the International Journalism Festival in Perugia. It was beautiful, and in many ways, surprising. 
 
-<img src="{{ site.url }}/assets/blog/2015/perugia.jpg" alt="perugia picture" style="margin-right:10px;" align="left">
-<br>
-
 With my usual work, I spend most of my time thinking about how civil society and journalists can use data more effectively in their work, and the problems that we come up against are things like: 
 
 * Not having enough data (eg. it doesn't exist, it's not online, no access to it)
