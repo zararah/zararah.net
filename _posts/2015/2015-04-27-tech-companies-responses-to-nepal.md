@@ -35,3 +35,10 @@ Here's a list of responses from tech companies that I've come across so far; I'm
 
 * As well as the Google Person Finder, above, Google have also dropped the cost of [calling with Google Voice to Nepal](http://googleasiapacific.blogspot.sg/2015/04/responding-to-nepal-earthquake.html) from a standard 19 USD cents to 1 USD cent per minute. They've said they're keeping the minimal 0.01USD cost to prevent spammers from abusing the system and "possibly adding more load to the already stretched Nepalese telephone network." (thanks to [Kate](https://twitter.com/kati_ver/) for pointing this one out!)
 
+* Skype have made [all Skype calls to landlines and mobiles in and out of Nepal free of charge](http://blogs.skype.com/2015/04/27/free-calls-to-land-lines-and-mobiles-in-nepal/) - and, unlike the others above, this comes with a prominent disclaimer: 
+
+<blockquote>Excludes calls to special, premium service and non-geographical numbers. Skype’s Terms of Use apply. Internet and mobile fees may apply. Skype may discontinue or amend this offer at any time and may close any account for abuse. For individual use only.</blockquote>
+
+
+
+
