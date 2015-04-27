@@ -31,3 +31,7 @@ Here's a list of responses from tech companies that I've come across so far; I'm
 
 * [Twilio](https://www.twilio.com/), a software company working on business communications, launched a '[Call your Family](http://callyourfamily.twilio.ly/)' initiative via Twilio.org, providing a free 10 minute call "a loved one affected by the Nepalese earthquake." Note: this doesn't seem to be restricted to calling users actually in Nepal, as you can select the country you'd like to call in the browser. (thanks to [Sonja](https://twitter.com/sonjaheinen) for bringing this one to my attention!)
 
+* [T-Mobile has waived all costs for calls and texts to and from Nepal](http://newsroom.t-mobile.com/news/nepal.htm) - and unlike the other offerings listed above, they also specify the time scale, saying that calls and texts will be free of cost from "Saturday, April 25 through Saturday, May 16".
+
+* As well as the Google Person Finder, above, Google have also dropped the cost of [calling with Google Voice to Nepal](http://googleasiapacific.blogspot.sg/2015/04/responding-to-nepal-earthquake.html) from a standard 19 USD cents to 1 USD cent per minute. They've said they're keeping the minimal 0.01USD cost to prevent spammers from abusing the system and "possibly adding more load to the already stretched Nepalese telephone network." (thanks to [Kate](https://twitter.com/kati_ver/) for pointing this one out!)
+
