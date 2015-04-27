@@ -15,6 +15,8 @@ In many ways, it's quite incredible that we have an expectation that internation
 
 Here's a list of responses from tech companies that I've come across so far; I'm sure I've missed some out, and I'll keep updating it, so please let me know which ones I've missed out.
 
+*Note: as [Maya pointed out](https://twitter.com/mayameme/status/592602691127377921): there's lots of other digital responses going on right now, like the great work by the [Humanitarian Open Street Map team](https://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake). In this post though, I'm thinking about 'tech company' as being a for-profit company without an official social mandate - ie. excluding social businesses.*
+
 <!--more-->
 
 * Google activated their [Person Finder](https://google.org/personfinder/2015-nepal-earthquake/) tool for Nepal, allowing individuals to post and search for the status of relatives or friends. 
@@ -26,4 +28,6 @@ Here's a list of responses from tech companies that I've come across so far; I'm
 * Airbnb activated their [Disaster Response tool](http://blog.airbnb.com/emergency-response-to-earthquake-in-nepal/?) in the area, allowing "individuals to list their space for free to support those who may have been impacted by the initial and subsequent earthquakes." - though, given the scale of the disaster, it's worth noting that this response is probably not that effective, and actually [only one property seems to be listed.](https://www.airbnb.com/disaster/nepal-earthquake) In the past though, for example during cases of extreme floods, this response from Airbnb has been much more effective.
 
 * [Digital Globe](https://www.digitalglobe.com/), a North American commercial vendor of space imagery and geospatial content, and operator of civilian remote sensing spacecraft, has [opened up access to satellite imagery of Nepal](http://www.digitalglobeblog.com/2015/04/26/digitalglobe-opens-access-to-satellite-data-to-support-disaster-response-efforts-in-nepal/) to help support disaster response efforts.
+
+* [Twilio](https://www.twilio.com/), a software company working on business communications, launched a '[Call your Family](http://callyourfamily.twilio.ly/)' initiative via Twilio.org, providing a free 10 minute call "a loved one affected by the Nepalese earthquake." Note: this doesn't seem to be restricted to calling users actually in Nepal, as you can select the country you'd like to call in the browser. (thanks to [Sonja](https://twitter.com/sonjaheinen) for bringing this one to my attention!)
 
