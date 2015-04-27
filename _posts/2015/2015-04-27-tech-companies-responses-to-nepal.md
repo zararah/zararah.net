@@ -15,7 +15,7 @@ In many ways, it's quite incredible that we have an expectation that internation
 
 Here's a list of responses from tech companies that I've come across so far; I'm sure I've missed some out, and I'll keep updating it, so please let me know which ones I've missed out.
 
-*Note: as [Maya pointed out](https://twitter.com/mayameme/status/592602691127377921): there's lots of other digital responses going on right now, like the great work by the [Humanitarian Open Street Map team](https://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake). In this post though, I'm thinking about 'tech company' as being a for-profit company without an official social mandate - ie. excluding social businesses.*
+*Note: as [Maya pointed out](https://twitter.com/mayameme/status/592602691127377921): there's lots of other digital responses going on right now, like the great work by the [Humanitarian Open Street Map team](https://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake). In this post though, I'm thinking about 'tech company' as being a for-profit company without an official social mandate.*
 
 <!--more-->
 
