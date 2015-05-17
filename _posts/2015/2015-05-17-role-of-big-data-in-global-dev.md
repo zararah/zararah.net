@@ -14,11 +14,9 @@ Last week, I took part in a debate on the [role of big data in development](http
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FAoQHJH6l8Y" frameborder="0" allowfullscreen></iframe>
 
-The biggest one: that, especially in international development, we seem to assuming that within **big data** lies some sort of higher truth that can't be discerned in any other way. 
+The biggest one: that, especially in international development, we seem to assuming that within **big data** holds all sorts of answers. Within the context of the ["data revolution"](http://www.undatarevolution.org/), big data is put on somewhat of a pedestal, and in my opinion, we're putting too much faith in the insights that can actually be gained from big data alone.
 
 <!--more-->
-
-The post-2015 ["data revolution"](http://www.undatarevolution.org/) that we keep hearing about is, in my opinion, overly focused on big data, and in many cases, seems to be putting too much faith in the insights that can be drawn from big data.
 
 [Tricia Wang did an excellent talk on the current obsesession with big, quantitative data,](https://re-publica.de/session/how-avoid-curses-era-big-data) and called for qualitative data to be added to big data before we draw any conclusions. She referred to this additional data as **thick data** - small sample, qualitative data, with cultural context.
 
