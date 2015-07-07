@@ -27,5 +27,5 @@ Here it is:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213455962&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-I'm not expecting anyone to listen to the 'closed access' version - but I like it as a way of showing orally how frustrating the research process was - and I hope people enjoy the proper version of the podcast, instead! Comments and feedback on it are always welcome.
+I'm not really expecting anyone to listen to the whole of the 'closed access' version - but I like it as a way of showing orally how frustrating the research process was - and I hope people enjoy the proper version of the podcast. Comments and feedback on both versions are always welcome - we're both new to podcasting! 
 
