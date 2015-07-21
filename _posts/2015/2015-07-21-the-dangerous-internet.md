@@ -43,4 +43,4 @@ puts those who use the dark net for abuse and for harm in the same category as t
 
 While the book touches upon many fascinating corners of the online space, his lack of nuance and understanding of the real and legitimate harms that can come from the behaviours he describes, leaves me craving another, more critical perspective of the dark net in order to really understand the topic.
 
-He has the privilege to narrate, uncritically, the activities he observes online, but for the majority of other internet users, the internet is a very different online space. The Internet is does not need to be a dangerous space, but for now, very real dangers do happen online. Recognition and active acknowledgement of that is, in my opinion, sorely missing here.
+He has the privilege to narrate, uncritically, the activities he observes online, but for the majority of other internet users, the internet is a very different online space. The Internet does not need to be a dangerous space, but for now, very real dangers do happen online. Recognition and active acknowledgement of that is, in my opinion, sorely missing here.
