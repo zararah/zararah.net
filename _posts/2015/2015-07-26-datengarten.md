@@ -13,7 +13,7 @@ A couple of weeks ago I was invited to speak at [Datengarten](https://berlin.ccc
 
 One of the biggest issues I've come across with those working in international development, or ICT4D, is low levels of technical literacy. People are keen to tout the benefits of technology, but they have little training or critical perspectives on the potential consequences around security, data (mis)management, and more. The audience I was talking with at CCCB are, in a way, the polar opposite of this - all very, very technically literate, but potentially with not as much exposure to people in vulnerable situations, for whom technology could have big benefits.
 
-The video of my talk is below, along with the slides I used. It's also the first public talk I've done in German, which was a nice milestone to reach - especially as it happened to be on my 4 year anniversary of arriving in Berlin! 
+The video of my talk is below, along with the slides I used. It's also the first public talk I've done in German, which was a nice milestone to reach - especially as it happened to be on my 4 year anniversary of arriving in Berlin! It was great to have such a friendly audience for the talk, and some interesting questions afterwards, too.
 
 <!--more-->
 
