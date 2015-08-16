@@ -17,7 +17,7 @@ But Bartlett's attitude to many of these online spaces and the resulting behavio
 
 <!--more-->
 
-This is the same site that some describe as a ["violent black hole of racism"](http://gawker.com/how-reddit-became-a-worse-black-hole-of-violent-racism-1690505395), that has actual sections describing sexual abuse in great detail, whose [community policies are sorely, sorely lacking](http://www.buzzfeed.com/charliewarzel/nothing-changes-at-reddit#.boPM44WgRY), whose former CEO described as [a space where the trolls are winning over humanity](https://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html). 
+This is the same site that some describe as a ["violent black hole of racism"](http://gawker.com/how-reddit-became-a-worse-black-hole-of-violent-racism-1690505395), that has actual sections describing sexual abuse in great detail, whose [community policies are sorely, sorely lacking](http://www.buzzfeed.com/charliewarzel/nothing-changes-at-reddit#.boPM44WgRY), whose former CEO described as [a space where the trolls are winning over humanity](https://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html). By not mentioning this side of the "otherwise liberal site", the reader is left none the wiser about the actual realities of community fora such as Reddit. 
 
 Bartlett goes on to conclude about online trolling and harassment: 
 
@@ -27,7 +27,7 @@ Here, he seems to be asking us to accept the dangers of spending time online - t
 
 His quip that perhaps one day we will "thank" the trolls for making the internet a dangerous place is entirely inappropriate - especially, but not only, given that it is following a true anecdote about a woman who had naked photos of herself sent to her family, friends and colleagues. Is he seriously suggesting that the solution to such [criminal acts](http://www.vanityfair.com/hollywood/2014/10/jennifer-lawrence-cover) would be asking the victim to be more "thick-skinned"? 
 
-Bartlett misses opportunities to bring a more nuanced sociocultural perspective to the online spaces he discusses - Wikipedia is mentioned as a place where terrorist Anders Breivik found a place to "nudge public opinion by carefully editing pages", but there is no mention of the Wikipedia community demographic being 90% male, nor the other discriminatory issues that have arisen from such an [elitist community running the online platform](http://www.slate.com/articles/technology/bitwise/2014/12/wikipedia_editing_disputes_the_crowdsourced_encyclopedia_has_become_a_rancorous.html). A discussion of how Breivik's edits went unnoticed would have been a welcome and interesting addition to the section.
+Bartlett misses opportunities to bring a more nuanced sociocultural perspective to the online spaces he discusses - Wikipedia is mentioned as a place where terrorist Anders Breivik found a place to "nudge public opinion by carefully editing pages", but there is no mention of the Wikipedia community demographic being 90% male, nor the other discriminatory issues that have arisen from such an [elitist community running the online platform](http://www.slate.com/articles/technology/bitwise/2014/12/wikipedia_editing_disputes_the_crowdsourced_encyclopedia_has_become_a_rancorous.html). 
 
 Somewhat crucially to the earlier discussions about trolling, he then reveals that he considers **violence** is to be something purely of the offline world: 
 
@@ -39,8 +39,8 @@ Bartlett's main conclusion that "the dark net fosters breathtaking creativity" i
 
 <blockquote>"Outsiders, radicals and pariahs are often the first to find and use technology in shrewd ways, and the rest of us have much to learn from them"</blockquote>
 
-puts those who use the dark net for abuse and for harm in the same category as those who have legitimately used the space creatively. The lack of caveats or nuance in lauding the activities of those mentioned in the book seems to celebrate the use of the dark net for abusive or harmful behaviour, rather than separating between those who are engaging in criminal activities online, from those who are using the space in an appropriate way.
+puts those who use the dark net for abuse and for harm in the same category as those who have legitimately used the space creatively. The lack of caveats or nuance in lauding the activities of those mentioned in the book seems to celebrate the use of the dark net for abusive and harmful behaviour, rather than separating between those who are engaging in criminal activities online, from those who are using the space in an appropriate way.
 
-While the book touches upon many fascinating corners of the online space, his lack of nuance and understanding of the real and legitimate harms that can come from the behaviours he describes, leaves me craving another, more critical perspective of the dark net in order to really understand the topic.
+While the book touches upon many fascinating and far-reaching corners of the virtual space, his lack of nuance and understanding of the real and legitimate harms that can come from the behaviours he describes, leaves me craving another, more critical perspective of the dark net in order to really understand the topic.
 
 He has the privilege to narrate, uncritically, the activities he observes online, but for the majority of other internet users, the internet is a very different online space. The Internet does not need to be a dangerous space, but for now, very real dangers do happen online. Recognition and active acknowledgement of that is, in my opinion, sorely missing here.

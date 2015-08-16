@@ -6,6 +6,7 @@ category:
 - data
 - technology
 - transparency
+- featured
 ---
 
 **Algorithms.** We're all talking about them, but how many of us actually understand what they are? Tech critics, researchers and academics are sounding warning bells that an increasing societal dependence upon algorithms is potentially very dangerous. Data scientists that I follow, though, are excited by the possibilities that algorithms hold for society. These conflicting views can be confusing - so let's go back to basics, and consider what exactly we mean when we talk about algorithms.

@@ -6,7 +6,6 @@ category:
 - data
 - global-dev
 - technology
-- featured
 tags:
 - responsibledata
 ---
