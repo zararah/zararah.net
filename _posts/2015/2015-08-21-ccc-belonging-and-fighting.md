@@ -18,6 +18,16 @@ It was a hacker camp, and I'm not a hacker. I work and spend time with hackers, 
 
 But there were two things that made me feel a lot more at home: firstly, the [opening session](https://media.ccc.de/browse/conferences/camp2015/camp2015-6981-chaos_communication_camp_opening.html#video), where we were encouraged to embrace our confusion, told to ask questions, and welcomed no matter what background we were from- Fiona and Hukl did a fantastic job.
 
+<img src="{{ site.url }}/assets/blog/2015/cccamp15.jpg" alt="camp15" style="margin-right:10px;" align="left"><br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+
+
+<br><br>
+<small>Photo by <a href="https://www.flickr.com/photos/metavolution/19971524534/in/photolist-wqPhrU-xxG9Yu-xnQaaP-xn349j-xopUk6-xgNUH5-xyqwQe-wBpB8J-wBpC5d-wBpBxG-xxAWGL-wBy3b2-xz2xYx-xxAX7d-xxGacW-xz2zFv-xz2xFP-xxB1dd-xw75gG-xw74dj-xyqyZV-xgNWPQ-wBpDWj-wBpFwJ-xidAo1-x9Zare-wyc8Zh-wutaSY-x9Sj2J-wwEH1z-x9oQb9-x9oHzw-xqcDgw-xqcDb1-xoFNYh-xqcD6m-x9oH5J-x9oPrU-wtZxch-xrAnNV-x9oPgo-wtZwSQ-wu8ZoP-xoFN65-wu8Zax-xr1fnz-x9oNtG-xrc3bV-x8ZCrJ-x8Zss3">Metavolution</a>CC-BY-SA</small>
+
 Secondly: the self-organised session [on academics and researchers who study hackers](https://events.ccc.de/camp/2015/wiki/Session:Hackademia). A lot of people turned up, and a quick show of hands showed that, like me, the majority of them weren't hackers. The discussions that we had - about hackers and hacking in postcolonial societies, about representation and the ethics around studying and learning from different groups, also made me realise a kind of obvious but basic thing.
 
 For hackers, and hacker culture, to actually have positive effects on our society (or societies), it **needs** people on the peripheries from a range of perspectives to be researching, learning, and thinking critically about the way that new technologies can and are affecting our lives.
