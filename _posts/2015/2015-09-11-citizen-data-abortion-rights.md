@@ -14,7 +14,7 @@ Often when we talk about such initiatives, we say "anybody can contribute" - but
 
 <!--more-->
 
-At the [MediaParty](mediaparty.info) that I attended in Buenos Aires, I attended a workshop on 'crowd-powerded journalism', with Amanda Zamora of ProPublica. We got into groups to brainstorm examples of good [‘crowd-powered journalism’](https://www.propublica.org/article/propublicas-aims-to-spur-more-crowd-powered-news) projects, and the group I was in mentioned immediately that this could be a good way to gather data on women’s rights in Argentina. 
+At the [MediaParty](https://mediaparty.info) that I attended in Buenos Aires, I attended a workshop on 'crowd-powerded journalism', with Amanda Zamora of ProPublica. We got into groups to brainstorm examples of good [‘crowd-powered journalism’](https://www.propublica.org/article/propublicas-aims-to-spur-more-crowd-powered-news) projects, and the group I was in mentioned immediately that this could be a good way to gather data on women’s rights in Argentina. 
 
 ### abortions in Argentina: context
 
@@ -35,7 +35,7 @@ To date, there seems to be very little accurate data available on this topic. So
  
 Thinking through the process around this posed many challenges; for example, what would be the motivation for a woman to tell her story, when she might face legal recourse as a result, or stigma within her community if it were to come out? Given that this issue affects poorer women most strongly, how could women who have been through this experience even be reached through this kind of initiative? And if this kind of initiative were attempted, what kind of data would be necessary to collect, and what would it be important to not collect, to avoid potentially getting the woman or those who helped her, into danger? 
 
-The [responsible data](responsibledata.io) concerns around this project lead my group to decide that in reality, it would be unfeasible to actually carry it out given our hypothetical time frame. The group next to me, though, decided separately that this was the issue that they would hypothetically gather data on - and the fact that they came up with the same idea separately highlights just how much it is on people's minds right now.
+The [responsible data](https://responsibledata.io) concerns around this project lead my group to decide that in reality, it would be unfeasible to actually carry it out given our hypothetical time frame. The group next to me, though, decided separately that this was the issue that they would hypothetically gather data on - and the fact that they came up with the same idea separately highlights just how much it is on people's minds right now.
 
 For advocacy groups wanting to show how much of an issue abortion rights are, having the data or information to strengthen that advocacy could make a big difference. Showing concretely that making abortion illegal doesn't mean it doesn't happen - just that it happens in a dangerous way- as well as important stories of women who have had their abortion rights denied, and the effect that this had on their lives.
 
