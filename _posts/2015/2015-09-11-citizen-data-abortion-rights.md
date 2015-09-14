@@ -16,7 +16,7 @@ Often when we talk about such initiatives, we say "anybody can contribute" - but
 
 At the [MediaParty](mediaparty.info) that I attended in Buenos Aires, I attended a workshop on 'crowd-powerded journalism', with Amanda Zamora of ProPublica. We got into groups to brainstorm examples of good [‘crowd-powered journalism’](https://www.propublica.org/article/propublicas-aims-to-spur-more-crowd-powered-news) projects, and the group I was in mentioned immediately that this could be a good way to gather data on women’s rights in Argentina. 
 
-## abortions in Argentina: context
+### abortions in Argentina: context
 
 For example - how are abortions taking place? Here in Argentina, abortions are strictly limited: legally, abortion is allowed in cases of rape or when the pregnancy is detrimental to the woman's health, but obviously, "proving" any of these can be difficult. Additionally, in remote areas that have strong Catholic roots, there are many cases of abortion being denied illegally - and in these cases, presumably it's difficult for women to know where to go to report this activity as its being enforced by the state itself. 
 
@@ -31,9 +31,9 @@ It's important not to underestimate the importance of this issue: according to a
 
 To date, there seems to be very little accurate data available on this topic. Somewhat obviously, women who have had abortions that would be considered “illegal” do not report them anywhere, and the same is true of failed abortions. Especially in the case of illegal abortions, it seems almost impossible to gather those stories without risking putting those women in danger.
 
-## collecting abortion data in practice
+### collecting abortion data in practice
  
-Thinking through the process around this posed many challenges; for example, what would be the motivation for a woman to tell her story, when she might face legal recourse as a result, or stigma within her community if it were to come out? How could women who have been through this experience even be reached through this kind of initiative? And if this kind of initiative were attempted, what kind of data would be necessary to collect, and what would it be important to not collect, to avoid potentially getting the woman or those who helped her, into danger?
+Thinking through the process around this posed many challenges; for example, what would be the motivation for a woman to tell her story, when she might face legal recourse as a result, or stigma within her community if it were to come out? Given that this issue affects poorer women most strongly, how could women who have been through this experience even be reached through this kind of initiative? And if this kind of initiative were attempted, what kind of data would be necessary to collect, and what would it be important to not collect, to avoid potentially getting the woman or those who helped her, into danger? 
 
 The [responsible data](responsibledata.io) concerns around this project lead my group to decide that in reality, it would be unfeasible to actually carry it out given our hypothetical time frame. The group next to me, though, decided separately that this was the issue that they would hypothetically gather data on - and the fact that they came up with the same idea separately highlights just how much it is on people's minds right now.
 
