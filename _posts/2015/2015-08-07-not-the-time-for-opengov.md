@@ -12,7 +12,7 @@ tags:
 
 Today in Dhaka, [Niloy Chakrabarti, or "Niloy-Neel" as he was known online, was murdered in his home](http://www.theguardian.com/world/2015/aug/07/machete-gang-kills-secular-bangladeshi-blogger-niloy-chakrabarti). He is the fourth blogger to be murdered this year in Dhaka - all in a brutal way, with machetes, leading the media to report it with the unthinkable phrase - they were "hacked to death". 
 
-There have been, and there will be, many more pieces calling for changes in Bangladesh. For the government to respond in an appropriate way (Chowdhury had reportedly [asked for police protection just three weeks ago, and had it denied](http://www.theguardian.com/world/2015/aug/07/machete-gang-kills-secular-bangladeshi-blogger-niloy-chakrabarti)). For Bangladeshi media to support the blogger community.
+There have been, and there will be, many more articles calling for changes in Bangladesh. For the government to respond in an appropriate way (Chowdhury had reportedly [asked for police protection just three weeks ago, and had it denied](http://www.theguardian.com/world/2015/aug/07/machete-gang-kills-secular-bangladeshi-blogger-niloy-chakrabarti)). For Bangladeshi media to support the blogger community.
 
 But I'm writing to a different audience: the international open government community. Just a couple of weeks ago, I saw the agenda for a [planned workshop run by UNDESA in Dhaka to be held at the end of the month](http://www.unpan.org/OGD-NCDW-Bangladesh). Its theme: "Open Government Data Sensitization, Gap Assessment, and Strategic Planning". It made me laugh at the time - a 'gap assessment'? Seriously? 
 
