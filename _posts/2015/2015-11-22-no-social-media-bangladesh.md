@@ -5,7 +5,7 @@ date: '2015-11-22'
 category:
 - data
 - technology
-- transparency
+- featured
 - bangladesh
 ---
 

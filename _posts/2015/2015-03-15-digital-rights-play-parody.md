@@ -5,7 +5,6 @@ date: '2015-03-15'
 category:
 - data
 - technology
-- featured
 tags:
 - data
 - technology

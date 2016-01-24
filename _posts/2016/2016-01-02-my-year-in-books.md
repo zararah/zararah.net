@@ -5,6 +5,7 @@ date: '2016-01-02'
 category:
 - books
 - bookworm
+- featured
 ---
 
 In 2014, I followed the [#readwomen](https://twitter.com/read_women) movement very strictly, and prioritised [reading 50 books by women](http://zararah.net/blog/2014/12/26/50-books-2014/). In 2015, I loosened slightly my resolve of reading **only** women to reading **mostly** women, and I set myself the target of reading 25 books. I did that for a number of reasons; it meant I took my time over books more, and I wasn't so bothered about reaching the target, though it turned out I did quite comfortably, as I read 37 books in the end.
