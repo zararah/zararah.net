@@ -43,6 +43,6 @@ I learned that...
 
 ...saying no is far better than overcommitting and not being able to deliver. But it's hard! I'm going to try my very hardest to only say 'yes' to things I can realistically complete, rather than trying hard to do a little bit of lots of things.
 
-(*I wanted to finish this post with a list of people who inspire and challenge me (online and offline) - but the list got too long. So, to all you many, many people: **thank you.***
+(*I wanted to finish this post with a list of people who inspire and challenge me (online and offline) - but the list got too long. So, to all you many, many people: **thank you.***)
 
 
