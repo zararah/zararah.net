@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "International Women's Day: On inspiring with vulnerability"
-date: '2016-03-06'
+date: '2016-03-07'
 category:
 - diversity
 - feminism
