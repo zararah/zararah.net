@@ -9,6 +9,8 @@ category:
 
 Tomorrow is International Women's Day; in my mind, a day for celebrating, and thanking, inspiring women. When I think of the most inspiring women I know personally, and the most important conversations I've had with them, almost all of them have one slightly counterintuitive thread running through them: **vulnerability and weakness**.
 
+<!--more-->
+
 As with many second- or third- generation immigrant families, I grew up aiming to project a perfect image, no matter what. Whether at school or in my extra-curricular activities, being successful, happy, bubbly, clever, sporty, and musically talented all at once, was my goal. And I tried really hard to reach it, without really ever questioning why. As an adult, realising that the thing I was taught to aim for had actually very little to do with me as a person, but much more about the socioeconomic status of my family, our surroundings in a new country, and our desire to fit in with the perceived norms, was enlightening. (Understatement: it blew me away.)
 
 It would've taken me a lot longer to come to this realisation had it not been for people - especially women - around me, who shared their own enlightening moments, and their own internal struggles. I can't explain the number of times I've had conversations with women who I admire greatly who have told me about some kind of challenge they're facing, and in doing so, given me some kind of legitimacy I never realised I needed in order to admit a similar challenge of my own.
