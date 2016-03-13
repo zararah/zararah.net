@@ -29,5 +29,7 @@ Personally, I try and put this into practice by recommending interesting speaker
 
 Another option, which I've only put into practice just a couple of times, is simply turning down the invitation and passing it on to someone else. That's a tricky one, though, and I know I'm a long way from from getting invitations that would make doing that an especially big deal. For those with big public profiles, perhaps there's more in this tactic than for the rest of us: refusing invitations and recommending someone in your place, who probably wouldn't otherwise get asked.
 
-Ultimately, introducing more perspectives makes it more interesting for the listener, and actually, a more relevant discussion. At least among my circles, calling for **diversity** is now, thankfully, pretty common - but for that to actually happen in practice, some people are going to have to take a step back. Knowing when, and how, for that to happen, is hard, but I think we could all do better. 
+Ultimately, introducing more perspectives makes it more interesting for the listener, and actually, a more relevant discussion. At least among my circles, calling for **diversity** is now, thankfully, pretty common - but for that to actually happen in practice, some people are going to have to take a step back. Knowing when, and how, for that to happen, is hard, but I think we could all do better.
+
+*Credit to Gunner for the 'step up, step back' meme - since hearing it at one of [Aspiration's](http://aspirationtech.org/) workshops, I've thought about it a lot!*
 
