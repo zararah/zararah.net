@@ -25,7 +25,9 @@ So, yesterday I took my search to Twitter in an effort to find what I was missin
 
 But wait. As my friend Maya Ganesh [pointed out](https://twitter.com/mayameme/status/710897123080933376) writing an "accessible" book on these complex topics is quite the luxury, and one in which [a very specific publishing industry plays a huge role](https://twitter.com/mayameme/status/710897547892670465). She also asked: why books? Great point. If my focus is on **accessibility** of information then the format of it shouldn't matter; why should I privilege a medium which is way out of the reach of many incredibly smart thinkers and writings? What about blog posts, media articles, random thoughts shared via social media?
 
-With that in mind, I actually regret specifying "books" in the tweet, but I still wanted to collate all the great suggestions that I received. Note: it's still **very** heavy on the North America focus, and I think that's a combination of my own fault in specifying "books", along with Twitter-follower bias. It's very long, so to help you navigate: I've started with a list of books + author, followed by a list of individuals who write interesting and relevant articles/blog posts. 
+With that in mind, I actually regret specifying "books" in the tweet, but I still wanted to collate all the great suggestions that I received. Note: it's still **very** heavy on the North America focus, and I think that's a combination of my own fault in specifying "books", along with Twitter-follower bias. It's very long, so to help you navigate: I've started with a list of books + author, followed by a list of individuals who write interesting and relevant articles/blog posts.
+
+*Edit*- as [SedaG](https://twitter.com/sedyst) [points out](https://twitter.com/sedyst/status/711258351804358657), focusing this search on **technology** runs the risk of missing out women of colour who write on race and colonialism and focus on **power**. Again, I wish I'd broadened out that original search, and I am very grateful they highlighted my error! I'll bear this in mind for future searches.*
 
 I've also started [this Twitter list](https://twitter.com/zararah/lists/women-tech-critics), making it easier to follow the work of the people below.
 
@@ -45,7 +47,6 @@ https://twitter.com/synthesiastica), 2004. [Amazon link](http://www.amazon.com/N
 * [Cybernetic Revolutionaries: Technology and Politics in Allende's Chile](http://www.cyberneticrevolutionaries.com/) by [Eden Medina](http://www.informatics.indiana.edu/edenm/), 2012. [Amazon link](http://www.amazon.com/Cybernetic-Revolutionaries-Technology-Politics-Allendes)
 
 * Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America, Edited by Eden Medina, Ivan da Costa Marques and Christina Holmes, 2014. [MIT Press](https://mitpress.mit.edu/books/beyond-imported-magic)
-
 
 * Race, Rigor, and Selectivity in U.S. Engineering: The History of an Occupational Color Line, by [Amy E. Slaton](https://twitter.com/a_slaton) [Amazon link](http://www.amazon.com/Race-Rigor-Selectivity-U-S-Engineering/dp/0674036190)
 
@@ -72,6 +73,12 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 
 * Lots of different ones by [Helen Nissenbaum](https://en.wikipedia.org/wiki/Helen_Nissenbaum) - most recently I read and really enjoyed [Obfuscation: A User’s Guide for Privacy and Protest](https://mitpress.mit.edu/books/obfuscation), which she co-wrote with Finn Brunton.
 
+* [Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture](https://www.upress.umn.edu/book-division/books/gaming-at-the-edge), by [Adrienne Shaw](https://twitter.com/adrishaw), 2014. 
+
+* [Surveillance or Security? The Risks Posed by New Wiretapping Technologies](https://mitpress.mit.edu/books/surveillance-or-security), by Susan Landau
+
+* [Control and Freedom: Power and Paranoia in the Age of Fiber Optics](https://mitpress.mit.edu/books/control-and-freedom), by Wendy Hui Kyong Chun
+
 #### Forthcoming
 
 * Entrepreneurial Citizenship: Innovators and their Others in Indian Development (provisional title), by [Lilly Irani](https://quote.ucsd.edu/lirani/) - [lots of papers by her](https://scholar.google.com/citations?user=FGWYdYUAAAAJ&hl=en)
@@ -80,28 +87,47 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 
 ### Writers / bloggers 
 
-* Nanjira Sambuli - [@NiNanjira](http://twitter.com/@ninanjira), https://medium.com/@ninanjira 
-* Nasreen Rajani - [@nrajaa](http://twitter.com/nrajaa), http://nasreenrajani.com/
-* Jen Schradie - [@schradie](http://twitter.com/schradie), http://schradie.com/research/
-* Sara M. Watson - [@smwat](http://twitter.com/smwat),  http://www.saramwatson.com/
-* Maya Indira Ganesh - [@mayameme](http://twitter.com/mayameme), http://bodyofwork.in/
-* Erin Kissane - [@kissane](http://twitter.com/kissane), http://incisive.nu/
-* Mimi Onuoha - [@thistimeitsmimi]((http://twitter.com/thistimeitsmimi) - http://mimionuoha.com/thoughts/
-* An Xiao Mina - [@anxiaostudio](https://www.twitter.com/anxiaostudio), https://medium.com/@anxiaostudio
-* Tricia Wang - [@triciawang](http://twitter.com/triciawang), http://triciawang.com/writing/
-* Willow Brugh - [@willowbl00](http://twitter.com/willowbl00), http://blog.bl00cyb.org/
-* Elinor Carmi - [@Elinor_Carmi](http://twitter.com/elinor_carmi), http://www.pinkeee.com/
-* Sarah Jeong - [@SarahJeong](http://sarahjeong.net/about/), http://sarahjeong.net/about/
-* Hibah Hussain - [@hibahsays](http://twitter.com/hibahsays), https://twitter.com/hibahsays
-* Kate Darling - [@grok_](http://twitter.com/grok), http://www.katedarling.org/publications/
-* Linda Raftree - [@meowtree](http://twitter.com/meowtree) https://lindaraftree.com
-* Zeynep Tufekci - [@zeynep](http://twitter.com/zeynep) http://technosociology.org/ 
-* Kate Crawford - [@katecrawford](http://twitter.com/katecrawford), http://www.katecrawford.net/
-* Natalie Kane - [@nd_kane](http://twitter.com/nd_kane), http://ndkane.com/
-* Tanya Lokot -  [@tanyalokot](http://twitter.com/tanyalokot) - https://tanyalokot.wordpress.com/
-* Ingrid Burrington - [@lifewinning](http://twitter.com/lifewinning) - http://lifewinning.com/longreads
+* Nanjira Sambuli - [@NiNanjira](http://twitter.com/@ninanjira), <https://medium.com/@ninanjira>
+* Nasreen Rajani - [@nrajaa](http://twitter.com/nrajaa), <http://nasreenrajani.com/>
+* Jen Schradie - [@schradie](http://twitter.com/schradie), <http://schradie.com/research/>
+* Sara M. Watson - [@smwat](http://twitter.com/smwat),  <http://www.saramwatson.com/>
+* Maya Indira Ganesh - [@mayameme](http://twitter.com/mayameme), <http://bodyofwork.in/>
+* Erin Kissane - [@kissane](http://twitter.com/kissane), <http://incisive.nu/>
+* Mimi Onuoha - [@thistimeitsmimi]((http://twitter.com/thistimeitsmimi) - <http://mimionuoha.com/thoughts/>
+* An Xiao Mina - [@anxiaostudio](https://www.twitter.com/anxiaostudio), <https://medium.com/@anxiaostudio>
+* Tricia Wang - [@triciawang](http://twitter.com/triciawang), <http://triciawang.com/writing/>
+* Willow Brugh - [@willowbl00](http://twitter.com/willowbl00), <http://blog.bl00cyb.org/>
+* Elinor Carmi - [@Elinor_Carmi](http://twitter.com/elinor_carmi), <http://www.pinkeee.com/>
+* Sarah Jeong - [@SarahJeong](http://sarahjeong.net/about/), <http://sarahjeong.net/about/>
+* Hibah Hussain - [@hibahsays](http://twitter.com/hibahsays), <https://twitter.com/hibahsays>
+* Kate Darling - [@grok_](http://twitter.com/grok), <http://www.katedarling.org/publications/>
+* Linda Raftree - [@meowtree](http://twitter.com/meowtree) <https://lindaraftree.com>
+* Zeynep Tufekci - [@zeynep](http://twitter.com/zeynep) <http://technosociology.org/>
+* Kate Crawford - [@katecrawford](http://twitter.com/katecrawford), <http://www.katecrawford.net/>
+* Natalie Kane - [@nd_kane](http://twitter.com/nd_kane), <http://ndkane.com/>
+* Tanya Lokot -  [@tanyalokot](http://twitter.com/tanyalokot), <https://tanyalokot.wordpress.com/>
+* Ingrid Burrington - [@lifewinning](http://twitter.com/lifewinning), <http://lifewinning.com/longreads>
 * Caroline Sinders - [@carolinesinders]((http://twitter.com/carolinesinders)
-* Quinn Norton - [@quinnnorton](http://twitter.com/quinnnorton) https://medium.com/@quinnnorton 
+* Quinn Norton - [@quinnnorton](http://twitter.com/quinnnorton), <https://medium.com/@quinnnorton>
+* Malavika Jayaram - [@MalJayaram](https://twitter.com/MalJayaram), <https://cyber.law.harvard.edu/people/mjayaram>
+* Katy Pearce, [@katypearce](https://twitter.com/katypearce), <http://www.katypearce.net/research-2/>
+* Jean Burgess, [@jeanburgess](https://twitter.com/jeanburgess), <http://creativitymachine.net/papers/>
+* Liz Losh, [@lizlosh](https://twitter.com/lizlosh), <http://ucsd.academia.edu/ElizabethLosh>
+* Renée Ridgway, <http://reneeridgway.net/>
+* Pip Shea [@shealo](https://twitter.com/shealo), <http://www.pipshea.net/>
+* Tanya Notley, [@tattinot](https://twitter.com/tattinot), <https://westernsydney.academia.edu/tanyanotley>
+* Lina Dencik, [@LinaDencik](https://twitter.com/LinaDencik) <http://www.jomec.co.uk/blog/author/jomec_dencik/>
+* Gemma Galdon Clavell, [@gemmagaldon](https://twitter.com/gemmagaldon), <http://ub.academia.edu/GemmaGaldonClavell>
+* Cathy O'Neil, [@mathbabedotorg](http://mathbabe.org/), <http://mathbabe.org/>
+* Becky Faith, [@Becky_Faith](http://beckyfaith.net/), <http://beckyfaith.net/>
+* [@so_treu](http://twitter.com/so_treu), <http://so-treu.tumblr.com/dysaesthesiaaethiopica>
+, [@sedyst](https://twitter.com/sedyst)
+* DJ Ripley, [@laripley](https://twitter.com/laripley), <http://ripleydj.com/>
+* Black Amazon, [@BlackAmazon](https://twitter.com/Blackamazon), <http://blackamazon.tumblr.com/>
+* Asli Telli Aydemir, [@aslitelli](https://twitter.com/aslitelli), <https://about.me/asli_telli>
+* Yeni Medyar, <https://yenimedya.wordpress.com/>
+* Payal Arora, [@3Lmantra](https://twitter.com/3Lmantra), <http://payalarora.com/Publications.html>
+* Lisa Nakamura, <http://lisanakamura.net/>
 
 
 ...and so many more. 
@@ -121,5 +147,8 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * [Media archives](https://media.ccc.de/) of past [Chaos Computer Club events](https://www.ccc.de/en/)
 * [Motherboard](https://motherboard.vice.com/de)
 * [The Message](https://medium.com/message) from Medium
+* [Cyborgology](https://thesocietypages.org/cyborgology/)
+* [Association for Progressive Communication, APC](https://www.apc.org/en/about)
+* [FemTechNet](http://femtechnet.org/) (so much stuff here!)
 
 *Big big disclaimer: this list is not complete (and probably never will be). It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
