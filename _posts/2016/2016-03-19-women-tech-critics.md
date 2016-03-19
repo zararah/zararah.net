@@ -27,7 +27,7 @@ But wait. As my friend Maya Ganesh [pointed out](https://twitter.com/mayameme/st
 
 With that in mind, I actually regret specifying "books" in the tweet, but I still wanted to collate all the great suggestions that I received. Note: it's still **very** heavy on the North America focus, and I think that's a combination of my own fault in specifying "books", along with Twitter-follower bias. It's very long, so to help you navigate: I've started with a list of books + author, followed by a list of individuals who write interesting and relevant articles/blog posts.
 
-*Edit*- as [SedaG](https://twitter.com/sedyst) [points out](https://twitter.com/sedyst/status/711258351804358657), focusing this search on **technology** runs the risk of missing out women of colour who write on race and colonialism and focus on **power**. Again, I wish I'd broadened out that original search, and I am very grateful they highlighted my error! I'll bear this in mind for future searches.*
+*Edit*- as [SedaG](https://twitter.com/sedyst) [points out](https://twitter.com/sedyst/status/711258351804358657), focusing this search on **technology** runs the risk of missing out women of colour who write on race and colonialism and focus on **power**. Again, I wish I'd broadened out that original search, and I am very grateful they highlighted my error! I'll bear this in mind for future searches.
 
 I've also started [this Twitter list](https://twitter.com/zararah/lists/women-tech-critics), making it easier to follow the work of the people below.
 
@@ -128,9 +128,9 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * Yeni Medyar, <https://yenimedya.wordpress.com/>
 * Payal Arora, [@3Lmantra](https://twitter.com/3Lmantra), <http://payalarora.com/Publications.html>
 * Lisa Nakamura, <http://lisanakamura.net/>
+* Joanne McNeil, [@jomc](http://twitter.com/jomc), <http://www.joannemcneil.com/>
 
-
-...and so many more. 
+...and **so** many more. 
 
 ### Places to find more: 
 
