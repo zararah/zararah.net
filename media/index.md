@@ -5,17 +5,23 @@ layout: default
 
 ## Things I've done 
 
-In addition to the writing you'll find on this site, here is a selection of other things I've written, presentations/interviews that I've held, and websites that I've built.
+In addition to the writing you'll find on this site, here is a selection of other things I've written and presentations/interviews that I've held.
 
 ### Writing
+
+* [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/), a set of nine case studies exploring the ethical challenges that arise from the use of data in advocacy and journalism.
+
+* [Five ways tech is crowdsourcing women’s empowerment](http://www.theguardian.com/global-development-professionals-network/2016/feb/03/five-ways-tech-crowdsourcing-womens-empowerment)- Guardian Global Development Professionals Network, Feb 2016
+
+* [So you found a unicorn- what now?](http://zararah.net/blog/2015/11/12/data-journalism-book/) - a chapter for a book entitled "Data journalism: inside the global future", published in 2015.
+
+* [Global Voices](https://globalvoices.org/author/zararahman/)- a variety of posts, mainly around digital policy and privacy in Bangladesh.
 
 * [Women’s Victim Role & The Bangladeshi Liberation War](http://theaerogram.com/women-bangladeshi-liberation-war/) - Written for [The Aerogram](http://theaerogram.com/)
 
 * [The road to hell is paved with brightly coloured bubble maps](http://tech.transparency-initiative.org/zara-rahman-the-road-to-hell-is-paved-with-brightly-coloured-bubble-maps/) - Transparency and Accountability Initiative, September 2014
 
 * [Shooting your harddrive into space, and other ways to practise responsible development data](https://responsibledata.io/ways-to-practise-responsible-development-data/) - co-authored a book on the use of responsible data in international development, September 2014.
-
-* [Transparency is not enough](http://www.executive-magazine.com/economics-policy/transparency-enough) - Executive Magazine, Lebanon (March 2013)
 
 * [Informing the People: Oil Contracts Demystified](http://thinkafricapress.com/legal/openoil-informing-nation-oil-contracts-demystified) - Think African Press (November 2012)
 
@@ -25,9 +31,15 @@ In addition to the writing you'll find on this site, here is a selection of othe
 
 * [Why local power and self-interest can be good for transparency](https://www.opendemocracy.net/zara-rahman-johnny-west-lila-caballero/why-local-power-and-self-interest-can-be-good-for-transparenc) - openDemocracy, co-authored with Johnny West and Lila Caballero (August 2012)
 
-* [The missing pieces in Iraq's first EITI report](http://www.publishwhatyoupay.org/resources/missing-pieces-iraq%E2%80%99s-first-eiti-report) - for Publish What You Pay, February 2012 
-
 ### Talking
+
+* [Data and discrimination: representing marginalised communities in data](https://media.ccc.de/v/camp2015-6876-data_and_discrimination_representing_marginalised_communities_in_data) - a talk I gave at the Chaos Communication Camp in 2015.
+
+* [How grassroots activists use technology](http://www.techforgood.global/blog/civic-radio-interview-with-zahra-rahman-how-grassr/) - an interview for Civic Radio, June 2015.
+
+* [Ethics of data use in development contexts](https://re-publica.de/en/session/big-problems-big-data-little-privacy-ethics-data-use-developent-contexts) - a panel discussion I had at re:publica 2015. (and probably the most worked up I've ever been on a stage before...)
+
+* [Closed for migration, open for export](https://re-publica.de/en/session/closed-migration-open-export) - a group discussion I was part of at re:publica 2015, together with Claudia Roth, Vice President of the Bundestag, and Fatuma Musa, an incredibly inspirational speaker.
 
 * [Feminism and science fiction](https://soundcloud.com/berlincommunityradio/hystereo-4-feminist-science-fiction) - a podcast on Berlin Community Radio (October 2014)
 
@@ -46,13 +58,3 @@ In addition to the writing you'll find on this site, here is a selection of othe
 * [Interview at the Digital Think Tank 2012](http://vimeo.com/49771193) - Medienwoche, 2012
 
 * [Album of Libyan Street Art](http://libyanstreetart.blogspot.de/2011/11/libyan-street-art-collection-open-oil.html) - photos I took in Tripoli and Misrata (Libya) in October 2011
-
-### Coding
-
-* [Open Development Toolkit](http://opendevtoolkit.net) - I built a site for the project I was working on, running on Django and forked from [Source.](http://source.opennews.org/) [Code available here.](https://github.com/zararah/source)
-
-* [Sorcha's memory game site](http://sorcha.rocks/) - as a present for a friend, I built a simple 'memory game' site using JavaScript. [Code available here.](https://github.com/zararah/sorcha.rocks)
-
-* [My personal site, zararah.net](http://zararah.net) - I designed and built this simple personal site for myself, running on Jekyll. [Code available here.](https://github.com/zararah/zararah.github.io)
-
-* [2014 School of Data Annual Report](http://2014.schoolofdata.org) - I forked the Jekyll-run [Code for America Annual Report](http://2013.codeforamerica.org/) to make a similar report for [School of Data.](http://schoolofdata.org) [Code available here.](https://github.com/school-of-data/annual)
