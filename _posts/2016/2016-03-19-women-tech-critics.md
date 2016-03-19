@@ -44,7 +44,7 @@ https://twitter.com/synthesiastica), 2004. [Amazon link](http://www.amazon.com/N
 
 * [Cybernetic Revolutionaries: Technology and Politics in Allende's Chile](http://www.cyberneticrevolutionaries.com/) by [Eden Medina](http://www.informatics.indiana.edu/edenm/), 2012. [Amazon link](http://www.amazon.com/Cybernetic-Revolutionaries-Technology-Politics-Allendes)
 
-* Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America, Edited by Eden Medina, Ivan da Costa Marques and Christina Holmes, 2014. [MIT Press](https://mitpress.mit.edu/books/beyond-imported-magic), $35.00 USD.
+* Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America, Edited by Eden Medina, Ivan da Costa Marques and Christina Holmes, 2014. [MIT Press](https://mitpress.mit.edu/books/beyond-imported-magic)
 
 
 * Race, Rigor, and Selectivity in U.S. Engineering: The History of an Occupational Color Line, by [Amy E. Slaton](https://twitter.com/a_slaton) [Amazon link](http://www.amazon.com/Race-Rigor-Selectivity-U-S-Engineering/dp/0674036190)
@@ -122,4 +122,4 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * [Motherboard](https://motherboard.vice.com/de)
 * [The Message](https://medium.com/message) from Medium
 
-*Big big disclaimer: this list is not complete (and probably never will be). It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's here on Github, or email me!*
+*Big big disclaimer: this list is not complete (and probably never will be). It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
