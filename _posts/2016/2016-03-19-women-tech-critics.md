@@ -79,6 +79,18 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 
 * [Control and Freedom: Power and Paranoia in the Age of Fiber Optics](https://mitpress.mit.edu/books/control-and-freedom), by Wendy Hui Kyong Chun
 
+* [Critical Perspectives on Social Media and Protest: Between Control and Emancipation](http://www.amazon.com/Critical-Perspectives-Social-Media-Protest/dp/1783483369) edited by [Lina Dencik](https://twitter.com/LinaDencik) + Oliver Leistert
+
+* [iMedia: The Gendering of Objects, Environments and Smart Materials](https://www.palgrave.com/us/book/9781137374844) by [Sarah Kember](http://www.gold.ac.uk/media-communications/staff/kember/)
+
+* [The Real World of Technology](http://www.cbc.ca/radio/ideas/the-1989-cbc-massey-lectures-the-real-world-of-technology-1.2946845) by [Ursula M. Franklin](https://en.wikipedia.org/wiki/Ursula_Franklin)
+
+* [The Monsters of Education Technology Kindle Edition](http://www.amazon.com/Monsters-Education-Technology-Audrey-Watters-ebook/dp/B00QEDGMMW), by [Audrey Watters](https://twitter.com/audreywatters)
+
+* [Feminist Surveillance Studies](http://www.amazon.com/Feminist-Surveillance-Studies-Rachel-Dubrofsky/dp/0822358921), 2015, by Rachel E. Dubrofsky, Shoshana Amielle Magnet
+
+* [Zeroes and Ones: Digital Women and the New Technoculture Hardcover](http://www.amazon.com/Zeroes-Ones-Digital-Women-Technoculture/dp/0385482604), by Sadie Plant, 1997.
+
 #### Forthcoming
 
 * Entrepreneurial Citizenship: Innovators and their Others in Indian Development (provisional title), by [Lilly Irani](https://quote.ucsd.edu/lirani/) - [lots of papers by her](https://scholar.google.com/citations?user=FGWYdYUAAAAJ&hl=en)
@@ -121,7 +133,7 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * Cathy O'Neil, [@mathbabedotorg](http://mathbabe.org/), <http://mathbabe.org/>
 * Becky Faith, [@Becky_Faith](http://beckyfaith.net/), <http://beckyfaith.net/>
 * [@so_treu](http://twitter.com/so_treu), <http://so-treu.tumblr.com/dysaesthesiaaethiopica>
-, [@sedyst](https://twitter.com/sedyst)
+* [@sedyst](https://twitter.com/sedyst)
 * DJ Ripley, [@laripley](https://twitter.com/laripley), <http://ripleydj.com/>
 * Black Amazon, [@BlackAmazon](https://twitter.com/Blackamazon), <http://blackamazon.tumblr.com/>
 * Asli Telli Aydemir, [@aslitelli](https://twitter.com/aslitelli), <https://about.me/asli_telli>
@@ -129,6 +141,16 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * Payal Arora, [@3Lmantra](https://twitter.com/3Lmantra), <http://payalarora.com/Publications.html>
 * Lisa Nakamura, <http://lisanakamura.net/>
 * Joanne McNeil, [@jomc](http://twitter.com/jomc), <http://www.joannemcneil.com/>
+* Christina Xu, [@xuhulk](http://twitter.com/xuhulk), <http://www.christinaxu.org/>
+* Sara Hendren, [@ablerism](http://twitter.com/ablerism), <http://ablersite.org/>
+* Catherine D'Ignazio, [@kanarinka](http://twitter.com/kanarinka), <http://www.kanarinka.com/>
+* Farida Vis, [@flygirltwo](http://twitter.com/flygirltwo), <https://www.sheffield.ac.uk/is/staff/viskeypublications>
+* Deb Chachra, [@debcha](http://twitter.com/debcha), <https://tinyletter.com/metafoundry>
+* Safiya U. Noble, [@safiyanoble](https://twitter.com/safiyanoble), <http://safiyaunoble.com/publication/>
+* Karen Gregory, [@claudiakincaid](https://twitter.com/claudiakincaid), <https://karengregoryphd.wordpress.com/>
+* Tressie McMillan, [@tressiemc](https://twitter.com/tressiemc), <https://tressiemcphd.contently.com/>
+* [@wewatchwatchers](http://twitter.com/wewatchwatchers), <http://darkmatte.rs/>
+* Jade Davis, [@jadedid](https://twitter.com/jadedit), <http://jadedid.com/>
 
 ...and **so** many more. 
 
@@ -150,5 +172,6 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * [Cyborgology](https://thesocietypages.org/cyborgology/)
 * [Association for Progressive Communication, APC](https://www.apc.org/en/about)
 * [FemTechNet](http://femtechnet.org/) (so much stuff here!)
+* [Deep Lab](http://www.deeplab.net/)
 
 *Big big disclaimer: this list is not complete (and probably never will be). It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
