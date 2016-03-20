@@ -8,7 +8,7 @@ category:
 - diversity
 ---
 
-*Warning: really long post. For a reading list of books, blogs and more which take a critical perspective on tech/data and are written by women, scroll to the bottom!* 
+*Warning: really long post. For a reading list of books, blogs and more which take a critical perspective on tech/data and are written by women, scroll to the bottom, or check out [this Twitter list](https://twitter.com/zararah/lists/women-tech-critics) of the women mentioned below!* 
 
 <!--more-->
 
@@ -173,5 +173,6 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * [Association for Progressive Communication, APC](https://www.apc.org/en/about)
 * [FemTechNet](http://femtechnet.org/) (so much stuff here!)
 * [Deep Lab](http://www.deeplab.net/)
+* [Model View Culture](https://modelviewculture.com/)
 
-*Big big disclaimer: this list is not complete (and probably never will be). It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
+*Big big disclaimer: this list is not complete, and never will be. It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
