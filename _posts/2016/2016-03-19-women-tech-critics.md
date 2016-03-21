@@ -14,9 +14,9 @@ category:
 
 Recently, I've been looking for books* taking a critical angle on technology (taking a broad view - data, the Internet, etc) - and I've noticed that many of the most cited ones are by men. I've read and thoroughly enjoyed a few, written by women - like Rebecca Mackinnon's [Consent of the Networked](https://www.goodreads.com/book/show/13059717-consent-of-the-networked), Astra Taylor's [The People's Platform](https://www.goodreads.com/book/show/13168201-the-people-s-platform), Gabriella Coleman's [Hacker, Hoaxer, Whistleblower, Spy](https://www.goodreads.com/book/show/20601080-hacker-hoaxer-whistleblower-spy), and danah boyd's [It's Complicated](https://www.goodreads.com/book/show/18342787-it-s-complicated), to name just a few. I liked them especially for being **accessible** - not full of academic jargon, or reliant upon readers knowledge of complex theories, but rather, efforts to explain and reach a broader public.
 
-The public's lack of technical literacy and understanding is an increasing problem; from [uncoherent and frankly ignorant parliamentary bills being passed](http://www.telegraph.co.uk/news/politics/12194441/Snoopers-Charter-Parliamentary-vote-on-the-investigatory-powers-bill-live-updates.html), to reckless or [irresponsible decisions being made with regards to technology and data.](https://responsibledata.io/reflection-stories/). Call me naive, but I think these kinds of books could really help to address that problem among curious adults.
+The public's lack of technical literacy and understanding is an increasing problem; from [uncoherent and frankly ignorant parliamentary bills being passed](http://www.telegraph.co.uk/news/politics/12194441/Snoopers-Charter-Parliamentary-vote-on-the-investigatory-powers-bill-live-updates.html), to reckless or [irresponsible decisions being made with regards to technology and data.](https://responsibledata.io/reflection-stories/) Call me naive, but I think these kinds of books could really help to address that problem among curious adults.
 
-I also realised in my search that almost all of the women authors I came across in this genre are from North America. As someone who lives outside of the US, and works primarily on issues that affect areas of the world outside of the US, this reduces the usefulness and applicability of those books quite considerably. They might be tech-jargon free, but quite naturally they're almost all full of cultural assumptions that don't fit 'the rest' of the world.
+I also realised in my search that almost all of the women authors I came across in this genre are from North America. As someone who lives outside of the US, and works primarily on issues that affect areas of the world outside of the US, this reduces the usefulness and applicability of those books quite considerably. They might be tech-jargon free, but naturally they're almost all full of cultural assumptions that don't fit 'the rest' of the world.
 
 So, yesterday I took my search to Twitter in an effort to find what I was missing:
 
@@ -91,11 +91,23 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 
 * [Zeroes and Ones: Digital Women and the New Technoculture Hardcover](http://www.amazon.com/Zeroes-Ones-Digital-Women-Technoculture/dp/0385482604), by Sadie Plant, 1997.
 
+* [Life on the Screen: Identity in the Age of the Internet ](http://www.amazon.com/Life-Screen-Identity-Age-Internet/dp/0684833484), by Sherry Turkle, 1997. (So many more by her too...)
+
+* [Camgirls: Celebrity and community in the age of social networks](http://journal.transformativeworks.org/index.php/twc/article/view/120/120) by Terri Senft, 2008. (again - lots more available by her linked [from her personal site](http://www.terrisenft.net/wordpress/))
+
+* [Intervention: Confronting the Real Risks of Genetic Engineering and Life on a Biotech Planet.] by [Denise Caruso](http://www.caruso.com/)
+
+* [In The Age Of The Smart Machine: The Future Of Work And Power](http://www.amazon.com/In-The-Age-Smart-Machine/dp/0465032117), by [Shoshana Zyboff](http://www.shoshanazuboff.com/new/author/shoshana-zuboff/), 1984.
+
+* [Ctrl + Z: The Right to Be Forgotten](http://nyupress.org/books/9781479881703/), by Meg Leta Jones, March 2016.
+
 #### Forthcoming
 
 * Entrepreneurial Citizenship: Innovators and their Others in Indian Development (provisional title), by [Lilly Irani](https://quote.ucsd.edu/lirani/) - [lots of papers by her](https://scholar.google.com/citations?user=FGWYdYUAAAAJ&hl=en)
 
-* Self Tracking, by [Gina Neff](http://ginaneff.com/) and Dawn Nafus, July 2016. [MIT Press](https://mitpress.mit.edu/books/self-tracking), $15.95 USD. Note: Gina has a few other books out too, and writings linked from [her site](http://ginaneff.com/). 
+* Self Tracking, by [Gina Neff](http://ginaneff.com/) and Dawn Nafus, July 2016. [MIT Press](https://mitpress.mit.edu/books/self-tracking), $15.95 USD. Note: Gina has a few other books out too, and writings linked from [her site](http://ginaneff.com/).
+
+* [Magic and Loss: The Internet as Art](http://www.amazon.com/Magic-Loss-Pleasures-Virginia-Heffernan/dp/1439191700/) by Virginia Heffernan, due June 7 2016. (in the meantime, there's [lots more by her to read](https://en.wikipedia.org/wiki/Virginia_Heffernan))
 
 ### Writers / bloggers 
 
