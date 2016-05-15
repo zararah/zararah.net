@@ -48,9 +48,11 @@ I enjoy public speaking and writing on topics that I care about. Below is a sele
 
 * [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/), a set of nine case studies exploring the ethical challenges that arise from the use of data in advocacy and journalism.
 
-* [Five ways tech is crowdsourcing women’s empowerment](http://www.theguardian.com/global-development-professionals-network/2016/feb/03/five-ways-tech-crowdsourcing-womens-empowerment)- Guardian Global Development Professionals Network, Feb 2016
+* [Five ways tech is crowdsourcing women’s empowerment](http://www.theguardian.com/global-development-professionals-network/2016/feb/03/five-ways-tech-crowdsourcing-womens-empowerment)- an article for the Guardian Global Development Professionals Network, Feb 2016
 
-* [So you found a unicorn- what now?](http://zararah.net/blog/2015/11/12/data-journalism-book/) - a chapter for a book entitled "Data journalism: inside the global future", published in 2015.
+* [Citizen-generated data and governments: towards a collaborative model](http://civicus.org/thedatashift/frontpage-article/citizen-generated-data-and-governments-towards-a-collaborative-model-2/): a paper I cowrote with [Christopher Wilson](https://about.me/christopher_wilson) for the DataShift.
+
+* [So you found a unicorn- what now?](http://zararah.net/blog/2015/11/12/data-journalism-book/) - a chapter I contributed to the book ["Data journalism: inside the global future"](http://www.amazon.com/Data-Journalism-Inside-global-future/dp/1845496639), published in October 2015.
 
 * [Getting open development right](http://twentysix.fibreculturejournal.org/fcjmesh-010-getting-open-development-right/): an essay for the Fibreculture journal, on tensions between 'open development' and privacy.
 
@@ -60,11 +62,11 @@ I enjoy public speaking and writing on topics that I care about. Below is a sele
 
 * [The road to hell is paved with brightly coloured bubble maps](http://tech.transparency-initiative.org/zara-rahman-the-road-to-hell-is-paved-with-brightly-coloured-bubble-maps/) - Transparency and Accountability Initiative, September 2014
 
-* [Shooting your harddrive into space, and other ways to practise responsible development data](https://responsibledata.io/ways-to-practise-responsible-development-data/) - co-authored a book on the use of responsible data in international development, September 2014.
+* [Shooting your harddrive into space, and other ways to practise responsible development data](https://responsibledata.io/ways-to-practise-responsible-development-data/) - a book I co-authored on the use of responsible data in international development, September 2014.
 
 * [Informing the People: Oil Contracts Demystified](http://thinkafricapress.com/legal/openoil-informing-nation-oil-contracts-demystified) - Think African Press (November 2012)
 
-* [Oil Contracts: how to read and understand them](http://openoil.net/understanding-oil-contracts/) - a book, co-authored in October 2012
+* [Oil Contracts: how to read and understand them](http://openoil.net/understanding-oil-contracts/) - a book I co-authored in October 2012
 
-* [Exploring Oil Data: a Reporter's Handbook](http://openoil.net/exploring-oil-data/) - a book, co-authored in 2012
+* [Exploring Oil Data: a Reporter's Handbook](http://openoil.net/exploring-oil-data/) - a book I co-authored in 2012
 
