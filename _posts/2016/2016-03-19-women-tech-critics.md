@@ -163,7 +163,7 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * Tressie McMillan, [@tressiemc](https://twitter.com/tressiemc), <https://tressiemcphd.contently.com/>
 * [@wewatchwatchers](http://twitter.com/wewatchwatchers), <http://darkmatte.rs/>
 * Jade Davis, [@jadedid](https://twitter.com/jadedit), <http://jadedid.com/>
-
+* Astrid Mager, [@astridmager](https://twitter.com/astridmager), <http://www.astridmager.net/>
 ...and **so** many more. 
 
 ### Places to find more: 
