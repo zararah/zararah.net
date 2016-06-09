@@ -101,6 +101,20 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 
 * [Ctrl + Z: The Right to Be Forgotten](http://nyupress.org/books/9781479881703/), by Meg Leta Jones, March 2016.
 
+* [Doing IT: women working in information technology](http://www.worldcat.org/title/doing-it-women-working-in-information-technology/oclc/56065981), by Krista Scott-Dixon, 2004.
+
+* [The Boy Kings: A journey into the heart of the social network](http://www.worldcat.org/title/boy-kings-a-journey-into-the-heart-of-the-social-network/oclc/783144237), by Katherine Losse, 2012.
+
+* [Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People Like You Are Taking Back an Art Form](http://www.indiebound.org/book/9781609803728), by Anna Anthropy, March 2012.
+
+* [The Internet of Garbage](http://www.goodreads.com/book/show/25910719-the-internet-of-garbage), by Sarah Jeong, July 2015.
+
+* [Close to the Machine: technophilia and its discontents](http://www.worldcat.org/title/close-to-the-machine-technophilia-and-its-discontents-a-memoir/oclc/37277573), by Ellen Ullman, 1997.
+
+* [She's Such a Geek: Women Write about Science, Technology, and Other Nerdy Stuff](http://sealpress.com/books/shes-such-a-geek/), ed. Annalee Newitz and Charlie Anders, November 2006.
+
+* [Scatter, Adapt, and Remember: How Humans Will Survive a Mass Extinction](http://www.indiebound.org/book/9780307949424), by Annalee Newitz, April 2014.
+
 #### Forthcoming
 
 * Entrepreneurial Citizenship: Innovators and their Others in Indian Development (provisional title), by [Lilly Irani](https://quote.ucsd.edu/lirani/) - [lots of papers by her](https://scholar.google.com/citations?user=FGWYdYUAAAAJ&hl=en)
@@ -163,6 +177,20 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * Tressie McMillan, [@tressiemc](https://twitter.com/tressiemc), <https://tressiemcphd.contently.com/>
 * [@wewatchwatchers](http://twitter.com/wewatchwatchers), <http://darkmatte.rs/>
 * Jade Davis, [@jadedid](https://twitter.com/jadedit), <http://jadedid.com/>
+* Leigh Honeywell, [@hypatiadotca](https://twitter.com/hypatiadotca), <https://hypatia.ca/>
+* Valerie Aurora, [@vaurorapub](https://twitter.com/vaurorapub), <https://blog.valerieaurora.org/>
+* Lauren Bacon, [@laurenbacon](https://twitter.com/laurenbacon), <http://www.laurenbacon.com/blog/>
+* Kronda Adair, [@kronda](https://twitter.com/kronda), <http://kronda.com/>
+* Chris Martens, [@chrisamaphone](https://twitter.com/chrisamaphone), <http://lambdamaphone.blogspot.com/>
+* Jessamyn Smith, [@jessamynsmith](https://twitter.com/jessamynsmith?), <https://geekchick77.dreamwidth.org/>
+* Kate Heddleston, [@heddle317](https://twitter.com/heddle317), <https://kateheddleston.com/blog>
+* Cate Huston, [@catehstn](https://twitter.com/catehstn), <http://www.catehuston.com/blog/>
+* Sarah Sharp, [@sarahsharp](https://twitter.com/sarahsharp), <http://sarah.thesharps.us/>
+* Garann Means, [@garannm](https://twitter.com/garannm), <http://garann.com/dev/>
+* Sumana Harihareswara, [@brainwane](https://twitter.com/brainwane), <https://www.harihareswara.net/ces.shtml>
+* Kelsey Gilmore-Innis, [@_K_E_L_S_E_Y](https://twitter.com/_K_E_L_S_E_Y), <http://nerd.kelseyinnis.com/>
+* Restructure!, <https://restructure.wordpress.com>
+* Union of Concerned Feminists, [@concernedfems](https://twitter.com/concernedfems)
 
 ...and **so** many more. 
 
@@ -186,5 +214,7 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * [FemTechNet](http://femtechnet.org/) (so much stuff here!)
 * [Deep Lab](http://www.deeplab.net/)
 * [Model View Culture](https://modelviewculture.com/)
+* [Geek Feminism](https://geekfeminism.org/)
+* [The Recompiler](https://recompilermag.com/)
 
 *Big big disclaimer: this list is not complete, and never will be. It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
