@@ -23,7 +23,7 @@ collections:
     output: true
     permalink: /category/:path/
 
-gems:
-  - jekyll-redirect-from
+# gems:
+#   - jekyll-redirect-from
 
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
