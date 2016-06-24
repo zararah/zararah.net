@@ -6,7 +6,7 @@ category:
 - diversity
 ---
 
-Morning clouds of disbelief have given way to sadness. I'm in grieving, as are at least 16 million other people around me. Not only for the EU and for a united stance against the horrors of the world today - but for the country I grew up in.
+Morning clouds of disbelief have given way to sadness. I'm grieving, as are at least 16 million other people around me. Not only for the EU and for a united stance against the horrors of the world today - but for the country I grew up in.
 
 <!--more-->
 
