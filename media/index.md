@@ -5,9 +5,13 @@ layout: default
 
 ## Media
 
-I enjoy public speaking and writing on topics that I care about. Below is a selection of both.
+I enjoy public speaking and writing about topics that I care about. Below is a selection of both.
 
 ### Speaking
+
+* Responsible Data in Agriculture: I presented a paper I co-authored on Responsible Data challenges in the agriculture sector, at the GODAN Summit in New York City in September 2016.
+
+* [Bridging the gap: tech <-> activism, at CSVConf](http://csvconf.com/): at CSVConf in May 2016 in Berlin, I had the pleasure of giving a keynote about reconciling differences within technology and activism.
 
 * [Gender, activism and technology: Bridging theory and practice](http://www.gold.ac.uk/calendar/?id=9130): an event from Goldsmith's [Radical Media Forum](https://www.facebook.com/RadicalMediaForum), where I joined Becky Kazansky and Janet Gunter to discuss integrating feminism and activism, in late 2015.
 
@@ -45,6 +49,10 @@ I enjoy public speaking and writing on topics that I care about. Below is a sele
 
 
 ### Writing
+
+* [Feminist tech tools](http://www.genderit.org/feminist-talk/feminist-tech-tools)- a round up of some of my favourite technology tools, for [GenderIT.org.](genderit.org)
+
+* [The Potential Impact of Free Basics on SRHR Advocacy in Bangladesh](https://tacticaltech.org/news/now-out-arrow-change-2016-guest-edited-tactical-tech) - an article I wrote for the 2016 ARROW for Change journal, guest-edited by Tactical Technology Collective, on Sexuality, Sexual Reproductive Health and Rights, and the Internet.
 
 * [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/), a set of nine case studies exploring the ethical challenges that arise from the use of data in advocacy and journalism.
 
