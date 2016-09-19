@@ -11,7 +11,7 @@ category:
 <blockquote>"I thought then: no matter how deep the dung, no matter how long the task, if you just go at it one shovel at a time the day will come when you can see clean earth at the bottom of the pile.
 </blockquote>
 
-<blockquote>...I know better now. The unit of time that must be taken into account here is not decades but centuries, and tens of centuries. It has meaning only in the context of eternal time... I was a human being; I was ill-prepared to set my mind to plans that must be based upon thousands and thousands of years. Nothing about me was large enough to stretch itself to such a scale. And so, because there was quite literally nothing else to do, I set Time aside. I pretended that there was no such entity as Time; I abondened it utterly. And then I set my shovel to the pile. I began to do whatever I humanly could. Outside the context of Time.
+<blockquote>...I know better now. The unit of time that must be taken into account here is not decades but centuries, and tens of centuries. It has meaning only in the context of eternal time... I was a human being; I was ill-prepared to set my mind to plans that must be based upon thousands and thousands of years. Nothing about me was large enough to stretch itself to such a scale. And so, because there was quite literally nothing else to do, I set Time aside. I pretended that there was no such entity as Time; I abandoned it utterly. And then I set my shovel to the pile. I began to do whatever I humanly could. Outside the context of Time.
 
 </blockquote>
 
