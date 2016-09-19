@@ -5,11 +5,13 @@ layout: default
 
 ### Projects
 
+* [DatNav](https://engn.it/datnav) (*resources*): over the course of 2015 and 2016, I coordinated a project with Amnesty International and Benetech as part of my role with The Engine Room, to create a guide on using digital data in human rights research. It was the result of months of research and community input, and the guide itself was created through a writing sprint. It was first published in September 2016.
+
 * [Mission: Responsible](https://us2.campaign-archive1.com/?u=1747fd8a7bf587bd4a215d984&id=fcf2ebf053): (*newsletter*) in early 2016, I started a newsletter on the theme of Responsible Data, as part of my work with [the engine room](https://theengineroom.org). I send it out every couple of weeks or so, covering topics from data privacy, ethics, policy and general responsible data developments from around the world, and you can [subscribe here](https://theengineroom.us2.list-manage.com/subscribe?u=1747fd8a7bf587bd4a215d984&id=abf5695570).
 
 * [Global Voices Exchange](rising.globalvoices.org/exchange): (*resources*) As part of an ongoing project with Global Voices, I participated in a week-long writing sprint to create digital advocacy resources that are designed for the Global South.
 
-* [Global Voices](https://globalvoices.org/author/zararahman/): (*writing*) Since 2015, I've been writing articles for the fantastic Global Voices community, usually around the area of digital rights in Bangladesh.
+* [Global Voices](https://globalvoices.org/author/zararahman/): (*writing*) Since late 2014, I've been writing articles for Global Voices, usually around the area of digital rights and technology in Bangladesh.
 
 * [Superrr](https://superrr.ninja): (*community*) together with my good friend [Julia Kloiber](http://juliakloiber.com/), every couple of months we've been organising very informal meetups for women* in Berlin, with no agenda or specific purpose. We hold them in bars and encourage people to bring a new person to the group, so that the network keeps growing.
 
