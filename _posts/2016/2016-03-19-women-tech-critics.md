@@ -216,5 +216,6 @@ by [Molly Sauter](https://twitter.com/OddLetters), 2014. [Amazon link](http://ww
 * [Model View Culture](https://modelviewculture.com/)
 * [Geek Feminism](https://geekfeminism.org/)
 * [The Recompiler](https://recompilermag.com/)
+* [A Partial List of Women in New Media Arts and Design](http://cmuems.com/2015c/deliverables/deliverables-10/lists-of-women-media-artists/)
 
 *Big big disclaimer: this list is not complete, and never will be. It could do with **a lot** more diversity in all senses, but I just wanted to get a first iteration out there. Bear with me, or feel free to add your own suggestions - it's [here on Github](https://github.com/zararah/zararah.github.io/blob/master/_posts/2016/2016-03-19-women-tech-critics.md), or email me!*
