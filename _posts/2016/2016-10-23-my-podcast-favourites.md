@@ -44,4 +44,4 @@ It's always a shame to have to stop listening to a podcast episode halfway throu
 
 * [Freakonomics](http://freakonomics.com/archive/) - ["Is the Internet Being Ruined?"](http://freakonomics.com/podcast/internet/) has [Zeynep Tufekci](https://twitter.com/zeynep) and [Yochai Benkler](https://twitter.com/YochaiBenkler) as guests, and I'm big fans of both. There was nothing massively new in this episode for me, but a good refresher of some of the major points in the history of the Internet, and the main discussions about its structure and use today.
 
-
+* Science Friday - [A Conversation With Margaret Atwood (SciFri Book Club)](http://www.sciencefriday.com/podcast/bonus-episode-a-conversation-with-margaret-atwood-scifri-book-club/) - oh my goodness, I love it when writers I hugely admire, end up being hilarious in person too. If you're an Atwood fan, you'll love this.
