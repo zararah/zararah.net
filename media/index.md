@@ -5,11 +5,27 @@ layout: default
 
 ## Media
 
-I enjoy public speaking and writing about topics that I care about. Below is a selection of both.
+I enjoy public speaking and writing about topics that I care about.
+
+### Highlights
+
+* [2016: A Year of Data-Driven Confusion](https://modelviewculture.com/pieces/2016-a-year-of-data-driven-confusion) an article written in December 2016, for Model View Culture.
+
+* [Technology Tools for Human Rights](https://www.theengineroom.org/technology-tools-human-rights/): a paper written for The Engine Room on the use of technology tools for human rights documentation.
+
+* [Internet politics: a feminist guide to navigating online power](https://www.opendemocracy.net/5050/zara-rahman/internet-politics-feminist-guide-navigating-online-power) for Open Democracy.
+
+* [Data-driven lies](https://www.youtube.com/watch?v=HbPvhK2m8fU), a talk I gave at [Books in Browsers](http://booksinbrowsers.org/program/) in November 2016.
+
+* [Data and discrimination: representing marginalised communities in data](https://media.ccc.de/v/camp2015-6876-data_and_discrimination_representing_marginalised_communities_in_data): a talk I gave at the Chaos Communication Camp in 2015.
+
+Below is a more comprehensive list of my most recent speaking and writing engagements.
 
 ### Speaking
 
-* Responsible Data in Agriculture: I presented a paper I co-authored on Responsible Data challenges in the agriculture sector, at the GODAN Summit in New York City in September 2016.
+* [Data-driven lies](https://www.youtube.com/watch?v=HbPvhK2m8fU), at [Books in Browsers](http://booksinbrowsers.org/program/) in November 2016.
+
+* Responsible Data in Agriculture: I presented [a paper I co-authored on Responsible Data challenges in the agriculture sector](https://www.theengineroom.org/launching-new-responsible-data-in-agriculture-paper/), at the GODAN Summit in New York City in September 2016.
 
 * [Bridging the gap: tech <-> activism, at CSVConf](http://csvconf.com/): at CSVConf in May 2016 in Berlin, I had the pleasure of giving a keynote about reconciling differences within technology and activism.
 
@@ -50,11 +66,19 @@ I enjoy public speaking and writing about topics that I care about. Below is a s
 
 ### Writing
 
+* [2016: A Year of Data-Driven Confusion](https://modelviewculture.com/pieces/2016-a-year-of-data-driven-confusion) for Model View Culture.
+
+* [Technology Tools for Human Rights](https://www.theengineroom.org/technology-tools-human-rights/): a paper written for The Engine Room on the use of technology tools for human rights documentation.
+
+* [Responsible Data in Agriculture](https://www.theengineroom.org/launching-new-responsible-data-in-agriculture-paper/): [a paper co-written with Lindsay Ferris, for The Engine Room.
+
+* [Internet politics: a feminist guide to navigating online power](https://www.opendemocracy.net/5050/zara-rahman/internet-politics-feminist-guide-navigating-online-power) for Open Democracy.
+
 * [Feminist tech tools](http://www.genderit.org/feminist-talk/feminist-tech-tools)- a round up of some of my favourite technology tools, for [GenderIT.org.](genderit.org)
 
 * [The Potential Impact of Free Basics on SRHR Advocacy in Bangladesh](https://tacticaltech.org/news/now-out-arrow-change-2016-guest-edited-tactical-tech) - an article I wrote for the 2016 ARROW for Change journal, guest-edited by Tactical Technology Collective, on Sexuality, Sexual Reproductive Health and Rights, and the Internet.
 
-* [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/), a set of nine case studies exploring the ethical challenges that arise from the use of data in advocacy and journalism.
+* [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/), a set of nine case studies exploring the ethical challenges that arise from the use of data in advocacy and journalism
 
 * [Five ways tech is crowdsourcing women’s empowerment](http://www.theguardian.com/global-development-professionals-network/2016/feb/03/five-ways-tech-crowdsourcing-womens-empowerment)- an article for the Guardian Global Development Professionals Network, Feb 2016
 
