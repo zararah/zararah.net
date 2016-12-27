@@ -5,6 +5,7 @@ date: '2016-12-27'
 category:
 - data
 - technology
+- featured
 ---
 
 Inspired by my friend [Lisa Rost's 'year in review'](https://lisacharlotterost.github.io/2016/12/18/year-in-review/), here's a summary of what I've been thinking and writing about this year.

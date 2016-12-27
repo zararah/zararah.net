@@ -6,6 +6,7 @@ category:
 - tech
 - bookworm
 - diversity
+- featured
 ---
 
 *Warning: really long post. For a reading list of books, blogs and more which take a critical perspective on tech/data and are written by women, scroll to the bottom, or check out [this Twitter list](https://twitter.com/zararah/lists/women-tech-critics) of the women mentioned below!* 
