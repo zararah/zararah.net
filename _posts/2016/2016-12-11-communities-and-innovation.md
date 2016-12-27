@@ -11,6 +11,8 @@ A few weeks ago, I received the unexpected news that I’d been awarded a Shuttl
 
 I was happy to get it, and naturally it made me ask: what's the most useful way of spending that money?
 
+<!--more-->
+
 I looked at their site for inspiration, and found this about their flagship Fellowship programme:
 
 <blockquote> To help us get there, we identify amazing people with innovative ideas, give them a fellowship grant, and multiply the money they put into their own project by a factor of ten or more.</blockquote>
