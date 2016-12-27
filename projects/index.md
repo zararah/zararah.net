@@ -5,6 +5,10 @@ layout: default
 
 ### Projects
 
+* [The Engine Room's Advent Calendar](https://engn.it/advent): together with colleagues at The Engine Room, we put together a month's worth of learnings and findings from 2016, with a new one for each day, together with a piece of research or blog post to give more context.
+
+* [Responsible Data in Agriculture](https://www.theengineroom.org/launching-new-responsible-data-in-agriculture-paper/): (*research*)together with Lindsay Ferris, I co-authored this paper on responsible data challenges within the agriculture sector. We looked particularly at power imbalances within different actors in the sector, and how that translated to their understandings and perceptions of data use.
+
 * [DatNav](https://engn.it/datnav) (*resources*): over the course of 2015 and 2016, I coordinated a project with Amnesty International and Benetech as part of my role with The Engine Room, to create a guide on using digital data in human rights research. It was the result of months of research and community input, and the guide itself was created through a writing sprint. It was first published in September 2016.
 
 * [Mission: Responsible](https://us2.campaign-archive1.com/?u=1747fd8a7bf587bd4a215d984&id=fcf2ebf053): (*newsletter*) in early 2016, I started a newsletter on the theme of Responsible Data, as part of my work with [the engine room](https://theengineroom.org). I send it out every couple of weeks or so, covering topics from data privacy, ethics, policy and general responsible data developments from around the world, and you can [subscribe here](https://theengineroom.us2.list-manage.com/subscribe?u=1747fd8a7bf587bd4a215d984&id=abf5695570).
