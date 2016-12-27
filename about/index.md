@@ -9,7 +9,7 @@ layout: default
 
 <small>Photo by <a href="http://arduina.net/">Fotografiona</a></small>
 
-I'm Zara - feminist, researcher and information activist, currently based in New York City. I'm a Fellow at [Data & Society Research Institute](datasociety.net), where I'm looking at the skills and roles needed to successfully implement technology and data projects among human rights defenders and activists. I'm also Research Lead at [The Engine Room](theengineroom.org), where I carry out research to support our work in strengthening the effective use of technology and data in activism and advocacy. I write about digital policy and technology in Bangladesh for [Global Voices.](globalvoices.org/author/zararahman/)
+I'm Zara - feminist, researcher and information activist. I'm a Fellow at [Data & Society Research Institute](datasociety.net), where I'm looking at the skills and roles needed to successfully implement technology and data projects among human rights defenders and activists. I'm also Research Lead at [The Engine Room](theengineroom.org), where I carry out research to support our work in strengthening the effective use of technology and data in activism and advocacy, and work on our [Responsible Data programme](http://responsibledata.io/) looking at the ethical implications of using data in new ways. I write about digital policy and technology in Bangladesh for [Global Voices.](globalvoices.org/author/zararahman/)
 
 I enjoy public speaking, debating and facilitation. I blog regularly on this site, and I sometimes write for other outlets, too.
 
