@@ -7,7 +7,6 @@ twitter: "zararah"
 pagine_path: "blog/page:num"
 paginate: 10
 
-markdown: rdiscount
 permalink: /blog/:year/:month/:day/:title/
 
 defaults:
@@ -23,7 +22,7 @@ collections:
     output: true
     permalink: /category/:path/
 
-# gems:
-#   - jekyll-redirect-from
+gems:
+  - jekyll-paginate
 
 excerpt_separator: "<!--more-->"
