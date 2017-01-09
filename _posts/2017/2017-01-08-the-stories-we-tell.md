@@ -8,7 +8,7 @@ category:
 - bookworm
 ---
 
-When somebody asks me how I got to where I am, there are a few words I use generously: luck, serendipity and kind people. I want to give credit where its due, and acknowledge the people who helped me and support me get to where I am. If I'm honest, it also makes for a better tale, too.
+When somebody asks me how I got to where I am, there are a few words I use generously: luck, serendipity and kind people. I want to give credit where it's due, and acknowledge the people who helped me and supported me to get to where I am. If I'm honest, it also makes for a better story, too.
 
 Part of me wants that tale I tell to be engaging and modest-sounding (I'm British! Boasting is Terrible). But that mythology I find myself trying to build up is probably harmful to others as well as myself.
 
@@ -26,7 +26,7 @@ She's right, and my comment totally missed the mark. She was rightfully owning t
 
 So how else could my story be told?
 
-A more accurate retelling of my own story could include years I've actively looked out for opportunities to write in outlets in my spare time, or given talks at events on topics I'm interested in to give me an opportunity to research those topics and a potential 'in' to working on them more in the future. I could mention prioritising getting better at writing by spending every Sunday evening for 2+ years, writing on this blog, giving myself time limits and writing goals.
+A more accurate retelling of my own story could include years I've actively looked out for opportunities to write in outlets in my spare time, or given talks at events on topics I'm interested in to give me an opportunity to research those topics and a potential 'in' to working on them more in the future. I could mention prioritising getting better at writing by spending every Sunday evening for 2+ years, writing on this blog, giving myself time limits for posts, and writing goals.
 
 I could talk about how I made an effort to get in touch with Data & Society as soon as I learned about them and their work once I realised it was a space I would one day love to be a part of, years before applying for the fellowship (admittedly, I didn't expect that to come so soon!). I might mention that some of that serendipity I love to cite was in large part engineered on my part - tweeting, reading extensively, quoting people's work and letting them know I follow them and admire what they're doing, getting in touch proactively, building those relationships so I'm on their radar for when that 'serendiptious' occasion might arise.
 
