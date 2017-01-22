@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hidden Figures - representation, flaws and imperfection"
-date: '2016-01-22'
+date: '2017-01-22'
 category:
 - diversity
 - bookworm
