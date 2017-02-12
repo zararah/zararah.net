@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting critical with data literacy"
-date: '2016-02-12'
+date: '2017-02-12'
 category:
 - technology
 - data
