@@ -13,7 +13,7 @@ layout: default
 
 * [Mission: Responsible](https://us2.campaign-archive1.com/?u=1747fd8a7bf587bd4a215d984&id=fcf2ebf053): (*newsletter*) in early 2016, I started a newsletter on the theme of Responsible Data, as part of my work with [the engine room](https://theengineroom.org). I send it out every couple of weeks or so, covering topics from data privacy, ethics, policy and general responsible data developments from around the world, and you can [subscribe here](https://theengineroom.us2.list-manage.com/subscribe?u=1747fd8a7bf587bd4a215d984&id=abf5695570).
 
-* [Global Voices Exchange](rising.globalvoices.org/exchange): (*resources*) As part of an ongoing project with Global Voices, I participated in a week-long writing sprint to create digital advocacy resources that are designed for the Global South.
+* [Global Voices Exchange](https://rising.globalvoices.org/exchange): (*resources*) As part of an ongoing project with Global Voices, I participated in a week-long writing sprint to create digital advocacy resources that are designed for the Global South.
 
 * [Global Voices](https://globalvoices.org/author/zararahman/): (*writing*) Since late 2014, I've been writing articles for Global Voices, usually around the area of digital rights and technology in Bangladesh.
 
