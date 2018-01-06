@@ -3,7 +3,13 @@ title: Projects
 layout: default
 ---
 
-### Projects
+<h3>Projects</h3>
+
+{% for project in site.projects %}
+  <a href="{{ project.url }}">{{ project.title }}</a>
+{% endfor %}
+
+<!-- 
 
 * [The Engine Room's Advent Calendar](https://engn.it/advent): together with colleagues at The Engine Room, we put together a month's worth of learnings and findings from 2016, with a new one for each day, together with a piece of research or blog post to give more context.
 
@@ -43,3 +49,4 @@ layout: default
 
 * Observations on the Libyan civil war: slightly unusually, my first work trips involved going to Libya during and after the revolution in 2011. It was my first time seeing a revolution (and a war zone) first hand, and I wrote about it [here](http://openoil.net/2011/12/21/post-gaddafi-libya-what-has-changed/), [here](http://openoil.net/2012/03/15/youth-vs-experience-in-libya-we-fought-the-war-now-you-rule-the-country/) and [here](http://openoil.net/2012/03/21/who-cares-about-oil/).
 
+ -->

@@ -4,7 +4,8 @@ description: "Zara's blog"
 url: "http://zararah.net"
 github.owner: "zararah"
 twitter: "zararah"
-pagine_path: "blog/page:num"
+
+paginate_path: "/blog/page:num/"
 paginate: 10
 
 permalink: /blog/:year/:month/:day/:title/
@@ -16,13 +17,23 @@ defaults:
       type: "category"
     values:
       layout: "category"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "default"
 
 collections:
   category:
     output: true
-    permalink: /category/:path/
+    permalink: /blog/category/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-gems:
+
+plugins:
   - jekyll-paginate
 
 excerpt_separator: "<!--more-->"
