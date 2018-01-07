@@ -4,7 +4,7 @@
   type: op-ed
   publication: IRIN News
   translations:
-  	it: http://openmigration.org/idee/dati-irresponsabili-i-rischi-che-comporta-registrare-i-rohingya/
+    it: http://openmigration.org/idee/dati-irresponsabili-i-rischi-che-comporta-registrare-i-rohingya/
 
 - title: My Manchester
   date: 2017-06-17
@@ -24,7 +24,7 @@
   type: essay
   publication: Real Life
   translations:
-  	it: https://www.lemacchinevolanti.it/approfondimenti/a-distanza-ravvicinata
+    it: https://www.lemacchinevolanti.it/approfondimenti/a-distanza-ravvicinata
 
 - title: "The Potential Impact of Free Basics on SRHR Advocacy in Bangladesh [PDF]"
   date: 2016-01-22
@@ -53,7 +53,7 @@
     mk: https://mk.globalvoices.org/12/28/24248/
     es: https://es.globalvoices.org/2016/01/18/bangladesh-exigira-datos-biometricos-de-todos-los-usuarios-de-tarjetas-sim/
 
-- title: 2016: A Year of Data-Driven Confusion
+- title: "2016: A Year of Data-Driven Confusion"
   date: 2016-12-12
   url: https://modelviewculture.com/pieces/2016-a-year-of-data-driven-confusion
   type: article
@@ -65,8 +65,8 @@
   type: article
   publication: openDemocracy 50:50
   translations:
-  	fr: https://www.awid.org/fr/nouvelles-et-analyse/politique-de-linternet-un-guide-feministe-de-navigation-sur-les-flots-du
-  	es: https://www.awid.org/es/noticias-y-an%C3%A1lisis/las-politicas-de-la-internet-una-guia-feminista-para-entender-el-poder-en-linea
+    fr: https://www.awid.org/fr/nouvelles-et-analyse/politique-de-linternet-un-guide-feministe-de-navigation-sur-les-flots-du
+    es: https://www.awid.org/es/noticias-y-an%C3%A1lisis/las-politicas-de-la-internet-una-guia-feminista-para-entender-el-poder-en-linea
 
 - title: Technology Tools in Human Rights
   date: 2016-12-07
@@ -108,7 +108,7 @@
   date: 2015-11-12
   url: http://zararah.net/blog/2015/11/12/data-journalism-book/
   type: book chapter
-  publication: Data Journalism: Inside the global future
+  publication: "Data Journalism: Inside the global future"
 
 - title: Getting Open Development Right
   date: 2015-03-01
@@ -191,11 +191,11 @@
   type: article
   publication: Global Voices
   translations:
-  	mg: https://mg.globalvoices.org/2016/08/05/86307/
-  	ru: https://ru.globalvoices.org/2016/08/08/51886/
-  	es: https://es.globalvoices.org/2016/08/09/bangladesh-suspende-internet-y-luego-ordena-el-bloqueo-de-35-sitios-web-de-noticias/
-  	sw: https://sw.globalvoices.org/2016/08/serikali-ya-bangladesh-yazima-mitandao-ya-intaneti-na-kufungia-tovuti-35/
-  	el: https://el.globalvoices.org/2016/09/39630
+    mg: https://mg.globalvoices.org/2016/08/05/86307/
+    ru: https://ru.globalvoices.org/2016/08/08/51886/
+    es: https://es.globalvoices.org/2016/08/09/bangladesh-suspende-internet-y-luego-ordena-el-bloqueo-de-35-sitios-web-de-noticias/
+    sw: https://sw.globalvoices.org/2016/08/serikali-ya-bangladesh-yazima-mitandao-ya-intaneti-na-kufungia-tovuti-35/
+    el: https://el.globalvoices.org/2016/09/39630
 
 - title: "Brexit: Heartbroken, but not broken"
   date: 2016-06-24
@@ -203,13 +203,13 @@
   type: op-ed
   publication: Global Voices
   translations:
-  	es: https://es.globalvoices.org/2016/06/27/con-el-corazon-destrozado-pero-no-roto-por-el-brexit/
-  	it: https://it.globalvoices.org/2016/06/brexit-ho-il-cuore-spezzato-ma-io-non-mi-spezzo/
-  	ar: https://ar.globalvoices.org/2016/06/27/43530/
-  	mg: https://mg.globalvoices.org/2016/06/25/84544/
-  	ru: https://ru.globalvoices.org/2016/06/26/50719/
-  	el: https://el.globalvoices.org/2016/06/34863
-  	fr: https://fr.globalvoices.org/2016/06/26/199066/
+    es: https://es.globalvoices.org/2016/06/27/con-el-corazon-destrozado-pero-no-roto-por-el-brexit/
+    it: https://it.globalvoices.org/2016/06/brexit-ho-il-cuore-spezzato-ma-io-non-mi-spezzo/
+    ar: https://ar.globalvoices.org/2016/06/27/43530/
+    mg: https://mg.globalvoices.org/2016/06/25/84544/
+    ru: https://ru.globalvoices.org/2016/06/26/50719/
+    el: https://el.globalvoices.org/2016/06/34863
+    fr: https://fr.globalvoices.org/2016/06/26/199066/
 
 - title: "#Istanbul10 Human Rights Defenders Have Been Behind Bars for 100 Days"
   date: 2017-10-12
