@@ -26,7 +26,7 @@
   translations:
   	it: https://www.lemacchinevolanti.it/approfondimenti/a-distanza-ravvicinata
 
-- title: The Potential Impact of Free Basics on SRHR Advocacy in Bangladesh [PDF]
+- title: "The Potential Impact of Free Basics on SRHR Advocacy in Bangladesh [PDF]"
   date: 2016-01-22
   url: http://arrow.org.my/wp-content/uploads/2016/08/AFC22.1-2016.pdf
   type: journal article
@@ -38,12 +38,20 @@
   url: https://globalvoices.org/2017/10/26/after-113-days-behind-bars-istanbul10-human-rights-defenders-are-released-on-bail/
   type: article
   publication: Global Voices
+  translations:
+    es: https://es.globalvoices.org/2017/10/27/tras-113-dias-detenidos-liberan-a-defensores-de-derechos-a-la-espera-de-juicio/
+    fr: https://fr.globalvoices.org/2017/10/27/217827/
+    pa: https://pa.globalvoices.org/2017/10/29/108/
+    ru: https://ru.globalvoices.org/2017/11/04/66808/
 
 - title: Bangladesh Will Demand Biometric Data From All SIM Card Users
   date: 2015-12-22
   url: https://advox.globalvoices.org/2015/12/22/bangladesh-will-demand-biometric-data-from-all-sim-card-users/
   type: article
   publication: Global Voices
+  translations:
+    mk: https://mk.globalvoices.org/12/28/24248/
+    es: https://es.globalvoices.org/2016/01/18/bangladesh-exigira-datos-biometricos-de-todos-los-usuarios-de-tarjetas-sim/
 
 - title: 2016: A Year of Data-Driven Confusion
   date: 2016-12-12
@@ -51,7 +59,7 @@
   type: article
   publication: Model View Culture
 
-- title: Internet politics: a feminist guide to navigating online power
+- title: "Internet politics: a feminist guide to navigating online power"
   date: 2016-11-11
   url: https://www.opendemocracy.net/5050/zara-rahman/internet-politics-feminist-guide-navigating-online-power
   type: article
@@ -90,13 +98,13 @@
   type: article
   publication: The Guardian
 
-- title: Citizen-generated Data and Governments: Towards a Collaborative Model
+- title: "Citizen-generated Data and Governments: Towards a Collaborative Model"
   date: 2015-10-26
   url: http://civicus.org/thedatashift/frontpage-article/citizen-generated-data-and-governments-towards-a-collaborative-model-2/
   type: report
   publication: DataShift
 
-- title: So you found a unicorn- what now?
+- title: "So you found a unicorn- what now?"
   date: 2015-11-12
   url: http://zararah.net/blog/2015/11/12/data-journalism-book/
   type: book chapter
@@ -120,13 +128,13 @@
   type: book
   publication: Responsible Data Forum
 
-- title: Oil Contracts: how to read and understand them
+- title: "Oil Contracts: how to read and understand them"
   date: 2012-11-01
   url: http://openoil.net/understanding-oil-contracts/
   type: book
   publication: OpenOil
 
-- title: Exploring Oil Data: a Reporter's Handbook
+- title: "Exploring Oil Data: a Reporter's Handbook"
   date: 2012-06-01
   url: http://openoil.net/exploring-oil-data/
   type: book
@@ -137,20 +145,23 @@
   url: https://advox.globalvoices.org/2015/12/01/bangladesh-keeps-blocking-social-media-threatens-new-surveillance-tactics/
   type: article
   publication: Global Voices
+  translations:
+    mg: https://mg.globalvoices.org/2016/01/10/77243/
+    es: https://es.globalvoices.org/2015/12/07/bangladesh-continua-bloqueando-las-redes-sociales-y-amenaza-con-nuevas-tacticas-de-vigilancia/
 
-- title: When the Openwashing is Over: Protecting The Right To Know
+- title: "When the Openwashing is Over: Protecting The Right To Know"
   date: 2016-09-28
   url: https://www.theengineroom.org/when-the-openwashing-is-over-protecting-the-right-to-know/
   type: op-ed
   publication: The Engine Room
 
-- title: Digital Identification Systems: Responsible Data Challenges and Opportunities
+- title: "Digital Identification Systems: Responsible Data Challenges and Opportunities"
   date: 2017-07-04
   url: https://www.theengineroom.org/digital-identification-systems/
   type: op-ed
   publication: The Engine Room
 
-- title: Civic Tech and Brexit: We Can Do Better
+- title: "Civic Tech and Brexit: We Can Do Better"
   date: 2016-06-28
   url: https://www.theengineroom.org/civic-tech-and-brexit-we-can-do-better/
   type: op-ed
@@ -162,13 +173,13 @@
   type: report
   publication: Oxfam
 
-- title: The fine print: seeing beyond the hype in technology for human rights
+- title: "The fine print: seeing beyond the hype in technology for human rights"
   date: 2017-03-08
   url: https://www.opendemocracy.net/openglobalrights/zara-rahman/fine-print-seeing-beyond-hype-in-technology-for-human-rights
   type: article
   publication: openGlobalRights
 
-- title: Dangerous Data: The Role of Data Collection in Genocides
+- title: "Dangerous Data: The Role of Data Collection in Genocides"
   date: 2016-11-21
   url: https://www.theengineroom.org/dangerous-data-the-role-of-data-collection-in-genocides/
   type: op-ed
@@ -199,3 +210,57 @@
   	ru: https://ru.globalvoices.org/2016/06/26/50719/
   	el: https://el.globalvoices.org/2016/06/34863
   	fr: https://fr.globalvoices.org/2016/06/26/199066/
+
+- title: "#Istanbul10 Human Rights Defenders Have Been Behind Bars for 100 Days"
+  date: 2017-10-12
+  url: https://globalvoices.org/2017/10/12/istanbul10-human-rights-defenders-have-been-behind-bars-for-100-days/
+  type: article
+  publication: Global Voices
+  translations:
+    cs: https://cs.globalvoices.org/2017/10/7017
+    es: https://es.globalvoices.org/2017/10/16/defensores-de-derechos-humanos-cumplen-cien-dias-tras-las-rejas-en-estambul/
+    fr: https://fr.globalvoices.org/2017/10/17/217352/
+    ar: https://ar.globalvoices.org/2017/11/04/53527/
+    it: https://it.globalvoices.org/2017/10/i-10-difensori-dei-diritti-umani-di-istanbul-sono-dietro-alle-sbarre-da-100-giorni/
+    el: https://el.globalvoices.org/2017/10/44158
+
+- title: "Human Rights Defenders Are Still Behind Bars in Turkey"
+  date: 2017-07-12
+  url: https://globalvoices.org/2017/07/12/human-rights-defenders-are-still-behind-bars-in-turkey/
+  type: article
+  publication: Global Voices
+  translations:
+    mg: https://mg.globalvoices.org/2017/07/19/103652/
+    es: https://es.globalvoices.org/2017/07/13/defensores-de-derechos-humanos-siguen-en-prision-en-turquia/
+    fr: https://fr.globalvoices.org/2017/07/15/212987/
+    el: https://el.globalvoices.org/2017/07/42143
+    ar: https://ar.globalvoices.org/2017/07/12/52083/
+
+- title: Bangladesh Introduces ‘Smart’ National Identity Cards
+  date: 2016-10-07
+  url: https://globalvoices.org/2016/10/07/bangladesh-introduces-smart-national-identity-cards/
+  type: article
+  publication: Global Voices
+  translations: 
+    es: https://es.globalvoices.org/2016/10/19/bangladesh-presenta-tarjeta-nacional-de-identidad-inteligente/
+
+- title: There's Finally a Programming Language in Bengali Script, Thanks to ‘Potaka’
+  date: 2016-08-30
+  url: https://globalvoices.org/2016/08/30/theres-finally-a-programming-language-in-bengali-script-thanks-to-potaka/
+  type: article
+  publication: Global Voices
+  translations:
+    mg: https://mg.globalvoices.org/2016/08/31/87603/
+    ru: https://ru.globalvoices.org/2016/09/21/52888/
+    es: https://es.globalvoices.org/2016/09/03/finalmente-hay-un-lenguage-de-programacion-en-alfabeto-bengali-gracias-a-potaka/
+
+- title: "With Messaging Apps Still Banned, Bangladeshis Turn to Tor (and Twitter)"
+  date: 2015-11-25
+  url: https://globalvoices.org/2015/11/25/with-messaging-apps-still-banned-bangladeshis-turn-to-tor-and-twitter/
+  type: article
+  publication: Global Voices
+  translations:
+    mg: https://mg.globalvoices.org/2015/11/27/77104/
+    mk: https://mk.globalvoices.org/01/28/24183/
+    es: https://es.globalvoices.org/2015/12/12/con-las-aplicaciones-de-mensajeria-aun-prohibidas-los-bangladesies-recurren-a-tor-y-twitter/
+
