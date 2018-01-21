@@ -17,12 +17,13 @@ defaults:
       type: "category"
     values:
       layout: "category"
+      menu: "blog"
   -
     scope:
       path: ""
       type: "projects"
     values:
-      layout: "default"
+      layout: "project"
 
 collections:
   category:
@@ -35,5 +36,9 @@ collections:
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
+
+include:
+  - _redirects
 
 excerpt_separator: "<!--more-->"
