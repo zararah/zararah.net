@@ -1,0 +1,62 @@
+---
+layout: page
+title: Writing
+menu: writing
+redirect_from: "/media/"
+
+---
+
+<h2>Writing</h2>
+
+<h3>Selected writing</h3>
+
+{% assign sortedWriting = site.data.writing | sort: 'date' | reverse %}
+<div class="writing">
+  <div class="card-deck">
+    {% for article in sortedWriting %}
+      {% if article.featured %}
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">
+            <a href="{{ article.url }}">
+              {{ article.title }}
+            </a>
+          </h5>
+          <h6 class="card-subtitle mb-2 text-muted">
+            {{ article.date | date_to_long_string }} for {{ article.publication }}
+          </h6>
+          {% if article.teaser %}
+            <p class="card-text">
+              {{ article.teaser }}
+            </p>
+          {% endif %}
+        </div>
+        {% if article.translations %}
+          <div class="card-footer text-muted">
+            <small>
+              {% for lang_url in article.translations %}<a href="{{ lang_url[1] }}">{{ lang_url[0] | upcase }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
+            </small>
+          </div>
+        {% endif %}
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <h3 class="mt-5">More writing</h3>
+  <ul>
+  {% for article in sortedWriting %}
+    {% if article.featured == False %}
+      <li>
+        <a href="{{ article.url }}">
+          {{ article.title }}
+        </a>
+        on {{ article.date | date_to_long_string }}
+        for {{ article.publication }}.
+        {% if article.translations %}
+          ({% for lang_url in article.translations %}<a href="{{ lang_url[1] }}">{{ lang_url[0] | upcase }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %})
+        {% endif %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</div>
