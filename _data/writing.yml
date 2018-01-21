@@ -4,6 +4,7 @@
   type: op-ed
   publication: IRIN News
   featured: yes
+  teaser: ID cards have brought little but pain to the Rohingya. And this time they’re biometric
   translations:
     it: http://openmigration.org/idee/dati-irresponsabili-i-rischi-che-comporta-registrare-i-rohingya/
 
@@ -25,6 +26,7 @@
   type: essay
   publication: Real Life
   featured: yes
+  teaser: When remote family members are a touch screen away, the strange can become familiar and uncertain new worlds bearable
   translations:
     it: https://www.lemacchinevolanti.it/approfondimenti/a-distanza-ravvicinata
 
@@ -41,6 +43,7 @@
   type: article
   publication: Global Voices
   featured: yes
+  teaser: It was a long day in court for the Istanbul 10 on October 25, but one that ended with joy.
   translations:
     es: https://es.globalvoices.org/2017/10/27/tras-113-dias-detenidos-liberan-a-defensores-de-derechos-a-la-espera-de-juicio/
     fr: https://fr.globalvoices.org/2017/10/27/217827/
@@ -180,6 +183,7 @@
   date: 2017-03-08
   url: https://www.opendemocracy.net/openglobalrights/zara-rahman/fine-print-seeing-beyond-hype-in-technology-for-human-rights
   type: article
+  teaser: With all the hype about new technologies for human rights, activists must think critically and strategically
   featured: yes
   publication: openGlobalRights
 
