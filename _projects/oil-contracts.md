@@ -1,7 +1,7 @@
 ---
 title: Understanding oil contracts
 year: 2012
-image: /assets/projects/oilcontracts.jpg
+image: /assets/projects/oilcontracts.png
 description: A book on oil contracts
 
 ---
