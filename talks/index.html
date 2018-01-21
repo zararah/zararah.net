@@ -1,0 +1,39 @@
+---
+layout: default
+title: Talks
+menu: talks
+
+---
+
+<h2>Talks</h2>
+
+<div class="talk">
+  <div class="card-deck">
+    {% assign sortedTalks = site.data.talks | sort: 'date' | reverse %}
+    {% for talk in sortedTalks %}
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">
+            <a href="{{ talk.url }}">{{ talk.title }}</a>
+          </h5>
+          <p class="card-text">
+            {% if talk.description %}
+              {{ talk.description }}
+            {% endif %}
+          </p>
+          {% if talk.video %}
+            <p class="card-text">
+              <a href="{{ talk.video }}">Watch video.</a>
+            </p>
+          {% endif %}
+        </div>
+        <div class="card-footer text-muted">
+          <small>
+            {{ talk.date | date: '%d.%m.%Y' }} – {{ talk.event }} in {{ talk.location }}.
+          </small>
+        </div>
+      </div>
+
+    {% endfor %}
+  </div>
+</div>
