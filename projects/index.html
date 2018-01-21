@@ -7,8 +7,9 @@ menu: projects
 
 <h3>Projects</h3>
 
+{% assign projects = site.projects | sort: 'year' | reverse %}
 <div class="card-deck">
-  {% for project in site.projects %}
+  {% for project in projects %}
     <div class="card">
       {% if project.image %}
         <a href="{{ project.url }}">
@@ -28,45 +29,3 @@ menu: projects
     </div>
   {% endfor %}
 </div>
-
-<!--
-
-* [The Engine Room's Advent Calendar](https://engn.it/advent): together with colleagues at The Engine Room, we put together a month's worth of learnings and findings from 2016, with a new one for each day, together with a piece of research or blog post to give more context.
-
-* [Responsible Data in Agriculture](https://www.theengineroom.org/launching-new-responsible-data-in-agriculture-paper/): (*research*)together with Lindsay Ferris, I co-authored this paper on responsible data challenges within the agriculture sector. We looked particularly at power imbalances within different actors in the sector, and how that translated to their understandings and perceptions of data use.
-
-* [DatNav](https://engn.it/datnav) (*resources*): over the course of 2015 and 2016, I coordinated a project with Amnesty International and Benetech as part of my role with The Engine Room, to create a guide on using digital data in human rights research. It was the result of months of research and community input, and the guide itself was created through a writing sprint. It was first published in September 2016.
-
-* [Mission: Responsible](https://us2.campaign-archive1.com/?u=1747fd8a7bf587bd4a215d984&id=fcf2ebf053): (*newsletter*) in early 2016, I started a newsletter on the theme of Responsible Data, as part of my work with [the engine room](https://theengineroom.org). I send it out every couple of weeks or so, covering topics from data privacy, ethics, policy and general responsible data developments from around the world, and you can [subscribe here](https://theengineroom.us2.list-manage.com/subscribe?u=1747fd8a7bf587bd4a215d984&id=abf5695570).
-
-* [Global Voices Exchange](https://rising.globalvoices.org/exchange): (*resources*) As part of an ongoing project with Global Voices, I participated in a week-long writing sprint to create digital advocacy resources that are designed for the Global South.
-
-* [Global Voices](https://globalvoices.org/author/zararahman/): (*writing*) Since late 2014, I've been writing articles for Global Voices, usually around the area of digital rights and technology in Bangladesh.
-
-* [Superrr](https://superrr.ninja): (*community*) together with my good friend [Julia Kloiber](http://juliakloiber.com/), every couple of months we've been organising very informal meetups for women* in Berlin, with no agenda or specific purpose. We hold them in bars and encourage people to bring a new person to the group, so that the network keeps growing.
-
-* [DataShift: Research + Learning](https://civicus.org/thedatashift/learning-zone/): (*research*) I worked on the DataShift from March 2015-April 2016, first as an independent consultant and later with the engine room. I had the mandate of building up a research agenda around the topic of **citizen-generated data** - through which, I commissioned [a series of essays on citizen-generated data in different sectors](http://civicus.org/thedatashift/learning-zone/community-essays/); co-wrote [a paper on the way in which governments and civil society could collaborate around citizen-generated data](http://civicus.org/thedatashift/frontpage-article/citizen-generated-data-and-governments-towards-a-collaborative-model-2/); and commissioned a paper from Open Knowledge on [how citizen-generated data can influence data collection within government](http://civicus.org/thedatashift/news/new-report-changing-what-counts/).
-
-* [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/): (*research*) from summer 2016 until February 2016, I collected and wrote up a series of 'reflection stories' as part of the engine room's [Responsible Data program](http://responsibledata.io/). They are a series of well-researched and thorough case studies around the responsible data challenges faced in advocacy, with the aim of helping us move from talking about the hypothetical or anecdotal challenges, into the actual realities advocates are facing.
-
-* [Collusion](https://soundcloud.com/collusion): (*podcast*) in 2015, my friend [Luiza Prado](https://twitter.com/luizaprado) and I co-produced this podcast, on the topic of **technology and power**. This is one project I would love to get back to soon - but as we found out, synthesising topics like colonialism and technology into bite-size podcast bits takes a lot of research and time!
-
-* [Majority world feminism](https://twitter.com/zararah/timelines/683702116179963907): over the past few years, I've been curating examples of 'majority world feminism' on an annual basis: feminist acts from outside of the US and Europe, as a panacea to the usually so western-focused celebrations of feminism that I see too often. See [2013](http://zararah.net/blog/2013/12/22/2013s-feminist-wins-from-the-majority-world/), [2014](http://zararah.net/blog/2014/12/18/mwfem-in-a-listicle/), [2015](http://zararah.net/blog/2016/01/10/majority-world-feminism-2016/) and the ongoing [2016 twitter list](https://twitter.com/zararah/timelines/683702116179963907).
-
-* [Gender + Tech Institute](https://tacticaltech.org/gender-tech-institute): (*event*) in December 2014, I participated in this week-long retreat, organised by Tactical Tech and APC, bringing together women's rights defenders primarily from the global South, to talk about technology + privacy challenges. Much of the material for this [Gender + Security manual](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual) waas developed there, too. It was a fantastic opportunity to meet with women's rights defenders from around the world, and the network is still growing today.
-
-* [Responsible Development Data](https://responsibledata.io/ways-to-practise-responsible-development-data/): (*resources*) in September 2014, I took part in a booksprint organised by the engine room, which focused on the responsible data challenges that arise in international development. The book we produced was later remodelled into [this beautiful handbook](https://responsibledata.io/resources/handbook/), with more chapter summaries and other materials to help development practitioners advocate for better responsible data practices in their work, which I also helped create.
-
-* [School of Data Fellowship programme](http://schoolofdata.org/fellowship-programme/class-of-2015/): as part of my work at School of Data, I helped administer and design the 2015 Fellowsihp scheme, through which we identified 7 people from around the world to train as School of Data trainers through a nine-month fellowship programme. I unfortunately left School of Data in the middle of this period, but had a lot of fun following their progress from afar!
-
-* [Hystereo/Berlin Community Radio](https://www.mixcloud.com/BCR_Radio/hystereo-4-feminist-science-fiction/): (*radio*) Together with my good friend [Kate McCurdy](https://twitter.com/malackate), in 2014 we did an episode of the feminist radio show Hystereo, on feminist science fiction. It features readings by Ursula K. LeGuin (of course), and one of my favourite science fiction short stories, [Sultana's Dream](http://digital.library.upenn.edu/women/sultana/dream/dream.html).
-
-* [Using Aid Data (School of Data)](http://schoolofdata.org/courses/#IntroAidData): (*resources*) as part of my work at [School of Data](http://schoolofdata.org/) in 2013 looking at the role of data in international development, I produced this 7-module online curriculum to help others learn how to use aid data.
-
-* [How to read and understand an oil contract](http://openoil.net/understanding-oil-contracts/): while I was at OpenOil in 2012, I helped coordinate a booksprint and took part in it as a target reader, which produced a book to help the non-expert navigate and actually understand oil contracts. We brought together lawyers, activists, people from government ministries and campaigners, to produce the book from start to finish in five days.
-
-* [Reading Lists](http://zararah.net/category/bookworm/): I love reading lists, and I love reading books by authors from the area I'm travelling in. Over the past few years I've put a few book lists up on this blog, including: [Postcolonial feminism](http://zararah.net/blog/2014/06/22/postcolonial-feminism-a-reading-list/), [my 2015 in books](http://zararah.net/blog/2016/01/02/my-year-in-books/), [my 50 books of 2014](http://zararah.net/blog/2014/12/26/50-books-2014/), [Women tech critics](http://zararah.net/blog/2016/03/13/women-tech-critics/), [books by South African authors](http://zararah.net/blog/2015/12/20/bookworm-south-africa-journey/), [women writers from Central + South America](http://zararah.net/blog/2014/11/14/latin-american-women-writers/), and [books on Bangladesh](http://zararah.net/blog/2013/08/14/bangladesh-my-reading-wishlist/).
-
-* Observations on the Libyan civil war: slightly unusually, my first work trips involved going to Libya during and after the revolution in 2011. It was my first time seeing a revolution (and a war zone) first hand, and I wrote about it [here](http://openoil.net/2011/12/21/post-gaddafi-libya-what-has-changed/), [here](http://openoil.net/2012/03/15/youth-vs-experience-in-libya-we-fought-the-war-now-you-rule-the-country/) and [here](http://openoil.net/2012/03/21/who-cares-about-oil/).
-
- -->
