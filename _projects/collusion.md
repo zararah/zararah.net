@@ -2,6 +2,7 @@
 title: Collusion
 year: 2016
 image: /assets/projects/collusion.jpg
+description: A podcast on tech and power
 
 ---
 

@@ -2,6 +2,7 @@
 title: Global Voices
 year: 2015
 image: /assets/projects/globalvoices.jpg
+description: Covering digital rights in Bangladesh
 
 ---
 

@@ -2,6 +2,7 @@
 title: DatNav
 year: 2015
 image: /assets/projects/datnav.jpg
+description: A guide on data in human rights
 
 ---
 

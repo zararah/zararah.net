@@ -2,6 +2,7 @@
 title: superrr
 year: 2015
 image: /assets/projects/superrr.png
+description: Community building
 
 ---
 

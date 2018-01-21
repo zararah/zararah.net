@@ -2,6 +2,7 @@
 title: Reading lists
 year: 2014
 image: /assets/projects/reading-lists.jpg
+description: Curation of reading lists
 
 ---
 

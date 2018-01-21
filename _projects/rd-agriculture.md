@@ -2,6 +2,7 @@
 title: Responsible Data in Agriculture
 year: 2016
 image: /assets/projects/rd-agriculture.png
+description: Research on data in agriculture
 
 ---
 

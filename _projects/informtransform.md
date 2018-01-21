@@ -2,6 +2,7 @@
 title: Inform/Transform
 year: 2017
 image: /assets/projects/informtransform.jpg
+description: A zine on information and control
 
 ---
 

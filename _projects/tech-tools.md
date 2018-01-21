@@ -2,6 +2,7 @@
 title: Technology Tools in Human Rights
 year: 2016
 image: /assets/projects/tech-tools.jpg
+description: Research on tech in human rights
 
 ---
 
