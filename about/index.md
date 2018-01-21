@@ -1,19 +1,27 @@
 ---
 title: About me
-layout: default
+layout: page
+menu: about
+redirect_from: "/contact/"
+
 ---
 
 ### About Me
 
-<img src="{{ site.url }}/assets/static/profile-pic.JPG"/>​
-
-<small>Photo by <a href="http://butcherwalsh.com/">Butcher Walsh</a></small>
+<div class="float-left mr-5" style="max-width: 20rem">
+  <img src="{{ site.url }}/assets/static/profile-pic.jpg" class="img-fluid"/>​
+  <p>
+    <small>
+      Photo by <a href="http://butcherwalsh.com/">Butcher Walsh</a>
+    </small>
+  </p>
+</div>
 
 ### now
 
 I'm a researcher, writer and linguist based in Berlin, Germany, and working internationally. My work focuses on the intersection of power, technology and information, in pursuit of social justice.
 
-I currently work on Research and Engagement at [The Engine Room](https://www.theengineroom.org/), an international non-profit organisation supporting civil society to use tech and data more effectively. This year, I'm a Visiting Fellow with [digitalHKS](https://projects.iq.harvard.edu/digitalhks/home) at the Harvard Kennedy School, an initiative that aims to educate public leaders about digital technology and about how that technology is fundamentally changing leadership, politics, and governing. I sit on the Advisory Committee of [CREA](http://www.creaworld.org/), a feminist human rights organisation based in India, working to advance the rights of women and girls, and the sexual and reproductive freedoms of all people. I'm also a proud member of the [Global Voices](http://globalvoices.org/) community, where [I write mostly about digital policy and technology in Bangladesh.](http://globalvoices.org/author/zararahman/) 
+I currently work on Research and Engagement at [The Engine Room](https://www.theengineroom.org/), an international non-profit organisation supporting civil society to use tech and data more effectively. This year, I'm a Visiting Fellow with [digitalHKS](https://projects.iq.harvard.edu/digitalhks/home) at the Harvard Kennedy School, an initiative that aims to educate public leaders about digital technology and about how that technology is fundamentally changing leadership, politics, and governing. I sit on the Advisory Committee of [CREA](http://www.creaworld.org/), a feminist human rights organisation based in India, working to advance the rights of women and girls, and the sexual and reproductive freedoms of all people. I'm also a proud member of the [Global Voices](http://globalvoices.org/) community, where [I write mostly about digital policy and technology in Bangladesh.](http://globalvoices.org/author/zararahman/)
 
 In 2016/17, I was a Fellow at [Data & Society Research Institute](http://datasociety.net), where I spent some time thinking about how to really engage people to think critically about data and technology. In the past, I've sat on the Program Committee for [re:publica](https://re-publica.de), and for the [Open Knowledge Festival](https://2014.okfestival.org/), and on the jury for the [Prototype Fund](http://prototypefund.de/).
 
@@ -25,4 +33,4 @@ I've been based in Berlin, Germany for the past seven years, with a year-long st
 
 ## contact
 
-You can email me on mail[at]zararah.net, and my [PGP key is here](http://zararah.net/about/key/).
+You can email me on mail[at]zararah.net, and my [PGP key is here](/about/key/).
