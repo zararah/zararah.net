@@ -1,15 +1,35 @@
 ---
 title: Projects
 layout: default
+menu: projects
+
 ---
 
 <h3>Projects</h3>
 
-{% for project in site.projects %}
-  <a href="{{ project.url }}">{{ project.title }}</a>
-{% endfor %}
+<div class="card-deck">
+  {% for project in site.projects %}
+    <div class="card">
+      {% if project.image %}
+        <a href="{{ project.url }}">
+          <img class="card-img-top" src="{{ project.image }}" alt="">
+        </a>
+      {% endif %}
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="{{ project.url }}">{{ project.title }}</a>
+        </h5>
+        {% if project.description %}
+          <p class="card-text">
+            {{ project.description }}
+          </p>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
-<!-- 
+<!--
 
 * [The Engine Room's Advent Calendar](https://engn.it/advent): together with colleagues at The Engine Room, we put together a month's worth of learnings and findings from 2016, with a new one for each day, together with a piece of research or blog post to give more context.
 
