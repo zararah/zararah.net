@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Zara Rahman zararah.net</title>
+    <meta name="author" content="Zara Rahman" />
+    <meta name="description" content="{{page.description}}" />
+    <meta name="keywords" content="Zara Rahman, zararah" />
+
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css" >
+
+    <link rel="shortcut icon" href="/static/img/favicon.png">
+    <link rel="alternate" type="application/atom+xml" title="Follow Zara's blog posts." href="{{ site.url }}/atom.xml" />
+
+  </head>
+
+  <body>
+    <header class="header">
+      {% include navigation.html %}
+    </header>
+    {{ content }}
+  </body>
+</html>

@@ -1,9 +1,22 @@
-<nav class="navbar navbar-default navbar-static-top" role="navigation">
-    <ul class="nav navbar-nav navbar-right">
-        <li><a href="/">Blog</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/media">Media</a></li>
-        <li><a href="/contact">Contact</a></li>
+<nav class="navbar navbar-expand-sm">
+  <div class="container">
+    <a class="navbar-brand" href="/">Zara Rahman</a>
+    <ul class="navbar-nav">
+      <li class="nav-item{% if page.menu == 'about' %} active{% endif %}">
+        <a class="nav-link" href="/about/">About</a>
+      </li>
+      <li class="nav-item{% if page.menu == 'blog' %} active{% endif %}">
+        <a class="nav-link" href="/blog/">Blog</a>
+      </li>
+      <li class="nav-item{% if page.menu == 'projects' %} active{% endif %}">
+        <a class="nav-link" href="/projects/">Projects</a>
+      </li>
+      <li class="nav-item{% if page.menu == 'talks' %} active{% endif %}">
+        <a class="nav-link" href="/talks/">Talks</a>
+      </li>
+      <li class="nav-item{% if page.menu == 'writing' %} active{% endif %}">
+        <a class="nav-link" href="/writing/">Writing</a>
+      </li>
     </ul>
+  </div>
 </nav>

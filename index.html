@@ -1,40 +1,12 @@
 ---
-layout: default
+layout: homepage
 title: Zara Rahman
+menu: home
+
 ---
 
-{% assign posts=paginator.posts %}
-{% include postlist.html %}
+<h1 class="display-2">Hi, I'm Zara.</h1>
 
-<div class="row">
-  <div class="col-md-8">
-      <ul class="pagination">
-        {% if paginator.previous_page %}
-          {% if paginator.previous_page == 1 %}
-          <li><a href="/">Prev</a></li>
-          {% else %}
-          <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
-          {% endif %}
-        {% else %}
-        <li><span class="disabled">Prev</span></li>
-        {% endif %}
-        {% if paginator.page == 1 %}
-        <li><span class="active">1</span></li>
-        {% else %}
-        <li><a href="/">1</a></li>
-        {% endif %}
-        {% for count in (2..paginator.total_pages) %}
-          {% if count == paginator.page %}
-          <li><span class="active">{{ count }}</span></li>
-          {% else %}
-          <li><a href="/page{{ count }}">{{ count }}</a></li>
-          {% endif %}
-        {% endfor %}
-        {% if paginator.next_page %}
-        <li><a href="/page{{ paginator.next_page }}">Next</a></li>
-        {% else %}
-        <li><span class="disabled">Next</span></li>
-        {% endif %}
-      </ul>
-  </div>
-</div>
+<p class="display-4">
+  I'm a writer, researcher and linguist working at the intersection of technology, social change and culture.
+</p>

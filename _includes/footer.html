@@ -1,7 +1,81 @@
-<footer>
-    <nav class="container">
-        <ul>
-            <li>here's the footer</li>
+<footer class="footer">
+  <div class="container">
+    <div class="row mt-5">
+      <div class="col-md-7">
+        <h3>I’m Zara; feminist, researcher and writer.</h3>
+        <div class="row">
+          <div class="col-sm-4 mt-3">
+            <a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">
+              @zararah
+            </a>
+          </div>
+          <div class="col-sm-4 mt-3">
+            <a href="mailto:mail@zararah.net" target="_blank" rel="noopener">
+              email me
+            </a>
+          </div>
+          <div class="col-sm-4 mt-3">
+            <a href="/atom.xml">
+              blog feed
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 mt-5">
+        <h3>Featured posts</h3>
+
+        <ul class="featured-list">
+          {% for post in site.categories.featured limit: 5 %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
         </ul>
-    </nav>
+
+      </div>
+      <div class="col-md-4 mt-5">
+        <h3>Recent posts</h3>
+
+        <ul class="featured-list">
+          {% for post in site.posts limit:5 %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+
+      </div>
+      <div class="col-md-4 mt-5">
+        <h3>Categories</h3>
+
+        <ul class="featured-list">
+          {% for category in site.category %}
+            <li>
+              <a href="{{ category.url }}">{{ category.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="row mt-5">
+      <div class="col-lg-12">
+        <section class="license">
+          <small>
+            This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://zararah.net" property="cc:attributionName" rel="cc:attributionURL">Zara Rahman</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+          </small>
+        </section>
+
+        <section class="repository">
+          <small>
+            <a href="https://github.com/zararah/zararah.net"><i class="fa fa-github-square"></i> Fork or edit this site on Github</a>
+          </small>
+        </section>
+      </div>
+    </div>
+
+  </div>
 </footer>
