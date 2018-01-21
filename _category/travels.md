@@ -1,6 +1,0 @@
----
-title: Travels
-
----
-
-{{ content }}
