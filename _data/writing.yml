@@ -1,3 +1,22 @@
+- title: Free speech advocates say Bangladesh's new Digital Security Act is ‘ripe for abuse’  
+  date: 2018-09-28
+  url: https://advox.globalvoices.org/2018/09/28/free-speech-advocates-say-bangladeshs-new-digital-security-act-is-ripe-for-abuse/
+  type: article
+  publication: Global Voices
+  featured: yes
+  teaser: "On September 19, the Digital Security Act 2018 was passed by the parliament in Bangladesh despite widespread opposition from journalists and human rights advocates."
+  translations:
+    es: https://es.globalvoices.org/2018/10/01/defensores-de-la-libertad-de-expresion-senalan-que-nueva-ley-de-seguridad-digital-de-bangladesh-esta-lista-para-el-abuso/
+
+
+- title: Ties That Bind: Organisational Security for Civil Society
+  date: 2018-03-08
+  url: https://www.theengineroom.org/civil-society-digital-security-new-research/
+  type: report
+  publication: The Engine Room
+  translations:
+    es: https://www.theengineroom.org/wp-content/uploads/2018/03/Lazos-que-unen-Seguridad-organizacional-para-la-sociedad-civil.pdf
+
 - title: Irresponsible data? The risks of registering the Rohingya
   date: 2017-10-23
   url: https://www.irinnews.org/opinion/2017/10/23/irresponsible-data-risks-registering-rohingya
@@ -7,6 +26,14 @@
   teaser: ID cards have brought little but pain to the Rohingya. And this time they’re biometric
   translations:
     it: http://openmigration.org/idee/dati-irresponsabili-i-rischi-che-comporta-registrare-i-rohingya/
+
+- title: Biometrics in the Humanitarian Sector
+  date: 2018-03-27
+  url: https://www.theengineroom.org/biometric-tech-review-report/
+  type: report
+  publication: The Engine Room
+  featured: yes
+  teaser: I led a team looking into how biometrics are used in the humanitarian sector.
 
 - title: My Manchester
   date: 2017-06-17
@@ -42,7 +69,6 @@
   url: https://globalvoices.org/2017/10/26/after-113-days-behind-bars-istanbul10-human-rights-defenders-are-released-on-bail/
   type: article
   publication: Global Voices
-  featured: yes
   teaser: It was a long day in court for the Istanbul 10 on October 25, but one that ended with joy.
   translations:
     es: https://es.globalvoices.org/2017/10/27/tras-113-dias-detenidos-liberan-a-defensores-de-derechos-a-la-espera-de-juicio/
@@ -58,6 +84,18 @@
   translations:
     mk: https://mk.globalvoices.org/12/28/24248/
     es: https://es.globalvoices.org/2016/01/18/bangladesh-exigira-datos-biometricos-de-todos-los-usuarios-de-tarjetas-sim/
+
+- title: Bangladesh blasts off with their first ever satellite launch into space
+  date: 2018-05-13
+  url: https://globalvoices.org/2018/05/13/bangladesh-blasts-off-with-their-first-ever-satellite-launch-into-space/
+  type: article
+  publication: Global Voices
+  translations:
+    mg: https://mg.globalvoices.org/2018/05/15/119392/
+    fr: https://fr.globalvoices.org/2018/05/13/224999/
+    es: https://es.globalvoices.org/2018/05/17/bangladesh-despega-con-el-lanzamiento-de-su-primer-satelite-al-espacio/
+    ar: https://ar.globalvoices.org/2018/05/15/57241/
+    sw: https://sw.globalvoices.org/2018/05/bangladeshi-yasherehekea-kurushwa-angani-kwa-setilaiti-yao-kwa-mara-ya-kwanza/
 
 - title: "2016: A Year of Data-Driven Confusion"
   date: 2016-12-12
@@ -184,7 +222,6 @@
   url: https://www.opendemocracy.net/openglobalrights/zara-rahman/fine-print-seeing-beyond-hype-in-technology-for-human-rights
   type: article
   teaser: With all the hype about new technologies for human rights, activists must think critically and strategically
-  featured: yes
   publication: openGlobalRights
 
 - title: "Dangerous Data: The Role of Data Collection in Genocides"
