@@ -1,3 +1,19 @@
+
+- title: The Data Balancing Act 
+  date: 2018-10-27
+  event: Mozilla Festival 2018
+  location: London, UK
+  url: https://mozillafestival.org/
+  description: "A panel with Malavika Jayaram on the challenges of using data 'for good'"
+  video: https://www.youtube.com/watch?v=FsIXHQifkXw&feature=youtu.be
+
+- title: Handling Sensitive Data in Humanitarian Action
+  date: 2018-10-04
+  event: Humanitarian Congress berlin
+  location: Berlin, Germany
+  url: http://humanitarian-congress-berlin.org/2018/
+  description: "A panel on challenges facing the use of data in the humanitarian sector"
+
 - title: Von Menschen, Daten und guten Vorsätze
   date: 2017-04-28
   event: Datensummit
@@ -5,6 +21,13 @@
   url: https://datensummit.de/
   description: "Keynote on the difference between good intentions and good practice in working with data for social change [de]"
   video: https://youtu.be/C4onA_njGBU
+
+- title: Beyond Names and Numbers: Who Gets Left Behind With the Digitization of Citizenship?
+  date: 2017-12-03
+  event: Global Voices Summit
+  location: Colombo, Sri Lanka
+  url: https://summit2017.globalvoices.org/
+  description: "I joined Malavika Jayaram, Marianne Diaz and Ellery Biddle to talk about digital identification."
 
 - title: Translating Critical Tech Perspectives
   date: 2017-06-21
@@ -74,7 +97,7 @@
   date: 2016-05-03
   event: CSVConf
   location: Berlin, Germany
-  url: https://csvconf.com/2016/ 
+  url: https://csvconf.com/2016/
   description: I had the pleasure of giving a keynote about reconciling differences within technology and activism.
   video:
 
