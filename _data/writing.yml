@@ -27,12 +27,19 @@
   translations:
     it: http://openmigration.org/idee/dati-irresponsabili-i-rischi-che-comporta-registrare-i-rohingya/
 
+- title: The problem with emoji skin tones that no one talks about
+  date: 2018-11-23
+  url: https://www.dailydot.com/irl/skin-tone-emoji/
+  type: article
+  publication: The Daily Dot
+  featured: yes
+  teaser: Five options were never going to be the answer to a lack of representation.
+
 - title: Biometrics in the Humanitarian Sector
   date: 2018-03-27
   url: https://www.theengineroom.org/biometric-tech-review-report/
   type: report
   publication: The Engine Room
-  featured: yes
   teaser: I led a team looking into how biometrics are used in the humanitarian sector.
 
 - title: My Manchester
@@ -69,7 +76,6 @@
   url: https://globalvoices.org/2017/10/26/after-113-days-behind-bars-istanbul10-human-rights-defenders-are-released-on-bail/
   type: article
   publication: Global Voices
-  teaser: It was a long day in court for the Istanbul 10 on October 25, but one that ended with joy.
   translations:
     es: https://es.globalvoices.org/2017/10/27/tras-113-dias-detenidos-liberan-a-defensores-de-derechos-a-la-espera-de-juicio/
     fr: https://fr.globalvoices.org/2017/10/27/217827/
@@ -221,7 +227,6 @@
   date: 2017-03-08
   url: https://www.opendemocracy.net/openglobalrights/zara-rahman/fine-print-seeing-beyond-hype-in-technology-for-human-rights
   type: article
-  teaser: With all the hype about new technologies for human rights, activists must think critically and strategically
   publication: openGlobalRights
 
 - title: "Dangerous Data: The Role of Data Collection in Genocides"
