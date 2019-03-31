@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "When does sharing online as form of solidarity, become violent?"
+title: "When does sharing online as form of solidarity, become violence?"
 date: '2019-03-31'
 category:
 - feminism
 - technology
 ---
 
->"The illusion of unique identity is much more divisive than the universe of plural and diverse classifications that characterize the world in which we actually live.
-- Amartya Sen, in his book "Identity and Violence"
+>*"The illusion of unique identity is much more divisive than the universe of plural and diverse classifications that characterize the world in which we actually live.*
+*Amartya Sen, in his book "Identity and Violence"*
 
 At the [AWID Forum in 2016](https://www.awid.org/awid-international-forum), at an evening memorial for women human rights defenders who were no longer with us, we chanted: "We honour the dead, and we fight like hell for the living."
 
@@ -23,6 +23,8 @@ I'd always thought of honouring someone as lifting their story up, sharing it so
 [Shaista Aziz](https://twitter.com/shaistaAziz) writes of the shock, worry and anxiety felt in Muslim communities](https://www.theguardian.com/commentisfree/2019/mar/21/islamophobia-attacks-uk-muslims-christchurch-far-right) around the world since the Christchurch attacks (and indeed, before.) This is not undue worry, it's backed up by data. In the UK, for example, the [number of anti-Muslim hate crimes reported across Britain increased by 593% in the week following Christchurch.](https://www.theguardian.com/society/2019/mar/22/anti-muslim-hate-crimes-soar-in-uk-after-christchurch-shootings) 
 
 In the context of police brutality against African Americans in the US, [clinical psychologist Monnica Williams' research suggests that](https://www.pbs.org/newshour/nation/black-pain-gone-viral-racism-graphic-videos-can-create-ptsd-like-trauma) "for people of color, frequent exposure to the shootings of black people can have long-term mental health effects... graphic videos combined with lived experiences of racism, can create severe psychological problems reminiscent of post-traumatic stress syndrome.
+
+So, we're left with somewhat of a conundrum. On one hand: learn, share, raise awareness of this increased violence, in an attempt to educate others, increase pressure on politicians, let people know that this issue has not been forgotten. At the same time, doing this might contribute 'severe psychological problems' to the very people you're trying to support (and yourself.)
 
 Beyond what journalists and human rights investigators jobs call [vicarious trauma](https://firstdraftnews.org/inside-storyful-vicarious-trauma-ensuring-well-newsroom/) - the trauma that results from working with graphic or distressing content - I've been feeling like there's something more that comes from being a digital witness to violence be inflicted upon people who you identify with, that Williams' work touches upon. There's an extra gut-punch that comes from learning of an event, and knowing that the identity under attack is one that you share - and thinking, that could have been me. It arises not just from the content (and sometimes, not at all from the content itself) but instead from simply learning of the event in a certain way, combined with the act of self-identification with the victims or survivors of that incident. 
 
