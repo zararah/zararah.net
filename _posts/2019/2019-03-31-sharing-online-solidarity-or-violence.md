@@ -7,8 +7,8 @@ category:
 - technology
 ---
 
->*"The illusion of unique identity is much more divisive than the universe of plural and diverse classifications that characterize the world in which we actually live.*
-*Amartya Sen, in his book "Identity and Violence"*
+>*"The illusion of unique identity is much more divisive than the universe of plural and diverse classifications that characterize the world in which we actually live.*<br>
+Amartya Sen, in his book "Identity and Violence"
 
 At the [AWID Forum in 2016](https://www.awid.org/awid-international-forum), at an evening memorial for women human rights defenders who were no longer with us, we chanted: "We honour the dead, and we fight like hell for the living."
 
