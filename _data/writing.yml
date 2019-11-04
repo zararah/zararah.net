@@ -1,9 +1,36 @@
+- title: Can data ever know who we really are?
+  date: 2019-05-16
+  url: https://deepdives.in/can-data-ever-know-who-we-really-are-a0dbfb5a87a0
+  type: essay
+  publication: Deep Dives
+  featured: yes
+  teaser: "On the impossibility of flattening our fluid + complex identities into data points."
+
+- title: Bangladesh cuts access to mobile phone services for the Rohingya  
+  date: 2019-09-03
+  url: https://globalvoices.org/2019/09/03/bangladesh-cuts-access-to-mobile-phone-services-for-the-rohingya/
+  type: article
+  publication: Global Voices
+  featured: yes
+  teaser: "Government claims the ban will quell violence in refugee camps allegedly coordinated using cellphones."
+  translations:
+    es: https://es.globalvoices.org/2019/09/05/bangladesh-corta-acceso-a-servicios-de-telefonia-movil-a-los-rohinyas/
+    el: https://el.globalvoices.org/2019/10/51422
+    mg: https://mg.globalvoices.org/2019/09/06/142996/
+
+- title: Searchable Databases as a Journalistic Product
+  date: 2018-12-01
+  url: https://datajournalism.com/read/handbook/two/experiencing-data/searchable-databases-as-a-journalistic-product
+  type: chapter
+  publication: Data Journalism Handbook 
+  featured: yes
+  teaser: "On the practical and responsible data challenges of using searchable databases as a journalistic product"
+
 - title: Free speech advocates say Bangladesh's new Digital Security Act is ‘ripe for abuse’  
   date: 2018-09-28
   url: https://advox.globalvoices.org/2018/09/28/free-speech-advocates-say-bangladeshs-new-digital-security-act-is-ripe-for-abuse/
   type: article
   publication: Global Voices
-  featured: yes
   teaser: "On September 19, the Digital Security Act 2018 was passed by the parliament in Bangladesh despite widespread opposition from journalists and human rights advocates."
   translations:
     es: https://es.globalvoices.org/2018/10/01/defensores-de-la-libertad-de-expresion-senalan-que-nueva-ley-de-seguridad-digital-de-bangladesh-esta-lista-para-el-abuso/
@@ -21,7 +48,6 @@
   url: https://www.irinnews.org/opinion/2017/10/23/irresponsible-data-risks-registering-rohingya
   type: op-ed
   publication: IRIN News
-  featured: yes
   teaser: ID cards have brought little but pain to the Rohingya. And this time they’re biometric
   translations:
     it: http://openmigration.org/idee/dati-irresponsabili-i-rischi-che-comporta-registrare-i-rohingya/
@@ -58,7 +84,6 @@
   url: http://reallifemag.com/close-calls/
   type: essay
   publication: Real Life
-  featured: yes
   teaser: When remote family members are a touch screen away, the strange can become familiar and uncertain new worlds bearable
   translations:
     it: https://www.lemacchinevolanti.it/approfondimenti/a-distanza-ravvicinata
