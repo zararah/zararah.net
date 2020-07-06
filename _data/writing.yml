@@ -1,3 +1,33 @@
+- title: Black Lives Matter protesters aren’t being tracked with Covid-19 surveillance tech. Not yet
+  date: 2020-06-03
+  url: https://thecorrespondent.com/507/black-lives-matter-protesters-arent-being-tracked-with-covid-19-surveillance-tech-not-yet/67121325414-80648a52
+  type: op-ed
+  publication: The Correspondent
+  teaser: "Without clear protections in place, the question is ‘when’ not ‘if’ data gathered for Covid-19 tracking is misused."
+
+- title: Avoiding the Trap of the Singular Data Story
+  date: 2020-03-17
+  url: https://botpopuli.net/avoiding-the-trap-of-the-singular-data-story
+  type: essay
+  publication: Bot Populi
+  featured: yes
+  teaser: "Why we need a justice-oriented approach to data that centres an analysis of power relations."
+
+- title: Yes, digital IDs are efficient. But they’re a threat to our very identities
+  date: 2020-01-10
+  url: https://thecorrespondent.com/217/yes-digital-ids-are-efficient-but-theyre-a-threat-to-our-very-identities/243616802275-e794b497
+  type: article
+  publication: The Correspondent
+  featured: yes
+  teaser: "Identity cards – and, increasingly, digital identification – don’t just satisfy a bureaucratic function, they also play a role in shaping how we see each other and ourselves – if we let them."
+
+  - title: We know what’s wrong with digital identification. Here’s what works
+  date: 2020-02-04
+  url: https://thecorrespondent.com/268/we-know-whats-wrong-with-digital-identification-heres-what-works/2198028800-c18ba9ba
+  type: article
+  publication: The Correspondent
+  teaser: "It’s possible to design digital ID systems that include and empower – in fact, it’s often people most excluded from society that benefit most."
+
 - title: Can data ever know who we really are?
   date: 2019-05-16
   url: https://deepdives.in/can-data-ever-know-who-we-really-are-a0dbfb5a87a0
@@ -11,7 +41,6 @@
   url: https://globalvoices.org/2019/09/03/bangladesh-cuts-access-to-mobile-phone-services-for-the-rohingya/
   type: article
   publication: Global Voices
-  featured: yes
   teaser: "Government claims the ban will quell violence in refugee camps allegedly coordinated using cellphones."
   translations:
     es: https://es.globalvoices.org/2019/09/05/bangladesh-corta-acceso-a-servicios-de-telefonia-movil-a-los-rohinyas/
@@ -23,7 +52,6 @@
   url: https://datajournalism.com/read/handbook/two/experiencing-data/searchable-databases-as-a-journalistic-product
   type: chapter
   publication: Data Journalism Handbook 
-  featured: yes
   teaser: "On the practical and responsible data challenges of using searchable databases as a journalistic product"
 
 - title: Free speech advocates say Bangladesh's new Digital Security Act is ‘ripe for abuse’  
