@@ -10,6 +10,9 @@ category:
 
 One of my first consultancy projects is looking at strengthening the open source ecosystem, and as part of it, I've been catching up on research that might help inform next steps - such as Nadia Eghbal's 2020 book, ['Working in Public: The Making and Maintenance of Open Source Software'](https://app.thestorygraph.com/books/2505f748-ac12-41fb-a411-0868cbe3694c).
 
+<!--more-->
+
+
 It's a great read, and articulates well some inconsistencies and struggles that I've anecdotally heard of and wondered about - such as the contradictions inherent in how we think about the health of open source projects and contributors. For example, the role of creating an open source project - that is, coming up with an idea (usually to meet a specific need) and writing the code for it - is significantly different to other roles that are also necessary for that project to get lots of contributions, such as documentation, onboarding new contributors, reviewing their contributions, and maintaining that project. However, those other roles may be far less interesting to the initiator of the project - and the way in which the contributions graph on Github is structured means that pushing code is more valued than responding to pull requests (though there are some interesting projects and approaches to countering that, such as [All Contributors](https://allcontributors.org/)).
 
 At a time when I feel like many in the spaces I'm in are valuing the role of maintenance, I found this description particularly illustrative:
