@@ -1,3 +1,38 @@
+- title: Ethics in Open Source Investigations
+  date: 2019-12-19
+  url: https://opil.ouplaw.com/view/10.1093/law/9780198836063.001.0001/law-9780198836063-chapter-12
+  type: chapter
+  featured: yes
+  publication: Digital Witness Using Open Source Information for Human Rights Investigation, Documentation, and Accountability
+  teaser: "A book chapter I co-wrote with Gabriela Ivens on the ethics of OSINT in human rights investigations."
+
+- title: The UN’s refugee data shame
+  date: 2021-06-21
+  url: https://www.thenewhumanitarian.org/opinion/2021/6/21/rohingya-data-protection-and-UN-betrayal
+  type: op-ed
+  featured: yes
+  publication: The New Humanitarian
+  teaser: "‘There is no way the personal data of nearly a million European people would ever be treated like this."
+
+- title: Bangladesh’s upcoming Data Protection Act may suppress, not protect, citizens rights
+  date: 2021-10-23
+  url: https://globalvoices.org/2021/10/23/bangladeshs-upcoming-data-protection-act-may-suppress-not-protect-citizens-rights/
+  type: article
+  publication: Global Voices
+  teaser: "The government of Bangladesh is working on a draft data protection law which will be the first legislation in the country that is focused on data privacy and protection."
+  translations:
+    es: https://es.globalvoices.org/2021/11/11/proxima-ley-de-proteccion-de-datos-de-bangladesh-puede-suprimir-derechos-de-ciudadanos-no-protegeros/
+    it: https://it.globalvoices.org/2021/11/limminente-legge-sulla-tutela-dei-dati-personali-in-bangladesh-potrebbe-sopprimere-e-non-proteggere-i-diritti-dei-cittadini/
+    pt: https://pt.globalvoices.org/2021/11/27/implementacao-de-lei-de-protecao-de-dados-em-bangladesh-pode-suprimir-direitos-dos-cidadaos-em-vez-de-protege-los/
+
+- title: Unpacking Digital Bangladesh
+  date: 2022-01-04
+  url: https://www.himalmag.com/unpacking-digital-bangladesh-2021/
+  type: essay
+  featured: yes
+  publication: Himal Southasian
+  teaser: "In 2021, Bangladesh’s digital policy is being used for connection, repression and surveillance."
+
 - title: Black Lives Matter protesters aren’t being tracked with Covid-19 surveillance tech. Not yet
   date: 2020-06-03
   url: https://thecorrespondent.com/507/black-lives-matter-protesters-arent-being-tracked-with-covid-19-surveillance-tech-not-yet/67121325414-80648a52
@@ -10,7 +45,6 @@
   url: https://botpopuli.net/avoiding-the-trap-of-the-singular-data-story
   type: essay
   publication: Bot Populi
-  featured: yes
   teaser: "Why we need a justice-oriented approach to data that centres an analysis of power relations."
 
 - title: Yes, digital IDs are efficient. But they’re a threat to our very identities
@@ -33,7 +67,6 @@
   url: https://deepdives.in/can-data-ever-know-who-we-really-are-a0dbfb5a87a0
   type: essay
   publication: Deep Dives
-  featured: yes
   teaser: "On the impossibility of flattening our fluid + complex identities into data points."
 
 - title: Bangladesh cuts access to mobile phone services for the Rohingya  
@@ -49,7 +82,7 @@
 
 - title: Searchable Databases as a Journalistic Product
   date: 2018-12-01
-  url: https://datajournalism.com/read/handbook/two/experiencing-data/searchable-databases-as-a-journalistic-product
+  url: https://www.jstor.org/stable/j.ctv1qr6smr
   type: chapter
   publication: Data Journalism Handbook 
   teaser: "On the practical and responsible data challenges of using searchable databases as a journalistic product"
@@ -85,7 +118,6 @@
   url: https://www.dailydot.com/irl/skin-tone-emoji/
   type: article
   publication: The Daily Dot
-  featured: yes
   teaser: Five options were never going to be the answer to a lack of representation.
 
 - title: Biometrics in the Humanitarian Sector
