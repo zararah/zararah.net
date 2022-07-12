@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Hope is a discipline", and other stories"
+title: '"Hope is a discipline", and other stories'
 date: '2022-07-04'
 category:
 - technology
