@@ -12,9 +12,9 @@ Lots of my reading lately has been around a couple of themes: hope, imagination,
 <!--more-->
 
 
-> Among the nations of the Haudenosaunee is a core value called the Seventh Generation. While the Haudenosaunee encompass traditional values like sharing labour and maintaining a duty to their family, clan and nation and being thankful to nature and the Creator for their sustenance, the Seventh Generation value takes into consideration those who are not yet born but who will inherit the world.
-
-> In their decision making Chiefs consider how present day decisions will impact their descendants. Nations are taught to respect the world in which they live as they are borrowing it from future generations.
+> “Among the nations of the Haudenosaunee is a core value called the Seventh Generation. While the Haudenosaunee encompass traditional values like sharing labour and maintaining a duty to their family, clan and nation and being thankful to nature and the Creator for their sustenance, the Seventh Generation value takes into consideration those who are not yet born but who will inherit the world.
+> 
+> In their decision making Chiefs consider how present day decisions will impact their descendants. Nations are taught to respect the world in which they live as they are borrowing it from future generations.”
 
 – [The Haudenosaunee Confederacy](https://www.haudenosauneeconfederacy.com/values/)
 
@@ -22,14 +22,14 @@ I'm still trying to adjust to thinking along this much (much!) longer time scale
 
 And on uncertainty and hope, Rebecca Solnit's work is ever-inspirational: 
 
-> Hope is an embrace of the unknown and the unknowable, an alternative to the certainty of both optimists and pessimists. Optimists think it will all be fine without our involvement; pessimists adopt the opposite position; both excuse themselves from acting. It is the belief that what we do matters even though how and when it may matter, who and what it may impact, are not things we can know beforehand. We may not, in fact, know them afterwards either, but they matter all the same, and history is full of people whose influence was most powerful after they were gone.
+> “Hope is an embrace of the unknown and the unknowable, an alternative to the certainty of both optimists and pessimists. Optimists think it will all be fine without our involvement; pessimists adopt the opposite position; both excuse themselves from acting. It is the belief that what we do matters even though how and when it may matter, who and what it may impact, are not things we can know beforehand. We may not, in fact, know them afterwards either, but they matter all the same, and history is full of people whose influence was most powerful after they were gone.”
 
 – [Hope is an embrace of the unknown: Rebecca Solnit on living in dark times](https://www.theguardian.com/books/2016/jul/15/rebecca-solnit-hope-in-the-dark-new-essay-embrace-unknown)
 
 There's so much of this kind of thinking that is actually very within our control to shape, even if it might seem like it's not. The title of this blog post is taken from [Mariame Kaba's book, 'We Do This ’Til We Free Us'](https://www.thriftbooks.com/w/we-do-this-til-we-free-us-abolitionist-organizing-and-transforming-justice_mariame-kaba/28280159/), where she writes: 
 
 > “Hope is not optimism... The idea of hope being a discipline is something I heard from a nun many years ago who was talking about it in conjunction with making sure we were of the world and in the world. Living in the afterlife already in the present was kind of a form of escape, but that actually it was really, really important for us to live in the world and be of the world. The hope that she was talking about was this grounded hope that was practiced every day, that people actually practiced it all the time.
-
+>
 > And so, I bowed down to that. I heard that many years ago and then I felt the sense of, Oh my god. That speaks to me as a philosophy of living, that hope is a discipline and that we have to practice it every single day. **Because in the world which we live in, it’s easy to feel a sense of hopelessness, that everything is all bad all the time, that there is nothing going to change ever, that people are evil and bad at the bottom. It feels sometimes that it’s being proven in various, different ways, so I get that, so I really get that. I understand why people feel that way. I just choose differently. I choose to think a different way and I choose to act in a different way.** I choose to trust people until they prove themselves untrustworthy.”
 
 (Emphasis my own.) This idea of hope as a discipline, hope as a choice and as a practice – and ultimately, as a choice that some people have no choice but to have, because the alternative is unthinkable – has really stuck with me, especially with the trashfire of politics we have around us. 
