@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""We don't have time to wait" – on social media, activism, and community building"
+title: "“We don't have time to wait” – on social media, activism, and community building"
 date: '2022-11-11'
 category:
 - technology
