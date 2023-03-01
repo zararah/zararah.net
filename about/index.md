@@ -9,7 +9,7 @@ redirect_from: "/contact/"
 ### About Me
 
 <div class="float-left mr-5" style="max-width: 20rem">
-  <img src="{{ site.url }}/assets/static/2022-profile-pic.jpg" class="img-fluid"/>​
+  <img src="{{ site.url }}/assets/static/2023-profile-pic.jpeg" class="img-fluid"/>​
   <p>
     <small>
       Photo by <a href="https://www.brionyridley.com/">Briony Ridley</a>
