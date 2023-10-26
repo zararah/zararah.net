@@ -21,4 +21,6 @@ Machine Readable Me considers how and why data that is gathered about us is incr
 #### Buy it online
 
 If you're in the UK, buy directly [from the publishers](https://www.404ink.com/store/inklings-machine-readable-me) or [Bookshop.org](https://uk.bookshop.org/p/books/machine-readable-me-the-hidden-ways-tech-shapes-our-identities-zara-rahman/7449540?ean=9781912489824) to support independent bookshops. 
-If you're elsewhere: head to your local English-language bookshop and request it, or find it online in all the usual places. 
+
+If you're elsewhere: it's available [here as an ebook (epub, mobi and PDF)](https://www.404ink.com/store/machine-readable-me-ebook). Or for a hard copy, head to your local English-language bookshop and request it, or find it online in all the usual places. 
+
