@@ -24,3 +24,18 @@ If you're in the UK, buy directly [from the publishers](https://www.404ink.com/s
 
 If you're elsewhere: it's available [here as an ebook (epub, mobi and PDF)](https://www.404ink.com/store/machine-readable-me-ebook). Or for a hard copy, head to your local English-language bookshop and request it, or find it online in all the usual places. 
 
+#### What people are saying about it
+
+*"a timely, thoughtfully written, urgent book on the tensions between digital identity, state recognition and surveillance."* - [Xiaowei Wang](https://www.instagram.com/p/Cy6PrWNx-SK/), author of award-winning book  [Blockchain Chicken Farm: And Other Stories of Tech In China's Countryside](https://en.wikipedia.org/wiki/Blockchain_Chicken_Farm)
+
+*"Machine Readable Me offers a vision where we wield technology as a tool that serves us in the expression of our identities, without letting it confine us within its unyielding parameters."* – [Nishad Sanzagiri](https://infinityinklings.substack.com/p/infinity-inklings-13)
+
+#### Events and media coverage
+
+
+* Book presentation, Machine Readable Me, at Wikimedia Deutschland. March 21, 2024 - [Registration now open](https://www.wikimedia.de/veranstaltungen/buchprasentation-machine-readable-me/)
+* [Fleeing war? Need shelter? Personal data first, please](https://www.codastory.com/newsletters/conflict-refugees-data-surveillance/) in Authoritarian Tech (November 2023)
+* [Wer bricht die Macht der IT-Konzerne?](https://www.deutschlandfunkkultur.de/der-kampf-um-das-internet-dlf-kultur-43e3c393-100.html) – Deutschlandfunk Kultur, March 2024 (in German)
+* [Machine Readable Me Book Launch](https://www.facebook.com/events/1748426138943173?ref=newsfeed), at the Curious Fox in Berlin – in conversation with Anasuya Sengupta, November 2023. 
+
+
