@@ -37,7 +37,4 @@ I've been invited to speak at [a wide range of events](https://zararah.net/talks
 
 In the past, I've sat on the jury of the [Prototype Fund](https://prototypefund.de/), on the Program Committee for [re:publica](https://re-publica.com/de), and have been on the Steering Committee of [REAL ML](https://www.realml.org/), among other community-focused contributions. I'm an avid reader ([you can see what I'm reading here](https://app.thestorygraph.com/profile/zararah)), and I also enjoy hosting and moderating conversations, particularly [with authors](https://www.dichterlesen.net/veranstaltungen/veranstaltung/detail/the-art-of-writing-ii-chimamanda-ngozi-adichie-3016/).
 
-## contact
-
-Email me on mail[at]zararah.net 
 
